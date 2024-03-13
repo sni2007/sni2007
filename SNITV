@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" billed-msg="PLAYLIST INI PERCUMA,TIDAK UNTUK DIJUAL"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" billed-msg=""
 
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
