@@ -13,6 +13,43 @@
 
 ______________________________________________
 
+#EXTINF:-1 tvg-chno="201" tvg-id="Crackle" tvg-name="Crackle" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Crackle.png",Crackle
+#EXTGRP:Movies
+#EXTVLCOPT:network-caching=1000
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FlicksOfFury.png",Flicks of Fury
+#EXTGRP:Movies
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:-1 tvg-chno="206" tvg-id="ParamountPlus.Picks" tvg-name="ParamountPlus.Picks" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ParamountPlusPicks.png",Paramount+ Picks
+#EXTGRP:Movies
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+#EXTINF:-1 tvg-chno="207" tvg-id="GBAJ4900006TU" tvg-name="Action Movies - Rakuten TV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RakutenTV.png",Rakuten TV
+#EXTGRP:Movies
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-id="RedBox.Rush" tvg-name="RedBox.Rush" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Redbox.png",RedBox Rush
+#EXTGRP:Movies
+#EXTVLCOPT:network-caching=1000
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-id="RedBox.Spotlight" tvg-name="RedBox.Spotlight" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Redbox.png",RedBox Spotlight
+#EXTGRP:Movies
+#EXTVLCOPT:network-caching=1000
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-id="ShowtimeSelects" tvg-name="ShowtimeSelects" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ShowtimeSelects.png",Showtime Selects
+#EXTGRP:Movies
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-chno="210" tvg-id="SonyPix.in" tvg-name="SonyPix.in" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/SonyPix.png",Sony PIX
+#EXTGRP:Movies
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-chno="211" tvg-id="TheAsylum" tvg-name="TheAsylum" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TheAsylum.png",The Asylum
+#EXTGRP:Movies
+
+______________________________________________
+
 #EXTINF:-1 channel-id="pluto-656df599c0fc8800089c75ab" tvg-id="656df599c0fc8800089c75ab" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" tvg-chno="23" group-title="PlutoTV:Kids" , Avatar
 https://r.mjh.nz/PlutoTV/656df599c0fc8800089c75ab-alt.m3u8
 
