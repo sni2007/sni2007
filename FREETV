@@ -1790,19 +1790,25 @@ https://h1.intechmedia.net/intech/ch92.m3u8
 
 
 
-
-
-
 ###################### [SOOKA] ARENA/BOLA/SUPERSPORT ######################
 
 
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="" tvg-logo="https://telegra.ph/file/d47f44e52bf62ff435731.png" group-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" group-title="TV ARENA /BOLA/SUPERSPORT" tvg-id="AstroArena",Astro Arena (Backup)
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1703
-
-#EXTINF:-1 tvg-id="AstroArena2" tvg-name="" tvg-logo="https://telegra.ph/file/4dd8b7db6182cb5f48ce5.png" group-title="TV ARENA /BOLA/SUPERSPORT", Astro Arena 2 (Backup) 
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1696
 
 
+#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="[SPORT] ALL CHANNEL" ch-number="801" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/801.png", 801 Astro Arena 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEaGpPV1JsTkdJdE16STRaUzAwTVRZekxUbG1aV010TmpWaU56Y3paak5tWWprMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzQ1ODc5OSwiaWF0IjoxNjkyODU0Nzk5fQ.dOLWhB0fZoiA4ZT9a307tmjPgEZJxJVXHvCPTvYJ1oU"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena2 HD" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="[SPORT] ALL CHANNEL", 802 Astro Arena 2 OTT 2023
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
