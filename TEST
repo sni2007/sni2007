@@ -1,10 +1,352 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://i.mjh.nz/PlutoTV/all.xml.gz"
 
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg", LIVE | IPL 2024
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1715807567:KeyName=tsports-ed25519-01:Signature=fvafsdy_Ix3PuGjD3AWcrxiWtZO5gll_UHE49DG3zDOsIdAOZYbYX0edDqFBP7cKT4nTLWXPZwcJ2Or19dnODg"}
-https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1715506458-LIVE.jpg", T Sports Live
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1715807567:KeyName=tsports-ed25519-01:Signature=fvafsdy_Ix3PuGjD3AWcrxiWtZO5gll_UHE49DG3zDOsIdAOZYbYX0edDqFBP7cKT4nTLWXPZwcJ2Or19dnODg"}
-https://live-cdn.tsports.com/live-01/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HK_MOVIES",Douyu_Movies
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HK_MOVIES",Douyu_Movies_1
+http://epg.112114.xyz/douyu/4332
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HK_MOVIES",Douyu_Movies_2
+http://epg.112114.xyz/douyu/36337
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HK_MOVIES",Douyu_Movies_3
+http://epg.112114.xyz/douyu/2793084
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HK_MOVIES",Douyu_Movies_4
+http://epg.112114.xyz/douyu/6140589
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HK_MOVIES",Douyu_Movies_5
+http://epg.112114.xyz/douyu/252802
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="HK_MOVIES",Douyu_Movies_6
+http://epg.112114.xyz/douyu/4505431
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",?????1
+http://epg.112114.xyz/douyu/9358196
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",?????2
+http://epg.112114.xyz/douyu/6563725
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???
+http://epg.112114.xyz/douyu/648814
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????
+http://epg.112114.xyz/douyu/9374862
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",??1
+http://epg.112114.xyz/douyu/9067836
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",??2
+http://epg.112114.xyz/douyu/1486165
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???
+http://epg.112114.xyz/douyu/9817729
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???
+http://epg.112114.xyz/douyu/9817716
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????1
+http://epg.112114.xyz/douyu/8985415
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????2
+http://epg.112114.xyz/douyu/9650887
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????3
+http://epg.112114.xyz/douyu/36337
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????4
+http://epg.112114.xyz/douyu/96577
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????5
+http://epg.112114.xyz/douyu/6140589
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????6
+http://epg.112114.xyz/douyu/20415
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????7
+http://epg.112114.xyz/douyu/122402
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????8
+http://epg.112114.xyz/douyu/9292492
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????9
+http://epg.112114.xyz/douyu/2516864
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????10
+http://epg.112114.xyz/douyu/4332
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????11
+http://epg.112114.xyz/douyu/9651304
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????12
+http://epg.112114.xyz/douyu/8814650
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????13
+http://epg.112114.xyz/douyu/8945323
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????14
+http://epg.112114.xyz/douyu/252802
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",????15
+http://epg.112114.xyz/douyu/2436390
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",?????HD1
+http://epg.112114.xyz/douyu/2838296
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",?????HD2
+http://epg.112114.xyz/douyu/7489563
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",?????HD3
+http://epg.112114.xyz/douyu/6706214
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",?????HD4
+http://epg.112114.xyz/douyu/6566658
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???1
+http://43.128.40.42:198/????/huya.php?id=23749096
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???2
+http://43.128.40.42:198/????/huya.php?id=23735126
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???3
+http://43.128.40.42:198/????/huya.php?id=23865152
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???4
+http://43.128.40.42:198/????/huya.php?id=23903196
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???5
+http://43.128.40.42:198/????/huya.php?id=23740156
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???6
+http://43.128.40.42:198/????/huya.php?id=23728660
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???7
+http://43.128.40.42:198/????/huya.php?id=23735153
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???8
+http://43.128.40.42:198/????/huya.php?id=23865058
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???9
+http://43.128.40.42:198/????/huya.php?id=23734183
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???10
+http://43.128.40.42:198/????/huya.php?id=23749068
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???11
+http://43.128.40.42:198/????/huya.php?id=23865036
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???12
+http://43.128.40.42:198/????/huya.php?id=23740162
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???13
+http://43.128.40.42:198/????/huya.php?id=23829474
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???14
+http://43.128.40.42:198/????/huya.php?id=23863833
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???15
+http://43.128.40.42:198/????/huya.php?id=23903106
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???16
+http://43.128.40.42:198/????/huya.php?id=23865025
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???17
+http://43.128.40.42:198/????/huya.php?id=23728689
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???18
+http://43.128.40.42:198/????/huya.php?id=23824171
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???19
+http://43.128.40.42:198/????/huya.php?id=23860057
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???20
+http://43.128.40.42:198/????/huya.php?id=23865072
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???21
+http://43.128.40.42:198/????/huya.php?id=23734176
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???22
+http://43.128.40.42:198/????/huya.php?id=23728651
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???23
+http://43.128.40.42:198/????/huya.php?id=23734246
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???24
+http://43.128.40.42:198/????/huya.php?id=23865179
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???25
+http://43.128.40.42:198/????/huya.php?id=23734196
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???26
+http://43.128.40.42:198/????/huya.php?id=23734211
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???27
+http://43.128.40.42:198/????/huya.php?id=23865086
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???28
+http://43.128.40.42:198/????/huya.php?id=23863796
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???29
+http://43.128.40.42:198/????/huya.php?id=23863822
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???30
+http://43.128.40.42:198/????/huya.php?id=23749083
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???31
+http://43.128.40.42:198/????/huya.php?id=23734243
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???32
+http://43.128.40.42:198/????/huya.php?id=23864480
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???33
+http://43.128.40.42:198/????/huya.php?id=23746486
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???34
+http://43.128.40.42:198/????/huya.php?id=23860049
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???35
+http://43.128.40.42:198/????/huya.php?id=23749074
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???36
+http://43.128.40.42:198/????/huya.php?id=23863882
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???37
+http://43.128.40.42:198/????/huya.php?id=23863778
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???38
+http://43.128.40.42:198/????/huya.php?id=23824164
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???39
+http://43.128.40.42:198/????/huya.php?id=23829537
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???40
+http://43.128.40.42:198/????/huya.php?id=23863809
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???41
+http://43.128.40.42:198/????/huya.php?id=23865096
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???42
+http://43.128.40.42:198/????/huya.php?id=23863804
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???43
+http://43.128.40.42:198/????/huya.php?id=23728630
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???44
+http://43.128.40.42:198/????/huya.php?id=23863895
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???45
+http://43.128.40.42:198/????/huya.php?id=23863787
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???46
+http://43.128.40.42:198/????/huya.php?id=23728637
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???47
+http://43.128.40.42:198/????/huya.php?id=23865142
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???48
+http://43.128.40.42:198/????/huya.php?id=23903085
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???49
+http://43.128.40.42:198/????/huya.php?id=23903183
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???50
+http://43.128.40.42:198/????/huya.php?id=23728647
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???51
+http://43.128.40.42:198/????/huya.php?id=23746691
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???52
+http://43.128.40.42:198/????/huya.php?id=23829447
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???53
+http://43.128.40.42:198/????/huya.php?id=23728693
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???54
+http://43.128.40.42:198/????/huya.php?id=23903130
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???55
+http://43.128.40.42:198/????/huya.php?id=23734223
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???56
+http://43.128.40.42:198/????/huya.php?id=23734169
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???57
+http://43.128.40.42:198/????/huya.php?id=23865124
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???58
+http://43.128.40.42:198/????/huya.php?id=23865186
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???59
+http://43.128.40.42:198/????/huya.php?id=23902225
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???60
+http://43.128.40.42:198/????/huya.php?id=23903164
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???61
+http://43.128.40.42:198/????/huya.php?id=23728674
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",???62
+http://43.128.40.42:198/????/huya.php?id=23863818
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu8	
+http://epg.112114.xyz/douyu/4332
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu9	
+http://epg.112114.xyz/douyu/6140589
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu15	
+http://epg.112114.xyz/douyu/8770422
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu19	
+http://epg.112114.xyz/douyu/747764
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu20	
+http://epg.112114.xyz/douyu/52787
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu24
+http://epg.112114.xyz/douyu/36337
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu25
+http://epg.112114.xyz/douyu/8814650
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu28
+http://epg.112114.xyz/douyu/263824
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu44	
+http://epg.112114.xyz/douyu/323876
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu Andy Lau	
+http://epg.112114.xyz/douyu/2516864
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu Bro Yu
+http://epg.112114.xyz/douyu/413573
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu Lin Zheying	
+http://epg.112114.xyz/douyu/218859
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu Europe/US1
+http://epg.112114.xyz/douyu/20415
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu Europe/US2
+http://epg.112114.xyz/douyu/2793084
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu Europe/US3
+http://epg.112114.xyz/douyu/9249162
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu Cantonese2	
+http://epg.112114.xyz/douyu/6566671
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu Cantonese3
+http://epg.112114.xyz/douyu/1226741
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="HK_MOVIES",douyu Cinema
+http://epg.112114.xyz/douyu/252802
