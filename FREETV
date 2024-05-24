@@ -1,12 +1,118 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
+
+
+
+###################### TV MALAYSIA (Freeview) ######################
+
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 group-title="myFreeview" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+
+#EXTINF:-1 group-title="myFreeview" ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=150&appID=TONTON",Drama Sangat
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
+
+#EXTINF:-1 group-title="myFreeview" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",DidikTV KPM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0
+https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
+
+#EXTINF:-1 group-title="myFreeview" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+
+#EXTINF:-1 group-title="myFreeview" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
+
+#EXTINF:-1 group-title="myFreeview" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/esdfqp.png",TV Alhijrah
+https://live.mana2.my/TvAlhijrah/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 group-title="myFreeview" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png",Suke TV
+https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 group-title="myFreeview" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://www.bernama.com/en/img/bernama.png",Bernama
+https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+
+#EXTINF:-1 group-title="myFreeview" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/03/tvs-logo-reduced.png",TVS
+https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
+
+#EXTINF:-1 group-title="myFreeview" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
+https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
+https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg",Minnal FM
+https://28163.live.streamtheworld.com/MINNAL_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",Ai FM
+https://28153.live.streamtheworld.com/AI_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg",Radio Klasik
+https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.6ad70c17.jpg",Asyik FM
+https://28163.live.streamtheworld.com/ASYIK_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah.1c891dd7.jpg",Sabah FM
+https://22243.live.streamtheworld.com/SABAH_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg",Sabah VFM
+https://28163.live.streamtheworld.com/SABAH_VFMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sarawak.85bf48b9.jpg",Sarawak FM
+https://28163.live.streamtheworld.com/SARAWAK_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg",Wai FM
+https://28163.live.streamtheworld.com/WAI_FM_IBANAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="711" tvg-chno="711" tvg-logo="https://assets.radioactive.sg/org-bernama/283fd16b-9085-4526-90ad-fdcf2213b064-app_Bernama%28new%29_logo_W750xH750.png",Bernama Radio
+https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="721" tvg-chno="721" tvg-logo="https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01.jpg",Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="722" tvg-chno="722" tvg-logo="https://assets-mpa.kool101.audio/media/Logo/profile_photo_1000x1000-03.jpg",Kool 101
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="724" tvg-chno="723" tvg-logo="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://assets-mpa.8fm.audio/media/Logo/profile_photo_1000x1000-05.jpg",8FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg",Molek FM
+https://mediaprima.rastream.com/mediaprima-molekfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="726" tvg-chno="726" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",Manis FM
+https://n01.rcs.revma.com/nzgauqq1v7zuv
 
 
 
 
-###################### 1.TV MALAYSIA ######################
-
-
-
+###################### TV MALAYSIA ######################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -197,7 +303,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 
 
 
-###################### 1.TV ASTRO ######################
+###################### TV ASTRO ######################
 
 
 
@@ -1271,6 +1377,42 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 ###################### [SG] SINGAPORE ONLY ######################
 
 
+----------------------------------------------------------------------
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQZ2ZzUmw2TWpvYjlzRTc5dHA4eUhKU25uZklNejFpbEs1QnBqZDVjN0JZcUhDTG9RUktPMTJXeC16OHk4ZVIzc0o5ZTQxSEJBZTJGbUNOVDNOaUJScHozNmRZOVVVZlc0RzUyR19Fa29ldFpRbFkzRmdrSXVQVU4yQkFJbDBTb21oMEVBclB1TzFlUlM2TGlQSlRxb1p5Z3JsaDRSMDlmT2pfWXBFT0hLUFMwTkdNRG9oUnVUSFNta2gtQUZYaG5XVEd5d2VXUE1SSXFLczBEMU1Rb0Y0dmNGa2xfdXpHUXFpOTVoWkVzZU9kaV9fRmNlenhCOEJUNllheVVIWmVSUDBsSjZYd1JJREw0N1VZZV9NdzQtcDVKcXp0VzA0UnBYVzlORmt1eTNIcWNwaEtNY0dSZXd4dWZCd241QjIxMTQwRVJNc2JsTkdndGlQT2VwaUZjemM9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmUGdmc1JsNk1qb2I5c0U3OXRwOHlISlNubmZJTXoxaWxLNUJwamQ1YzdCWXFIQ0xvUVJLTzEyV3gtejh5OGVSM3NKOWU0MUhCQWUyRm1DTlQzTmlCUnB6MzZkWTlVVWZXNEc1MkdfRWtvZXRaUWxZM0Zna0l1UFVOMkJBSWwwU29taDBFQXJQdU8xZVJTNkxpUEpUcW9aeWdybGg0UjA5Zk9qX1lwRU9IS1BTME5HTURvaFJ1VEhTbWtoLUFGWGhuV1RHeXdlV1BNUklxS3MwRDFNUW9GNHZjRmtsX3V6R1FxaTk1aFpFc2VPZGlfX0ZjZXp4QjhCVDZZYXlVSFplUlAwbEo2WHdSSURMNDdVWWVfTXc0LXA1SnF6dFcwNFJwWFc5TkZrdXkzSHFjcGhLTWNHUmV3eHVmQnduNUIyMTE0MEVSTXNibE5HZ3RpUE9lcGlGY3pjPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=9mJQuWW5Mazq3ZggpNZTPfBOm5c%3d
+#EXTINF:-1 group-title="TV SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHRnlBd1FVTl8yMVVvWFQyaTgtaFhtRzByOHVIWmdwZTA5QlNTUXpKT3ZidjdRWXZRM1dKZFlLUUJKRmdWTzhlOXpRQ0dqRk15RENKOWhyUDVRSDJKSnhnQW5mVmY0V2FBTnRNUjBURlF2Z2gtMkdPMU1GLUFpNklQLS0zTXhGNkowTTFzclZ0YjJQXzk5REwzcnZEbjdxeWRmUWlyU3ZBSi02RWtZeXhHRlZKWEpkei0zWkg1dnozR2JhdzZjb3p3MjFEMzJlVm53NjNiS1g1YXplWi1Ka1h2R0QxSEtxeThYOFVkcWNfaGh6VGJQaVZQNHI4UllNS3ZCZ3hTbU9YbUUzSGdlLWhLdkUyOEpiUjZwM2VDcklONTBPR1k4MnJZZjBVRHB1VWpmTDFKWXdheDZ1THpUR0xsNWh0T0NUb1E9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkdGeUF3UVVOXzIxVW9YVDJpOC1oWG1HMHI4dUhaZ3BlMDlCU1NRekpPdmJ2N1FZdlEzV0pkWUtRQkpGZ1ZPOGU5elFDR2pGTXlEQ0o5aHJQNVFIMkpKeGdBbmZWZjRXYUFOdE1SMFRGUXZnaC0yR08xTUYtQWk2SVAtLTNNeEY2SjBNMXNyVnRiMlBfOTlETDNydkRuN3F5ZGZRaXJTdkFKLTZFa1l5eEdGVkpYSmR6LTNaSDV2ejNHYmF3NmNvencyMUQzMmVWbnc2M2JLWDVhemVaLUprWHZHRDFIS3F5OFg4VWRxY19oaHpUYlBpVlA0cjhSWU1LdkJneFNtT1htRTNIZ2UtaEt2RTI4SmJSNnAzZUNySU41ME9HWTgycllmMFVEcHVVamZMMUpZd2F4NnVMelRHTGw1aHRPQ1RvUT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=BRVXgwqO446vT6kOSu%2bVuDr27JQ%3d
+#EXTINF:-1 group-title="TV SINGAPORE" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLOUZxaWRZNkVaZDRRUVNTS3ZpOUl4a0NRV25FNlhzNF9McG9rSzJRSFBwM2tKOHpNQnRZbFJyVGpxWm5QbU5kdG5vTk03Y0FTSXlDZWlrRk5BaEU5bkRycHJOckNFUGhoY0hMRFY5eVdDdUNST054N3R5VElOdkNGWVBFS2lYeEVRemQ0WHRCUzdhcEVQX2hBRUpYY0oyTGNac1JUamZDTWhqa094Q3VJbkppQ192YmhlZE5KbFI0SWZzMWFlRldGczdrNGVEaWM5blJQdEIwa2M4aVFKMzBfV01CUzNVcWdxZnE0YXBlUU1KNGlwbjhtbExoX0QtQXdobU11VGFyUXI5TEFWSnJaTFh1VEVuS2JJcWlzS0V3YVNtM1pPM0RSMHhYY0dZelhhWmFPa0ZTdEhJTkFncjluT0k0ZFVpR1FYZVZNMnZFcmNJZmEyUmY5cXFRV1E9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSzlGcWlkWTZFWmQ0UVFTU0t2aTlJeGtDUVduRTZYczRfTHBva0syUUhQcDNrSjh6TUJ0WWxSclRqcVpuUG1OZHRub05NN2NBU0l5Q2Vpa0ZOQWhFOW5EcnByTnJDRVBoaGNITERWOXlXQ3VDUk9OeDd0eVRJTnZDRllQRUtpWHhFUXpkNFh0QlM3YXBFUF9oQUVKWGNKMkxjWnNSVGpmQ01oamtPeEN1SW5KaUNfdmJoZWROSmxSNElmczFhZUZXRnM3azRlRGljOW5SUHRCMGtjOGlRSjMwX1dNQlMzVXFncWZxNGFwZVFNSjRpcG44bWxMaF9ELUF3aG1NdVRhclFyOUxBVkpyWkxYdVRFbktiSXFpc0tFd2FTbTNaTzNEUjB4WGNHWXpYYVphT2tGU3RISU5BZ3I5bk9JNGRVaUdRWGVWTTJ2RXJjSWZhMlJmOXFxUVdRPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=ohbDNkB6Z9XFKbzmYC%2b5Z58t0D8%3d
+#EXTINF:-1 group-title="TV SINGAPORE" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJcEZnSWdKUkZ2WEtHQ0EwbHRBY1JudmFNOF83RnBCbW03eXNQT0hVejQybWhWQ011clN3MERnMWRFbU1haGVmdzF3VFJ1cE8wQzJXclhjczY2ZW12MWdDcTAyMl9iQm9aVDFCZlNXMFUySm9zS2pwbFVUZzd0cmJBRXdMa2dfcXN5X0ZVak1XUTlxcEVxa2JhMHVYUk9peWZiNkxtcnU3M3gzX1Nnd1VhZTRucjFkNXZWNGo4Tk9RVTVkMWhRNGVhQnlaWW9md3prYWszMVluQ2RnY1dVZ21wejkxZXQtR0RCM3Y5cGlqbVJyN0M3LTNFQ2pUZXF6WXZ3LUxyV2U0ZHlJZlhhUlBRWDdEelZuSHNsRWZSbHVENzFRWDJfQl9ONnhHMlRMb1Q4QXdMM1UzZEhabVBVeDhwTWgwLVBtbGtBZjliOGpraVctRGhVemhTS1JyQms9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE0OSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZklwRmdJZ0pSRnZYS0dDQTBsdEFjUm52YU04XzdGcEJtbTd5c1BPSFV6NDJtaFZDTXVyU3cwRGcxZEVtTWFoZWZ3MXdUUnVwTzBDMldyWGNzNjZlbXYxZ0NxMDIyX2JCb1pUMUJmU1cwVTJKb3NLanBsVVRnN3RyYkFFd0xrZ19xc3lfRlVqTVdROXFwRXFrYmEwdVhST2l5ZmI2TG1ydTczeDNfU2d3VWFlNG5yMWQ1dlY0ajhOT1FVNWQxaFE0ZWFCeVpZb2Z3emthazMxWW5DZGdjV1VnbXB6OTFldC1HREIzdjlwaWptUnI3QzctM0VDalRlcXpZdnctTHJXZTRkeUlmWGFSUFFYN0R6Vm5Ic2xFZlJsdUQ3MVFYMl9CX042eEcyVExvVDhBd0wzVTNkSFptUFV4OHBNaDAtUG1sa0FmOWI4amtpVy1EaFV6aFNLUnJCaz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=S19VMHydzMdw9diKJSVyXacuhmQ%3d
+#EXTINF:-1 group-title="TV SINGAPORE" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOVGxQOXZxZ0dZUkhCZ0Y2V3dzQXVjQjk4ZFhEbXJzM0ZrajJsdUtXd1cwbGQ5Ql90VWg0cGV0eVZhaTNuTjBhU2RNTGU4SVZSS0poWWpxemtpaWdnMEl4WXZ6TGRmbmd3bmo4N1RJMzM1UWJISDA2UDZ1ZW00ZndqazlyeHBUb0RjSFBXUnJndlVYWjN5MEVVamlnLWM2MV9PNFVuVEhaX2M1U0VvbWhlcGNua0thN0JpVDBMWGdRYXVlM2t5cVhQSURFd0lMdTF2cGR1bHc0VDNRRXplUmhrV2xDaUxrUnV6bmQ4YlFoWHFjZW5JbURENjhaM0dpd1RwWm5rZTl0VUFmR014UkJJN3V2LU9JQWl6MG9vaVpaeWttQXZ5SGFaTDNfQWlTNWFQNlYzbnZ1MTVQYmIwSDhfME5ZaEJsenh1TXNqZzJiMUJaSE4weGdmZXQ0cnNGbnl1Wmw1YTlhNVgzb2JNQkRSUmgmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk5UbFA5dnFnR1lSSEJnRjZXd3NBdWNCOThkWERtcnMzRmtqMmx1S1d3VzBsZDlCX3RVaDRwZXR5VmFpM25OMGFTZE1MZThJVlJLSmhZanF6a2lpZ2cwSXhZdnpMZGZuZ3duajg3VEkzMzVRYkhIMDZQNnVlbTRmd2prOXJ4cFRvRGNIUFdScmd2VVhaM3kwRVVqaWctYzYxX080VW5USFpfYzVTRW9taGVwY25rS2E3QmlUMExYZ1FhdWUza3lxWFBJREV3SUx1MXZwZHVsdzRUM1FFemVSaGtXbENpTGtSdXpuZDhiUWhYcWNlbkltREQ2OFozR2l3VHBabmtlOXRVQWZHTXhSQkk3dXYtT0lBaXowb29pWlp5a21BdnlIYVpMM19BaVM1YVA2VjNudnUxNVBiYjBIOF8wTlloQmx6eHVNc2pnMmIxQlpITjB4Z2ZldDRyc0ZueXVabDVhOWE1WDNvYk1CRFJSaCIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=crUQZ8uZ%2b12Y0N%2fKD1PD9r%2fgiuE%3d
+#EXTINF:-1 group-title="TV SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBUHpNWTZFbFpWeGw5MzV6aEU5RUN2TzY0QTNVdkNJbE1YSHZjMkt0bnJQTGtsZDBkLTVxNGF6REgweGxyX1A2cl80U3RqM2VfV0xxeXZ6MC1SUlRwVWlabnhQSnRId05GRmFTSTFFMEVlQ1FxaktvV3pJaTB6YmtoMlMxNk02T1NoN2RBZ3NYU19YeVcxblZHWlhjdUt6bGRQMGQ1ZE1xX0QtSTEzQkx3NUIxaEsyVXQ0ZHgtWjhHZDFlTGJVN1F3d29kVGFjVFd1b0RxUzh2dVMzYmZERVRwQzFsUXF6UjVBTzdzYWJtUWpYSTJPaGVjeWVrdnY3ZW84Mmt5d05uUjNtc1VwcWo3VDg5VmdXTVFqNGdoTjRWXzl2bVJQZ1gyTk44a0tTSXY4X1J2X29PWUxNX3M2cjlNZ2hfeVMzd2c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkFQek1ZNkVsWlZ4bDkzNXpoRTlFQ3ZPNjRBM1V2Q0lsTVhIdmMyS3RuclBMa2xkMGQtNXE0YXpESDB4bHJfUDZyXzRTdGozZV9XTHF5dnowLVJSVHBVaVpueFBKdEh3TkZGYVNJMUUwRWVDUXFqS29XeklpMHpia2gyUzE2TTZPU2g3ZEFnc1hTX1h5VzFuVkdaWGN1S3psZFAwZDVkTXFfRC1JMTNCTHc1QjFoSzJVdDRkeC1aOEdkMWVMYlU3UXd3b2RUYWNUV3VvRHFTOHZ1UzNiZkRFVHBDMWxRcXpSNUFPN3NhYm1RalhJMk9oZWN5ZWt2djdlbzgya3l3Tm5SM21zVXBxajdUODlWZ1dNUWo0Z2hONFZfOXZtUlBnWDJOTjhrS1NJdjhfUnZfb09ZTE1fczZyOU1naF95UzN3Zz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=fK6AXfXoZ3TIMv6nTC6zyO27gpc%3d
+#EXTINF:-1 group-title="TV SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+
+
+----------------------------------------------------------------------
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1337,6 +1479,9 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
 #EXTINF:-1 group-title="TV SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+
+
 
 
 
@@ -1488,6 +1633,12 @@ https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af2dc6a1c9754ec7b0ff0377da872153:7af660ca428760dfbe99e10047e0e2e4
 https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
+
+
+
+
+
+
 
 
 
@@ -2176,7 +2327,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 
 
 
-#######################TV SOOKA##################
+####################### TV SOOKA ##################
 
 
 
@@ -2231,7 +2382,7 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 
 
 
-################ INDIAN ###############
+################ TV INDIA ###############
 
 
 
@@ -2323,7 +2474,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
 
 
 
-################[MY] RADIO#################
+################ [MY] RADIO #################
 
 
 
@@ -2482,7 +2633,7 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
 
 
-###########################################KIDS#####################################################
+########################################### TV KIDS #####################################################
 
 
 
@@ -3004,3 +3155,9 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71148
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71149
 #EXTINF:-1 tvg-id="" tvg-name="MY019:Kix HD" tvg-logo="" group-title="Malaysia",MY019:Kix HD
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1716
+
+
+
+
+
+
