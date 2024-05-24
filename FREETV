@@ -7,7 +7,7 @@
 
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 group-title="TV MALAYSIA 2 2" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
+#EXTINF:-1 group-title="TV MALAYSIA 2" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 group-title="TV MALAYSIA 2" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
