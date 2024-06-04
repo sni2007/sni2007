@@ -1072,19 +1072,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 
 
-#EXTINF:-1  tvg-logo="https://www.deviantart.com/tv4malaysia/art/Astro-GO-Logo-952670627" group-title="[SPORT] ALL CHANNEL",MY:ASSP HD
+#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:Astro_Supersport_HD.png" group-title="[SPORT] ALL CHANNEL",MY:ASSP HD
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59220
 
-#EXTINF:-1  tvg-logo="https://www.deviantart.com/tv4malaysia/art/Astro-GO-Logo-952670627" group-title="[SPORT] ALL CHANNEL",MY:ASSP2 HD
+#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:Astro_Supersport_HD.png" group-title="[SPORT] ALL CHANNEL",MY:ASSP2 HD
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59219
 
-#EXTINF:-1  tvg-logo="https://www.deviantart.com/tv4malaysia/art/Astro-GO-Logo-952670627" group-title="[SPORT] ALL CHANNEL",MY:ASSP3 HD
+#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:Astro_Supersport_HD.png" group-title="[SPORT] ALL CHANNEL",MY:ASSP3 HD
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59218
 
-#EXTINF:-1  tvg-logo="https://www.deviantart.com/tv4malaysia/art/Astro-GO-Logo-952670627" group-title="[SPORT] ALL CHANNEL",MY:ASSP4 HD
+#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:Astro_Supersport_HD.png" group-title="[SPORT] ALL CHANNEL",MY:ASSP4 HD
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59217
 
-#EXTINF:-1  tvg-logo="https://www.deviantart.com/tv4malaysia/art/Astro-GO-Logo-952670627" group-title="[SPORT] ALL CHANNEL",MY:SuperSport 5
+#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:Astro_Supersport_HD.png" group-title="[SPORT] ALL CHANNEL",MY:SuperSport 5
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1713
 
 
