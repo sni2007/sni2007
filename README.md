@@ -19,3 +19,9 @@ https://github.com/search?q=assembly.mediatailor.ap-southeast-1.amazonaws.com&ty
 https://github.com/search?q=https%3A%2F%2Flinear08-playback.sooka.my%2FCH3%2FmasterCH3.mpd&type=code
 
 https://github.com/search?q=Astro+AOD+sooka&type=code
+
+https://nyanv-live-cdn.mncnow.id/live/
+
+https://testfunctionlive.mncnow.id/live
+
+https://cdnjkt4.transvision.co.id
