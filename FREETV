@@ -1183,6 +1183,50 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 ############################# SPORTS (ASTRO GO) ##############################
 
+#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/801.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-name="Astro Arena HD" group-title="🇲🇾 SPORTS (ASTRO GO)", 801 Astro Arena 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEaGpPV1JsTkdJdE16STRaUzAwTVRZekxUbG1aV010TmpWaU56Y3paak5tWWprMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzQ1ODc5OSwiaWF0IjoxNjkyODU0Nzk5fQ.dOLWhB0fZoiA4ZT9a307tmjPgEZJxJVXHvCPTvYJ1oU"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)", 802 Astro Arena 2 OTT 2024
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16aGhOVFZrTjJVdE1ETTBZeTAwTkRFMExXRmlOalF0WkRKall6TTNObVJqT0RJeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxODkzMjc4MSwiaWF0IjoxNzE4MzI4NzgxfQ.kZgWg8ggn_Mgue90ubUA8lCwc59gaedTbKhd76LODbw"}
+#EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA 2 HD
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e 
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16aGhOVFZrTjJVdE1ETTBZeTAwTkRFMExXRmlOalF0WkRKall6TTNObVJqT0RJeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxODkzMjc4MSwiaWF0IjoxNzE4MzI4NzgxfQ.kZgWg8ggn_Mgue90ubUA8lCwc59gaedTbKhd76LODbw"}
+#EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16aGhOVFZrTjJVdE1ETTBZeTAwTkRFMExXRmlOalF0WkRKall6TTNObVJqT0RJeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxODkzMjc4MSwiaWF0IjoxNzE4MzI4NzgxfQ.kZgWg8ggn_Mgue90ubUA8lCwc59gaedTbKhd76LODbw"}
+#EXTINF:-1 tvg-id="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA 2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ca4f5ff4e4694d54bdfdc9bd34384290": "1100fe297146f7d024b59944f09e6d1a"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16aGhOVFZrTjJVdE1ETTBZeTAwTkRFMExXRmlOalF0WkRKall6TTNObVJqT0RJeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxODkzMjc4MSwiaWF0IjoxNzE4MzI4NzgxfQ.kZgWg8ggn_Mgue90ubUA8lCwc59gaedTbKhd76LODbw"}
+#EXTINF:-1 tvg-id="805" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/f/f2/Astro_Arena_Bola_3_Logo_%282023%29.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA 3
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cb9e74464744126a406b04bb92070bf:8a6b59d0bf43e1265fceefe321840061
+#EXTINF:-1 tvg-id="806" tvg-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA 4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16aGhOVFZrTjJVdE1ETTBZeTAwTkRFMExXRmlOalF0WkRKall6TTNObVJqT0RJeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxODkzMjc4MSwiaWF0IjoxNzE4MzI4NzgxfQ.kZgWg8ggn_Mgue90ubUA8lCwc59gaedTbKhd76LODbw"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1219,40 +1263,6 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
 #EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",W-Sport
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16aGhOVFZrTjJVdE1ETTBZeTAwTkRFMExXRmlOalF0WkRKall6TTNObVJqT0RJeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxODkzMjc4MSwiaWF0IjoxNzE4MzI4NzgxfQ.kZgWg8ggn_Mgue90ubUA8lCwc59gaedTbKhd76LODbw"}
-#EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA 2 HD
-https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
-
-#EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA 2 (astro go)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16aGhOVFZrTjJVdE1ETTBZeTAwTkRFMExXRmlOalF0WkRKall6TTNObVJqT0RJeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxODkzMjc4MSwiaWF0IjoxNzE4MzI4NzgxfQ.kZgWg8ggn_Mgue90ubUA8lCwc59gaedTbKhd76LODbw"}
-#EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16aGhOVFZrTjJVdE1ETTBZeTAwTkRFMExXRmlOalF0WkRKall6TTNObVJqT0RJeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxODkzMjc4MSwiaWF0IjoxNzE4MzI4NzgxfQ.kZgWg8ggn_Mgue90ubUA8lCwc59gaedTbKhd76LODbw"}
-#EXTINF:-1 tvg-id="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA 2
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ca4f5ff4e4694d54bdfdc9bd34384290": "1100fe297146f7d024b59944f09e6d1a"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16aGhOVFZrTjJVdE1ETTBZeTAwTkRFMExXRmlOalF0WkRKall6TTNObVJqT0RJeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxODkzMjc4MSwiaWF0IjoxNzE4MzI4NzgxfQ.kZgWg8ggn_Mgue90ubUA8lCwc59gaedTbKhd76LODbw"}
-#EXTINF:-1 tvg-id="805" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/f/f2/Astro_Arena_Bola_3_Logo_%282023%29.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA 3
-https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cb9e74464744126a406b04bb92070bf:8a6b59d0bf43e1265fceefe321840061
-#EXTINF:-1 tvg-id="806" tvg-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA 4
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
@@ -4067,12 +4077,4 @@ https://28163.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="711" tvg-chno="711" tvg-logo="https://assets.radioactive.sg/org-bernama/283fd16b-9085-4526-90ad-fdcf2213b064-app_Bernama%28new%29_logo_W750xH750.png",Bernama Radio
 https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
-
-
-
-
-
-
-
-
 
