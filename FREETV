@@ -1733,10 +1733,6 @@ https://live1.presstv.ir/live/ifilmen.m3u8
 
 
 
-
-
-
-
 ################# DOUYU MOVIE #####################
 
 #EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",DOUYU 1
@@ -1769,6 +1765,228 @@ http://epg.112114.xyz/douyu/252802
 
 
 
+
+
+
+################# MOVIES COLLECTION #####################
+
+#EXTINF:-1  tvg-logo="https://starfriday.wordpress.com/wp-content/uploads/2015/06/paul-rudd-as-antman.jpg" group-title="24/7 MOVIES",ANTMAN MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448708&extension=ts&play_token=5YrFyiX2GN
+
+#EXTINF:-1  tvg-logo="https://wallpapers.com/images/high/captain-america-marvel-iphone-x-yr9yiw9ub2nve76o.webp" group-title="24/7 MOVIES",CAPTAIN AMERICA MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448710&extension=ts&play_token=afAuHlIORC
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",DOCTOR STRANGER MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448711&extension=ts&play_token=FXkKXI95lz
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",GUARDIAN OF THE GALAXY MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448712&extension=ts&play_token=g82aNClf6u
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",IRON MAN MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448713&extension=ts&play_token=dYjKuaxQnO
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",AVENGERS MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448720&extension=ts&play_token=YTMJL9Vydv
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",THOR MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448723&extension=ts&play_token=SEuY3N9SJ8
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Bruce Lee Movies
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559547&extension=ts&play_token=m736SlMQeb
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Jason Bourne 
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559544&extension=ts&play_token=m736SlMQeb
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",James bond
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559542&extension=ts&play_token=m736SlMQeb
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Tom Hardy
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1187717&extension=ts&play_token=2bpH5DZUci
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Jason Statham
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1180209&extension=ts&play_token=2bpH5DZUci
+
+#EXTINF:-1  tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/07/Superman-Movies-in-Order.jpg" group-title="24/7 MOVIES",SUPERMAN MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=978702&extension=ts&play_token=WnFpnbvLJu
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Twilight
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976606&extension=ts&play_token=j9V07B7yBi
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Transformer
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976605&extension=ts&play_token=Pd7lrSO9ks
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Transporter
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976608&extension=ts&play_token=2gsi8b8UB4
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",The Hobbit
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976604&extension=ts&play_token=qlXZLw5jpR
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Mission Impossible
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976598&extension=ts&play_token=FqMyAsf10Z
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Jumanji
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976596&extension=ts&play_token=PAB54cBIzW
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Scorpion
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976567&extension=ts&play_token=wGKpAyiUMI
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Jim Carrey
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559545&extension=ts&play_token=PvzoroNDzX
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Rambo
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559546&extension=ts&play_token=EFdYJav31d
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Steven Seagel
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=478620&extension=ts&play_token=py1pSm73iu
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Arnold Schwarzenegger
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=478577&extension=ts&play_token=otgMbH7DcO
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Mr Bean
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559543&extension=ts&play_token=L27JpEGtWU
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Rocky
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559578&extension=ts&play_token=7ZCe5eogXP
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Aliens Movies
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559576&extension=ts&play_token=8R7aaNvnG2
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Pirates Of The Carribean
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559574&extension=ts&play_token=qEkbTfCxCq
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",English Movies
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559573&extension=ts&play_token=f3Fz1tFAlc
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Lord Of The Ring
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559570&extension=ts&play_token=WMvZluuqQx
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Friday Elm The Street(Jason)
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559569&extension=ts&play_token=D8Aj5Yvyp4
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Harry Potter
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559565&extension=ts&play_token=FIvSOAj0AB
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Blade Movie
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559562&extension=ts&play_token=nSTYPOY5jW
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Batman Movies
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=478579&extension=ts&play_token=S43vSxseOQ
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Home Alone Movies
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433541&extension=ts&play_token=fSWOYHWLCs
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",SHREK MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433536&extension=ts&play_token=S8OXcwAiaX
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",MADAGASCAR MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433537&extension=ts&play_token=RHylf5FBcr
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",How to Train Your Dragon 
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433540&extension=ts&play_token=fYJHneLj9N
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",ICE AGE MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433539&extension=ts&play_token=VraFJ6WSdM
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",Kungfu panda Movies
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433538&extension=ts&play_token=djbA4WS9zi
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",X-MEN MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433495&extension=ts&play_token=87pFguob5B
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",WRONG TURN MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433496&extension=ts&play_token=5K8YH3FIe7
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",UNDER WORLD MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433497&extension=ts&play_token=hMrqextirm
+
+#EXTINF:-1  tvg-logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/04/terminator-movies-order.jpg" group-title="24/7 MOVIES",TERMINATOR MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433498&extension=ts&play_token=IEC5rhzBOL
+
+#EXTINF:-1  tvg-logo="https://greenhouse.hulu.com/app/uploads/sites/11/MazeRunner_Hulu_600x338_cp.jpg" group-title="24/7 MOVIES",THE MAZE RUNNER MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433499&extension=ts&play_token=thFk5S0r67
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",LETHAL WEAPON MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433500&extension=ts&play_token=zdNAY0PlLw
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",JOHN WICK MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433501&extension=ts&play_token=fRLoha4qmM
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",T HUNGER GAME MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433502&extension=ts&play_token=pZC4YPpEJw
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",FAST & FURIOUS MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433505&extension=ts&play_token=j02ctaiHv9
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",THE EXPENDABLE MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433506&extension=ts&play_token=W5qpMO44JN
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",STAR TREK MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433510&extension=ts&play_token=enihFRLC24
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",STAR WARS MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433509&extension=ts&play_token=FSbyQnKGh0
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",SPIDERMAN MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433512&extension=ts&play_token=f7HQd0k3dm
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",SCREAM MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433513&extension=ts&play_token=gExGNv1ykr
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",SCARY MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433514&extension=ts&play_token=XJWUeklCRa
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",SAW X MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433515&extension=ts&play_token=9P3Qeg6IdH
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",RUSH HOUR MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433516&extension=ts&play_token=c0iPSvto7c
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",RESIDENT EVIL MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433517&extension=ts&play_token=BMHUL2nsdM
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",PLANET OF THE APES MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433518&extension=ts&play_token=RHL7CxOcbd
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",MORTAL KOMBAT MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433521&extension=ts&play_token=4ANrZrsHMK
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",MEN IN BLACK MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433522&extension=ts&play_token=vytHQW26aH
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",JCVD MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433526&extension=ts&play_token=epcAZwgEJn
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",MATRIX MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433523&extension=ts&play_token=uQoPnXEzvD
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",TOMB HARDY MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433524&extension=ts&play_token=qhLfA3AiyN
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",JURASSIC PARK MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433525&extension=ts&play_token=LWNTAIX7iP
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",INDIANA JONES MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433528&extension=ts&play_token=9f0NzyiCB9
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",INSIDIOUS MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433527&extension=ts&play_token=RElGeNDNhh
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",GHOST BUSTER MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433529&extension=ts&play_token=41k1c0sBGj
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",CHUCKY MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433531&extension=ts&play_token=QK9GcXLqyG
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",CHARLIE ANGEL MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433532&extension=ts&play_token=F39m2vqQl6
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",ANABELLE MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448707&extension=ts&play_token=NxoZkHOLIr
+
+#EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",THE PURGE MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448721&extension=ts&play_token=G1aCM6mPx4
+
+################# MOVIES COLLECTION #####################
 
 
 
