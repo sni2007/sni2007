@@ -1446,9 +1446,6 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium351/index.m3u8
 
-#EXTINF:-1 group-title="⚽ LIVE EURO CUP 2024" tvg-id="" tvg-logo="https://m.samibazaar.com/wp-content/uploads/2024/06/euro-cup-2024.jpg",TV MAX
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-
 #EXTINF:-1 group-title="⚽ LIVE EURO CUP 2024" tvg-id="" tvg-logo="https://m.samibazaar.com/wp-content/uploads/2024/06/euro-cup-2024.jpg",SUPER EURO
 http://145.239.5.177:8080/566/index.m3u8
 
@@ -1469,6 +1466,9 @@ https://webtvstream.bhtelecom.ba/hrt2.m3u8
 
 
 ----------------- COPA AMERICA CUP 2024 --------------------
+
+#EXTINF:-1 group-title="⚽ Live Copa America 2024" tvg-id="" tvg-logo="https://m.samibazaar.com/wp-content/uploads/2024/06/euro-cup-2024.jpg",TV MAX
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1 group-title="⚽ Live Copa America 2024" tvg-id="" tvg-logo="https://m.samibazaar.com/wp-content/uploads/2024/06/Copa-America.png",V SPORT1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
