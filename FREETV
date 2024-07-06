@@ -874,8 +874,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 
 ################### ASTRO MALAYSIA 2#####################
------------ASTRO MOVIES ----------
 
+-----------ASTRO MOVIES ----------
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -942,7 +942,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
 
 ---------- ASTRO - DOCUMENTARY ----------------------
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -980,7 +979,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
 
 ------------------ ASTRO - KIDS ----------------------
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1038,7 +1036,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 
 ------------------- ASTRO - VARIETY ---------------------
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1249,11 +1246,6 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59217
 #EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ASTRO SPORTS",W-Sport (backup)
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1713
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="805" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 ASTRO SPORTS" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
@@ -1262,15 +1254,7 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1713
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
 
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
-#EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 ASTRO SPORTS",W-Sport
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
-
+------------------ BeINSPORTS -----------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTINF:-1 tvg-id="818" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 ASTRO SPORTS",beIN Sports HD
@@ -1286,6 +1270,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 #EXTINF:-1 tvg-id="819" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 ASTRO SPORTS",beIN Sports 3 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
+
+------------ SPORTS-OTHERS -----------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
 #EXTINF:-1 tvg-id="820" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 ASTRO SPORTS",Eurosport HD
