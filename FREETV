@@ -1448,8 +1448,8 @@ https://web.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.t
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
 #EXTINF:-1 tvg-id="128" ch-number="128" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/UnifiTV2022.png" group-title="TV UNIFI",Dunia Sinema 
 ;https://web.hypp.tv:443/PLTV/88888888/224/3221227631/3221227631.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBfAH%2FCWEDunMQVe6YshALinfnmyyHv6TdW8i3wLoB6o0Phdz7CX0by8vyHCDPc%2FL7fHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240620054758%3AUTC%2C1005926113%2C118.100.197.192%2C20240620054758%2Curn:Huawei:liveTV:XTV100001461%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwWrDMBBE_0ZHYRk3Ug46pRQCwQnE7bVMVyvFWLYSyQn07xu37nVm3vDmDOL9qwWToWbDSsM1fltBG-O9UkTebcl4UfjWJlsLQoz9FNrkFuzjvPtUlaxkXSupRbe8vUWEddjexy_OVv1TZ86Pnti64uUDRSKEzAFznyZ5ivh-z3GdCO5WM6WVMdpsGtNUL2Je0g5leDbigrJL4xWZ3SGFX8B6xMLiChoQuMXIdrrH-Mcds3va_ACq_XCS8wAAAA&tenantId=6001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
