@@ -31,3 +31,5 @@ https://nyanv-live-cdn.mncnow.id/live/
 https://testfunctionlive.mncnow.id/live
 
 https://cdnjkt4.transvision.co.id
+
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/
