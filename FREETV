@@ -4,10 +4,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" billed-msg=""
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" 
 
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" refresh="1440" max-conn="1" refresh="24"
+;#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
+;#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"refresh="1440" max-conn="1" refresh="24"
+;#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
+;#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" refresh="1440" max-conn="1" refresh="24"
 
 ;#EXTM3U x-tvg-url"https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
@@ -1454,10 +1454,7 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1713
 #KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
-#EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS",W-Sport (BACKUP)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+
 
 
 ---------LIVE EVENT------------
