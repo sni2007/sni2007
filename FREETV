@@ -56,6 +56,30 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5153/default.mpd
 #EXTINF:-1 group-logo="https://i.ibb.co/vv9gX3K/Olimpik.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" tvg-id="784.astro",Astro OLY 5
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5154/default_primary.mpd
 
+
+
+#EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" tvg-id="784.astro",SUKAN RTM
+RTM Sports HD,https://live01.gohkh9.eu.org/live.php?id=SUKAN RTM
+$c_startRTM Olympic$c_end
+
+#EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png" tvg-id="784.astro",RTM CH1
+Olympic 1,https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
+
+#EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png" tvg-id="784.astro",RTM CH2
+Olympic 2,https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=11
+
+#EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png" tvg-id="784.astro",RTM CH3
+Olympic 3,https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=11
+
+#EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png" tvg-id="784.astro",RTM CH4
+Olympic 4,https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=11
+
+#EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png" tvg-id="784.astro",RTM CH5
+Olympic 5,https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=11
+
+#EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-6.png" tvg-id="784.astro",RTM CH6
+Olympic 6,https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+
 ----------------------OLYMPIC PARIS 2024-----------------------
 
 
