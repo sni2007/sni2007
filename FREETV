@@ -17,6 +17,7 @@
 ----------------------OLYMPIC PARIS 2024-----------------------
 
 -----ASTRO----------
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -57,6 +58,28 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5153/default.mpd
 #EXTINF:-1 group-logo="https://i.ibb.co/vv9gX3K/Olimpik.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" tvg-id="784.astro",Astro OLY 5
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5154/default_primary.mpd
 
+#EXTINF:-1,group-logo="https://iili.io/dx8UOYP.png" tvg-id="785.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024",Astro OLY 6
+http://cdn.1678520.xyz/xsj.php?id=astro-oly6
+#EXTINF:-1,group-logo="https://iili.io/dx8UOYP.png" tvg-id="786.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024",Astro OLY 7
+http://cdn.1678520.xyz/xsj.php?id=astro-oly7
+#EXTINF:-1,group-logo="https://iili.io/dx8UOYP.png" tvg-id="787.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024",Astro OLY 8
+http://cdn.1678520.xyz/xsj.php?id=astro-oly8
+#EXTINF:-1,group-logo="https://iili.io/dx8UOYP.png" tvg-id="788.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024",Astro OLY 9
+http://cdn.1678520.xyz/xsj.php?id=astro-oly9
+#EXTINF:-1,group-logo="https://iili.io/dx8UOYP.png" tvg-id="789.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024",Astro OLY 10
+http://cdn.1678520.xyz/xsj.php?id=astro-oly10
+#EXTINF:-1,group-logo="https://iili.io/dx8UOYP.png" tvg-id="790.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024",Astro OLY 11
+http://cdn.1678520.xyz/xsj.php?id=astro-oly11
+#EXTINF:-1,group-logo="https://iili.io/dx8UOYP.png" tvg-id="791.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024",Astro OLY 12
+http://cdn.1678520.xyz/xsj.php?id=astro-oly12
+#EXTINF:-1,group-logo="https://iili.io/dx8UOYP.png" tvg-id="792.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024",Astro OLY 13
+http://cdn.1678520.xyz/xsj.php?id=astro-oly13
+#EXTINF:-1,group-logo="https://iili.io/dx8UOYP.png" tvg-id="793.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024",Astro OLY 14
+http://cdn.1678520.xyz/xsj.php?id=astro-oly14
+#EXTINF:-1,group-logo="https://iili.io/dx8UOYP.png" tvg-id="794.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024",Astro OLY 15
+http://cdn.1678520.xyz/xsj.php?id=astro-oly15
+#EXTINF:-1,group-logo="https://iili.io/dx8UOYP.png" tvg-id="795.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024",Astro OLY 16
+http://cdn.1678520.xyz/xsj.php?id=astro-oly16
 
 
 -----RTMKLIK-----
