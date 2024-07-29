@@ -16,6 +16,7 @@
 
 ----------------------OLYMPIC PARIS 2024-----------------------
 
+-----ASTRO----------
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -58,10 +59,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5154/default_primary.m
 
 
 
-#EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" tvg-id="784.astro",SUKAN RTM
-https://live01.gohkh9.eu.org/live.php?id=SUKAN RTM
-$c_startRTM Olympic$c_end
-
+-----RTMKLIK-----
 #EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png" tvg-id="",RTM CH1
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
 
@@ -81,7 +79,7 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
 
-
+-----MEWATCH SINGAPORE---------
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live1.png", MeWatch Paris Live 1
 http://p2.cvtv.xyz:82/olym1?token=live
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live2.png", MeWatch Paris Live 2
