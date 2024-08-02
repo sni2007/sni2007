@@ -151,7 +151,7 @@ http://p2.cvtv.xyz:82/olym17?token=live
 
 
 
-###################### FREEVIEW ######################
+###################### Freeview MYTV ######################
 
 #EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://AqFad2811.github.io/epg/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
