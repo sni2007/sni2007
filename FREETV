@@ -382,24 +382,24 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 Melayu------------------
 
-#EXTINF:-1 tvg-id="" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 
+#EXTINF:-1 tvg-id="" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" } 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 
+#EXTINF:-1 tvg-id="" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (B)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F/ut5qlPUnGmp8VjdL9tjg", "kid":"UmLL6+rWT0KqgxfjyxMQbA" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH3/masterCH3.mpd
 
-#EXTINF:-1 tvg-id="" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 
+#EXTINF:-1 tvg-id="" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" } 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
+#EXTINF:-1 tvg-id="" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 (B)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
