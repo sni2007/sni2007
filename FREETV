@@ -929,15 +929,6 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="MOVIE CHANNEL",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIE CHANNEL",Moviesphere Free
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png" group-title="MOVIE CHANNEL",Family Flix
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DkgjeAg.png" group-title="MOVIE CHANNEL",iFilm English
-https://live1.presstv.ir/live/ifilmen.m3u8
-
 
 
 
