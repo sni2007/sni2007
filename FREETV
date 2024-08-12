@@ -1058,7 +1058,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 ################## MOVIE CHANNEL #####################
 
-#EXTINF:-1 group-logo="https://www.imghippo.com/i/Lrzcp1723275115.jpg"
+#EXTINF:-1 group-logo="https://www.imghippo.com/i/jWfVy1723457149.png"
 
 #EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="MOVIE CHANNEL" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",SIAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
