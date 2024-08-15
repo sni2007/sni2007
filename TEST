@@ -2,17 +2,20 @@
 
 #EXTM3U: refresh="301" billed-msg="📺 JandaTV - lic" url-tvg="https://tv.jnda.tech/epg"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+;#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGYWW_Potrait_IVP_PORT_750x1126_2024324_12118.jpg" group-title="VOD MELAYU" type="series",Travelawak: Projek Bapak Bapak S2 2023 E07
 https://tv.jnda.tech/lic/1l51u5u/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+;#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_71A9F_2024313_16289.jpg" group-title="VOD MELAYU" type="series",Mystic Village 2023 E03
 https://tv.jnda.tech/lic/1hm4soz/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+;#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
 #EXTINF:-1 tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6510020:377:STILL:PORTRAIT" group-title="VOD MELAYU" type="series",Khilaf Yang Tertulis 2024 E09
 https://tv.jnda.tech/lic/sqewox/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
 #EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_71A9F_2024313_16289.jpg" group-title="VOD MELAYU",Mystic Village 2023 E09
