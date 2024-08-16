@@ -4087,6 +4087,15 @@ https://tv.jnda.tech/hxr/1nmruy9/l.mpd
 #EXTVLCOPT:http-referrer="https://watch.tonton.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://watch.tonton.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://watch.tonton.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/epcx27/l.m3u8
+
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="201.astro" tvg-name="201 VAANAVIL HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" group-title="astro" ch-number="201",201 VAANAVIL HD
@@ -4179,6 +4188,11 @@ https://tv.jnda.tech/hxr/1uk390b/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/l7xtnr/l.mpd
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="300 iQIYI HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-title="astro" ch-number="300" tvg-id="300.astro",300 iQIYI HD
@@ -4282,6 +4296,13 @@ https://tv.jnda.tech/hxr/zc84i9/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/14gedid/l.mpd
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="392 KBSW HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="astro" ch-number="392" tvg-id="392.astro",392 KBSW HD
@@ -4310,6 +4331,14 @@ https://tv.jnda.tech/hxr/74vw1d/l.mpd
 #EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/ppc9z9/l.mpd
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 ch-number="401" tvg-id="401.astro" tvg-name="401 HITS MOVIES HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png" group-title="astro",401 HITS MOVIES HD
@@ -4366,6 +4395,14 @@ https://tv.jnda.tech/hxr/1j0khab/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/wyknym/l.mpd
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="astro" ch-number="501" tvg-id="501.astro" tvg-name="501 AWANI HD",501 AWANI HD
@@ -4457,6 +4494,13 @@ https://tv.jnda.tech/hxr/1eidral/l.mpd
 #EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/1fb73tw/l.mpd
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 ch-number="550" tvg-id="550.astro" tvg-name="550 Love Nature" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" group-title="astro",550 Love Nature
@@ -4506,6 +4550,12 @@ https://tv.jnda.tech/hxr/mf5ao3/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/1blgc0q/l.mpd
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 ch-number="603" tvg-id="603.astro" tvg-name="603 TUTOR TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TutorTV.png" group-title="astro",603 TUTOR TV
@@ -4520,6 +4570,13 @@ https://tv.jnda.tech/hxr/1531l37/l.mpd
 #EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/1xs89hq/l.mpd
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="612.astro" tvg-name="612 DreamWorks" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png" group-title="astro" ch-number="612",612 DreamWorks
@@ -4562,6 +4619,17 @@ https://tv.jnda.tech/hxr/cd1mgd/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/1g0xp00/l.mpd
+
+
+
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="701 AXN HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="astro" ch-number="701" tvg-id="701.astro",701 AXN HD
@@ -4653,6 +4721,14 @@ https://tv.jnda.tech/hxr/15tfvdx/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/16zjstb/l.mpd
+
+
+
+
+
+
+-----------------SPORTS----------------------
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="795 ASSP ADHOC HD  " tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="astro" ch-number="795" tvg-id="795.astro",795 ASSP ADHOC HD  
@@ -4660,6 +4736,7 @@ https://tv.jnda.tech/hxr/16zjstb/l.mpd
 #EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/3q6stz/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="801.astro" tvg-name="801 ARENA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="astro" ch-number="801",801 ARENA HD
@@ -4667,6 +4744,7 @@ https://tv.jnda.tech/hxr/3q6stz/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/rd3v2k/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="802 ARENA 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="astro" ch-number="802" tvg-id="802.astro",802 ARENA 2 HD
@@ -4674,14 +4752,17 @@ https://tv.jnda.tech/hxr/rd3v2k/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/13h2yzd/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="803 ARENA BOLA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="astro" ch-number="803" tvg-id="803.astro",803 ARENA BOLA
 https://tv.jnda.tech/hxr/1behlxs/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="804 ARENA BOLA 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" group-title="astro" ch-number="804" tvg-id="804.astro",804 ARENA BOLA 2
 https://tv.jnda.tech/hxr/19qcp6p/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="810 SPOTV2 " tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-title="astro" ch-number="810" tvg-id="810.astro",810 SPOTV2 
@@ -4689,22 +4770,27 @@ https://tv.jnda.tech/hxr/19qcp6p/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/9owi3t/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="811 ASSP HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="astro" ch-number="811" tvg-id="811.astro",811 ASSP HD
 https://tv.jnda.tech/hxr/aqvkph/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 group-title="astro" ch-number="812" tvg-id="812.astro" tvg-name="812 ASSP2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",812 ASSP2 HD
 https://tv.jnda.tech/hxr/18u4wnk/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="astro" ch-number="813" tvg-id="813.astro" tvg-name="813 ASSP3 HD",813 ASSP3 HD
 https://tv.jnda.tech/hxr/1tari6m/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="814.astro" tvg-name="814 ASSP4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="astro" ch-number="814",814 ASSP4 HD
 https://tv.jnda.tech/hxr/eqa1qk/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 group-title="astro" ch-number="815" tvg-id="815.astro" tvg-name="815 W-Sport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/W-Sport.png",815 W-Sport
@@ -4712,6 +4798,7 @@ https://tv.jnda.tech/hxr/eqa1qk/l.mpd
 #EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/uch56/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="816 SPOTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="astro" ch-number="816" tvg-id="816.astro",816 SPOTV
@@ -4719,6 +4806,7 @@ https://tv.jnda.tech/hxr/uch56/l.mpd
 #EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/1xc4ox/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 ch-number="817" tvg-id="817.astro" tvg-name="817  beIN SPORTS 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="astro",817  beIN SPORTS 2
@@ -4726,6 +4814,7 @@ https://tv.jnda.tech/hxr/1xc4ox/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/qjebiz/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 ch-number="818" tvg-id="818.astro" tvg-name="818 beIN SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="astro",818 beIN SPORTS
@@ -4733,6 +4822,7 @@ https://tv.jnda.tech/hxr/qjebiz/l.mpd
 #EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/3imtwm/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 ch-number="819" tvg-id="819.astro" tvg-name="819 bEIN SPORTS 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="astro",819 bEIN SPORTS 3
@@ -4740,6 +4830,7 @@ https://tv.jnda.tech/hxr/3imtwm/l.mpd
 #EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/1hc9xi2/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="820 EUROSPORT HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-title="astro" ch-number="820" tvg-id="820.astro",820 EUROSPORT HD
@@ -4747,6 +4838,7 @@ https://tv.jnda.tech/hxr/1hc9xi2/l.mpd
 #EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/wgr4un/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 group-title="astro" ch-number="821" tvg-id="821.astro" tvg-name="821 WWE NETWORK" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png",821 WWE NETWORK
@@ -4754,6 +4846,7 @@ https://tv.jnda.tech/hxr/wgr4un/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/17hc3fe/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="822 GOLF CHANNEL HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="astro" ch-number="822" tvg-id="822.astro",822 GOLF CHANNEL HD
@@ -4761,6 +4854,7 @@ https://tv.jnda.tech/hxr/17hc3fe/l.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/nl3s9r/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="823.astro" tvg-name="823 Premier Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="astro" ch-number="823",823 Premier Sports
@@ -4768,6 +4862,7 @@ https://tv.jnda.tech/hxr/nl3s9r/l.mpd
 #EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/15s8fqi/l.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-name="824 ASTRO CRICKET" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Cricket_2024.png" group-title="astro" ch-number="824" tvg-id="824.astro",824 ASTRO CRICKET
@@ -4775,6 +4870,12 @@ https://tv.jnda.tech/hxr/15s8fqi/l.mpd
 #EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
 #EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 https://tv.jnda.tech/hxr/12b55m/l.mpd
+
+
+
+
+
+
 
 
 
