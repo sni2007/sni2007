@@ -2,8 +2,8 @@
 ;#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
 
 
-
-#EXTM3U: refresh="301" billed-msg="📺 JandaTV - lic" url-tvg="https://tv.jnda.tech/epg"
+#EXTM3U:
+;#EXTM3U: refresh="301" billed-msg="📺 JandaTV - lic" url-tvg="https://tv.jnda.tech/epg"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGYWW_Potrait_IVP_PORT_750x1126_2024324_12118.jpg" group-title="VOD MELAYU" type="series",Travelawak: Projek Bapak Bapak S2 2023 E07
