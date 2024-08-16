@@ -1,3 +1,65 @@
+#EXTM3U:
+
+######### DOYOU MOVIES #########
+
+#EXTINF:-1 group-logo="https://i.ibb.co/Vxw1zS8/zie.png", tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" group-title="Douyu Movies",Douyu_Movies
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" group-title="Douyu Movies",Douyu_Movies_1
+http://epg.112114.xyz/douyu/4332
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" group-title="Douyu Movies",Douyu_Movies_2
+http://epg.112114.xyz/douyu/36337
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" group-title="Douyu Movies",Douyu_Movies_3
+http://epg.112114.xyz/douyu/2793084
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" group-title="Douyu Movies",Douyu_Movies_4
+http://epg.112114.xyz/douyu/6140589
+
+#EXTINF:-1 group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" group-title="Douyu Movies",Douyu_Movies_5
+http://epg.112114.xyz/douyu/252802
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Douyu Movies" group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png",Star Chinese Classic
+http://43.138.170.29:35455/yy/1355002394
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Douyu Movies" group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png",Jackie Chan Movies Collection 
+https://live.metshop.top/huya/11342386
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Douyu Movies" group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png", Marvels Heroes Movies Collection 
+http://43.138.170.29:35455/yy/1354932402
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Douyu Movies" group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png", Jet Li Movies Collection 
+http://43.138.170.29:35455/yy/74613175
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Douyu Movies" group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png",Steven Chow Movies Collection 
+http://223.109.210.49/txdirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Douyu Movies" group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png",Shaw Brothers Movies Collection 
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Douyu Movies" group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png", Chow Yun Fatt Movies Collection 
+http://43.138.170.29:35455/yy/1354888733
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Douyu Movies" group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png", Hong Kong Movies Collection 
+http://43.138.170.29:35455/yy/1382736910
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Douyu Movies" group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png", Sammo Hung Movies Collection 
+http://43.138.170.29:35455/yy/1354924839
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Douyu Movies" group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png", Andy Lau Movies Collection 
+http://43.138.170.29:35455/yy/1382745111
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Douyu Movies" group-logo="https://i.ibb.co/MV1DPwp/dyu.png" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png", Dwayne Johnson Movies Collection 
+https://live.metshop.top/huya/21059581
+
+
+
+
+
+
+
+
 ;https://tv.jnda.tech/lic
 ;#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
 
