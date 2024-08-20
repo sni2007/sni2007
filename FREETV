@@ -158,14 +158,14 @@ https://tv.jnda.tech/xhr/1m8waq2/l.mpd
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani HD" group-title="ASTRO MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Awani.png",501 ASTRO AWANI 2 (SOOKA)
 https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 
-#EXTINF:-1 tvg-id="TV1" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (B)
+#EXTINF:-1 tvg-id="TV1" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F/ut5qlPUnGmp8VjdL9tjg", "kid":"UmLL6+rWT0KqgxfjyxMQbA" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH3/masterCH3.mpd
 
-#EXTINF:-1 tvg-id="TV2" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 (B)
+#EXTINF:-1 tvg-id="TV2" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
