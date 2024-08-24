@@ -1,4 +1,5 @@
 ;https://tv.jnda.tech/hxr
+;https://tv.jnda.tech/NJM
 
 #EXTM3U: refresh="301" billed-msg="📺 JandaTV - NJM" url-tvg="https://tv.jnda.tech/epg"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
