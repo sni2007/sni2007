@@ -3378,6 +3378,7 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/21897.ts
 
 
 #EXTM3U: refresh="301" billed-msg="📺 FAMILY ENTERTAINMENT by SNI2007" url-tvg="https://tv.jnda.tech/epg"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
 
 
 ################ [MY] RADIO #################
