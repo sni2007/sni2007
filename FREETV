@@ -465,8 +465,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-dash-s
 
 ARENA------------------
 
-#EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/Eni92r.png"
+;#EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/Eni92r.png"
 ;#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" 
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20240607/original/pngtree-67th-malaysian-independence-logo-vector-png-image_15264191.png"
 
 #EXTINF:-1 group-title="🇲🇾 SPORTS" tvg-id="801.astro" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",801 ARENA HD (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
