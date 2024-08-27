@@ -239,26 +239,10 @@ https://live.mana2.my/SukeTv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://cdn08.mobileads.cloud/myiptv4u-ria/index.m3u8
 
-;#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-;#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
-;#EXTINF:-1 tvg-id="AstroRia" group-title="ASTRO MALAYSIA" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA
-;https://tv.jnda.tech/NJM/9u9k4t/l.mpd
-
-;#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-;#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
-;#EXTINF:-1 tvg-id="AstroWarna" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA",WARNA
-;https://tv.jnda.tech/NJM/1d0euu1/l.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroWarna" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA",WARNA (B)
 http://mohdtv.com:8880/ALLChannels48B02DE93BD0/42628306/1706
-
-;#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-;#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
-;#EXTINF:-1 tvg-id="AstroCitra" group-title="ASTRO MALAYSIA" ch-number="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA
-;https://tv.jnda.tech/NJM/1obq8t2/l.mpd
-
 
 ;#KODIPROP:inputstream.adaptive.license_type=clearkey
 ;#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
