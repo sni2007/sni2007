@@ -20,7 +20,8 @@
 
 ;#EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
 ;#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MYTV_Malaysia_Logo.png"
-#EXTINF:-1 group-logo="https://www.jkom.gov.my/wp-content/uploads/2023/10/logo.svg"
+;#EXTINF:-1 group-logo="https://www.jkom.gov.my/wp-content/uploads/2023/10/logo.svg"
+#EXTINF:-1 group-logo="https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png"
 
 #EXTINF:-1 tvg-group="" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
