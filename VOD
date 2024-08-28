@@ -4,3 +4,9 @@
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://iluminasi.com/img/upload/gegar-vaganza-2023-29972.jpg", All Stars Gegar Vaganza 2023 minggu 12 Final (2023)
 https://pixeldrain.com/u/nNWJdsoS
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://iluminasi.com/img/upload/senarai-pemenang-gegar-vaganza-60820.jpg", All Stars Gegar Vaganza 2023 minggu 11 (2023)
+https://d000d.com/d/o2h4ekawdpaq
+https://pixeldrain.com/u/FimJ7WHu
