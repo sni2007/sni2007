@@ -23,7 +23,7 @@
 #EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="PARALYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png" tvg-id="",RTM CH1
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
 
-#EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="PARALYMPIC PARIS 20244" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png" tvg-id="",RTM CH2
+#EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="PARALYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png" tvg-id="",RTM CH2
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
 
 #EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="PARALYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png" tvg-id="",RTM CH3
