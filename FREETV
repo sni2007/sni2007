@@ -201,11 +201,11 @@ Melayu------------------
 
 #EXTINF:-1 group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png"
 
-#EXTINF:-1 tvg-id="KITA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/560_144.png" group-title="ASTRO MALAYSIA",KITA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lhx3Q44RHyCr09uW+Izf0g", "kid":"eUhI2HjhD6sgkFnA5pQgEA" } ], "type":"temporary" }
-KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
+;#EXTINF:-1 tvg-id="KITA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/560_144.png" group-title="ASTRO MALAYSIA",KITA
+;#KODIPROP:inputstream.adaptive.license_type=clearkey
+;#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lhx3Q44RHyCr09uW+Izf0g", "kid":"eUhI2HjhD6sgkFnA5pQgEA" } ], "type":"temporary" }
+;KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+;https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUSTJNVGRsT1RBdFpEazNPUzAwTVdFekxUZ3laREl0TjJKaE5qaGlNVEUyWXpBMyIsIndtb3BpZCI6MzIsImV4cCI6MTY5NDgwNzYxNSwiaWF0IjoxNjk0MjAzNjE1fQ.dEkgPkHD1WYvyCxdFGd2V3L2Pz3uaJVSWF6i00ggqKU"}
@@ -1772,7 +1772,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227869/3221227869.mpd?rrsip=web.hy
 
 
 
-################# MOVIES COLLECTION #####################
+################# MOVIES COLLECTION 1 #####################
 
 #EXTINF:-1  tvg-logo="https://starfriday.wordpress.com/wp-content/uploads/2015/06/paul-rudd-as-antman.jpg" group-title="24/7 MOVIES",ANTMAN MOVIES
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448708&extension=ts&play_token=5YrFyiX2GN
@@ -1990,7 +1990,117 @@ http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1
 #EXTINF:-1  tvg-logo="https://coldfeet-space.nyc3.cdn.digitaloceanspaces.com/wsb/2014/12/Logo.png" group-title="24/7 MOVIES",THE PURGE MOVIES
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448721&extension=ts&play_token=G1aCM6mPx4
 
-################# MOVIES COLLECTION #####################
+
+
+
+################# MOVIES COLLECTION 2 #####################
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 077:BRUCE LEE MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",BRUCE LEE MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60865
+#EXTINF:-1 tvg-id="" tvg-name="24/7 169:JET LI MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JET LI MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60172
+#EXTINF:-1 tvg-id="" tvg-name="24/7 225:INCREDIBLE HULK" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",INCREDIBLE HULK
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60086
+#EXTINF:-1 tvg-id="" tvg-name="24/7 145:ACTION MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ACTION MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60207
+#EXTINF:-1 tvg-id="" tvg-name="24/7 142:A NIGHTMARE ON ELM STREET" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",A NIGHTMARE ON ELM STREET
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60211
+#EXTINF:-1 tvg-id="" tvg-name="24/7 111:STEVEN SEAGAL" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",STEVEN SEAGAL
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60258
+#EXTINF:-1 tvg-id="" tvg-name="24/7 112:SUPERHERO MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SUPERHERO MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60257
+#EXTINF:-1 tvg-id="" tvg-name="24/7 120:VAMPIRE MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",VAMPIRE MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60248
+#EXTINF:-1 tvg-id="" tvg-name="24/7 121:WAR MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",WAR MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60247
+#EXTINF:-1 tvg-id="" tvg-name="24/7 115:THE HANGOVER" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",THE HANGOVER
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60254
+#EXTINF:-1 tvg-id="" tvg-name="24/7 116:THRILLER MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",THRILLER MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60253
+#EXTINF:-1 tvg-id="" tvg-name="24/7 117:TRANSFORMERS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",TRANSFORMERS
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60252
+#EXTINF:-1 tvg-id="" tvg-name="24/7 118:TRANSPORTER" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",TRANSPORTER
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60251
+#EXTINF:-1 tvg-id="" tvg-name="24/7 119:TWILIGHT" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",TWILIGHT
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60250
+#EXTINF:-1 tvg-id="" tvg-name="24/7 100:PREDATOR/ALIEN MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",PREDATOR/ALIEN MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60842
+#EXTINF:-1 tvg-id="" tvg-name="24/7 099:PLANET OF THE APES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",PLANET OF THE APES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60843
+#EXTINF:-1 tvg-id="" tvg-name="24/7 098:PIRATES OF THE CARIBBEAN" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",PIRATES OF THE CARIBBEAN
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60844
+#EXTINF:-1 tvg-id="" tvg-name="24/7 097:TEXAS CHAINSAW MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",TEXAS CHAINSAW MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60845
+#EXTINF:-1 tvg-id="" tvg-name="24/7 096:MEN IN BLACK" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",MEN IN BLACK
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60846
+#EXTINF:-1 tvg-id="" tvg-name="24/7 095:MATRIX" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",MATRIX
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60847
+#EXTINF:-1 tvg-id="" tvg-name="24/7 094:LORD OF THE RINGS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",LORD OF THE RINGS
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60848
+#EXTINF:-1 tvg-id="" tvg-name="24/7 093:LETHAL WEAPON" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",LETHAL WEAPON
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60849
+#EXTINF:-1 tvg-id="" tvg-name="24/7 092:FRIDAY THE 13TH" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",FRIDAY THE 13TH
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60850
+#EXTINF:-1 tvg-id="" tvg-name="24/7 091:JURASSIC PARK" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JURASSIC PARK
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60851
+#EXTINF:-1 tvg-id="" tvg-name="24/7 090:JIM CARREY" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JIM CARREY
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60852
+#EXTINF:-1 tvg-id="" tvg-name="24/7 089:JCVD MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JCVD MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60853
+#EXTINF:-1 tvg-id="" tvg-name="24/7 088:JASON BOURNE" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JASON BOURNE
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60854
+#EXTINF:-1 tvg-id="" tvg-name="24/7 087:JAMES BOND" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",JAMES BOND
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60855
+#EXTINF:-1 tvg-id="" tvg-name="24/7 113:THE AVENGERS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",THE AVENGERS
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60256
+#EXTINF:-1 tvg-id="" tvg-name="24/7 110:STAR WARS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",STAR WARS
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60832
+#EXTINF:-1 tvg-id="" tvg-name="24/7 109:STAR TREK MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",STAR TREK MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60833
+#EXTINF:-1 tvg-id="" tvg-name="24/7 108:SPORTS MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SPORTS MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60834
+#EXTINF:-1 tvg-id="" tvg-name="24/7 107:QUENTIN TARANTINO MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",QUENTIN TARANTINO MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60835
+#EXTINF:-1 tvg-id="" tvg-name="24/7 106:SCIFI MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SCIFI MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60836
+#EXTINF:-1 tvg-id="" tvg-name="24/7 105:RUSH HOUR" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",RUSH HOUR
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60837
+#EXTINF:-1 tvg-id="" tvg-name="24/7 104:ROMANCE MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ROMANCE MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60838
+#EXTINF:-1 tvg-id="" tvg-name="24/7 103:ROCKY" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ROCKY
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60839
+#EXTINF:-1 tvg-id="" tvg-name="24/7 102:RAMBO" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",RAMBO
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60840
+#EXTINF:-1 tvg-id="" tvg-name="24/7 172:DINOSAURS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",DINOSAURS
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60169
+#EXTINF:-1 tvg-id="" tvg-name="24/7 048:SCI-FI MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SCI-FI MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 047:SPIDERMAN" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",SPIDERMAN
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60895
+#EXTINF:-1 tvg-id="" tvg-name="24/7 067:ROB ZOMBIE MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ROB ZOMBIE MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60875
+#EXTINF:-1 tvg-id="" tvg-name="24/7 071:ARNOLD SCHWARZENEGGER" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",ARNOLD SCHWARZENEGGER
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60871
+#EXTINF:-1 tvg-id="" tvg-name="24/7 075:BOXING MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",BOXING MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60867
+#EXTINF:-1 tvg-id="" tvg-name="24/7 074:BLADE MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",BLADE MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60868
+#EXTINF:-1 tvg-id="" tvg-name="24/7 073:BATMAN MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",BATMAN MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60869
+#EXTINF:-1 tvg-id="" tvg-name="24/7 081:FAST AND FURIOUS" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",FAST AND FURIOUS
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60861
+#EXTINF:-1 tvg-id="" tvg-name="24/7 080:FAMILY MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",FAMILY MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60862
+#EXTINF:-1 tvg-id="" tvg-name="24/7 079:DIE HARD" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",DIE HARD
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60863
+#EXTINF:-1 tvg-id="" tvg-name="24/7 078:CRIME MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",CRIME MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60864
+#EXTINF:-1 tvg-id="" tvg-name="24/7 086:INDIANA JONES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",INDIANA JONES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60856
+#EXTINF:-1 tvg-id="" tvg-name="24/7 085:HORROR MOVIES" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",HORROR MOVIES
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60857
+#EXTINF:-1 tvg-id="" tvg-name="24/7 084:HARRY POTTER" tvg-logo="https://i.ibb.co/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@24/7 MOVIES",HARRY POTTER
+http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/60858
 
 
 
