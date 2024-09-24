@@ -15,65 +15,6 @@
 
 
 
-
-
-
-
--------TMP----------
-
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="ASTRO2",Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="ASTRO2",Astro SuperSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="ASTRO2",Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="ASTRO2",Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="ASTRO2",Astro SuperSport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="ASTRO2",Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://ddy1.mizhls.ru/ddy1/premium123/index.m3u8
-
-#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="ASTRO2",Astro SuperSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://eu-fls4.mizhls.ru/eu-fls4/premium124/index.m3u8
-
-#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="ASTRO2",Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://ddy1.mizhls.ru/ddy1/premium125/index.m3u8
-
-#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="ASTRO2",Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://ddy1.mizhls.ru/ddy1/premium126/index.m3u8
-
-
-
-
-
-
-
-
-
 ###################### Freeview MYTV ######################
 
 ;#EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
@@ -124,6 +65,11 @@ https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 #EXTINF:-1 tvg-group="" tvg-id="BernamaTV"  tvg-name="Bernama Tv" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama TV
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="Freeview MYTV" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
+
 #EXTINF:-1 tvg-group="" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" group-title="Freeview MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
 https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 
@@ -136,6 +82,8 @@ https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 #EXTINF:-1 tvg-group="" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+
+
 
 
 
@@ -643,6 +591,62 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 
 #EXTINF:-1 tvg-id="815.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png" group-title="🇲🇾 SPORTS",W-Sport (B)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828094&extension=ts
+
+
+
+
+
+
+
+-------BACKUP ASTRO SUPERSPORTS----------
+
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="ASTRO2",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="ASTRO2",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="ASTRO2",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="ASTRO2",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="ASTRO2",Astro SuperSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="ASTRO2",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy1.mizhls.ru/ddy1/premium123/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="ASTRO2",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://eu-fls4.mizhls.ru/eu-fls4/premium124/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="ASTRO2",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy1.mizhls.ru/ddy1/premium125/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="ASTRO2",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy1.mizhls.ru/ddy1/premium126/index.m3u8
+
+
+
 
 
 
@@ -1327,15 +1331,13 @@ https://live1.presstv.ir/live/ifilmen.m3u8
 
 ---------ryuzTV------------
 
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",ryuzDouyu 24/7
-https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 1 24/7
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 1 (MARVEL 1)
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 2
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 3
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 3 (TRANSFORMER)
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 4
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 4 (MARVEL 2)
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 5
 http://epg.112114.xyz/douyu/252802
@@ -1343,53 +1345,36 @@ http://epg.112114.xyz/douyu/252802
 http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 7
 http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 8 
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 8 (BACKUP)
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 9
 http://epg.112114.xyz/douyu/8814650
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 10
 http://epg.112114.xyz/douyu/263824
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 11
 http://epg.112114.xyz/douyu/323876
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 13
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 12
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 14
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 13
 http://epg.112114.xyz/douyu/6566671
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 16
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 14
 http://epg.112114.xyz/douyu/1226741
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 17
-http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 18
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 15
 http://epg.112114.xyz/douyu/218859
 
 
-
-
-
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 1
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 2
-http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 3
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 4
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 5
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 6
-http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 7
-http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 8
-http://epg.112114.xyz/douyu/323876
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 9
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 16
 http://epg.112114.xyz/douyu/1226741
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 10
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 17
 http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 11
-http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 12
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 18
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU Cineplex",DOUYU 13
-http://epg.112114.xyz/douyu/252802
+
+
+
+
 
 
 
@@ -3696,7 +3681,6 @@ https://28163.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="711" tvg-chno="711" tvg-logo="https://assets.radioactive.sg/org-bernama/283fd16b-9085-4526-90ad-fdcf2213b064-app_Bernama%28new%29_logo_W750xH750.png",Bernama Radio
 https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
-
 
 
 
