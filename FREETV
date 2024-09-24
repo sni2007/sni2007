@@ -143,6 +143,32 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 
 
+
+######################## LIVE EVENT - RIA, WARNA ############################
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE EVENT ONLY-RIA,WARNA" group-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 1 (Live Sahaja)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE EVENT ONLY-RIA,WARNA" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 2 (Live Sahaja)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE EVENT ONLY-RIA,WARNA" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 3 (Live Sahaja)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_ott.mpd
+
+
+
+
+
+
+
+
+
 ####################### ASTRO MALAYSIA ########################
 
 Melayu------------------
@@ -1363,6 +1389,7 @@ http://epg.112114.xyz/douyu/6566671
 http://epg.112114.xyz/douyu/1226741
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 15
 http://epg.112114.xyz/douyu/218859
+
 
 
 
@@ -2725,31 +2752,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 
 
 
-######################## LIVE EVENT - RIA, WARNA ############################
-
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE EVENT ONLY-RIA,WARNA" group-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 1 (Live Sahaja)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
-
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE EVENT ONLY-RIA,WARNA" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 2 (Live Sahaja)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE EVENT ONLY-RIA,WARNA" group-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 3 (Live Sahaja)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_ott.mpd
-
-
-
-
-
-
-
-
-
 ##################################### LIVE SPORT-FOOTBALL ##########################
 
 #EXTINF:-1 tvg-id="" group-logo="https://cdn-icons-png.flaticon.com/512/3755/3755575.png" group-title="LIVE SPORT-FOOTBALL",Live 1
@@ -3670,19 +3672,3 @@ https://28163.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="711" tvg-chno="711" tvg-logo="https://assets.radioactive.sg/org-bernama/283fd16b-9085-4526-90ad-fdcf2213b064-app_Bernama%28new%29_logo_W750xH750.png",Bernama Radio
 https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
