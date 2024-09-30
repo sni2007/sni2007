@@ -1357,13 +1357,13 @@ https://live1.presstv.ir/live/ifilmen.m3u8
 
 ---------ryuzTV------------
 
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 1 (MARVEL 1)
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 1
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 2
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 3 (TRANSFORMER)
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 3
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 4 (MARVEL 2)
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 4
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="DOUYU MOVIES",Douyu 5
 http://epg.112114.xyz/douyu/252802
