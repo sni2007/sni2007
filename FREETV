@@ -572,21 +572,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5170/default_primary.mp
 #EXTINF:-1 tvg-name="Astro Badminton 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/541_144.png" group-title="🇲🇾 SPORTS" ch-number="816",ASTRO BADMINTON 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroBadminton" tvg-name="ASSP5 HD" group-title="🇲🇾 SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" ch-number="815",Astro Badminton 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5170/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F8Ga1nClV+aIJBnWkj+tJw", "kid":"cq1uqhkEVAE4SH//o61lEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroBadminton2" tvg-name="ASSP6 HD" group-title="🇲🇾 SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" ch-number="816",Astro Badminton 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
-
 -------------------------BADMINTON-------------------------
 
 
@@ -756,25 +741,6 @@ https://linear05-playback.sooka.my/CH3/masterCH3.mpd
 #EXTINF:-1 tvg-id="820" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" group-title="🇲🇾 SPORTS",Eurosport HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://fightsports.tv/wp-content/uploads/fightsports140-logo-rr-2.png" group-title="🇲🇾 SPORTS",FIGHT SPORTS
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&amp;w=378&amp;h=129&amp;src=/files/logo/1601971751_logo_SOCCERchannel[logo-png].png" group-title="🇲🇾 SPORTS",SOCCER CHANNEL
-https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-
-
-
-
-
-
-
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -782,6 +748,15 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport HD" group-title="🇲🇾 SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Euro.png",820 EUROSPORTS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
+;#KODIPROP:inputstream.adaptive.license_type=clearkey
+;#KODIPROP:inputstream.adaptive.license_key=
+;#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://fightsports.tv/wp-content/uploads/fightsports140-logo-rr-2.png" group-title="🇲🇾 SPORTS",FIGHT SPORTS
+;https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+;#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+;#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+;#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&amp;w=378&amp;h=129&amp;src=/files/logo/1601971751_logo_SOCCERchannel[logo-png].png" group-title="🇲🇾 SPORTS",SOCCER CHANNEL
+;https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -803,13 +778,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="🇲🇾 SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Cricket.png",824 ASTRO CRICKET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+;#KODIPROP:inputstreamaddon=inputstream.adaptive
+;#KODIPROP:inputstream.adaptive.manifest_type=dash
+;#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+;#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+;#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="🇲🇾 SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Cricket.png",824 ASTRO CRICKET
+;#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+;https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 
 
