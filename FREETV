@@ -18,23 +18,6 @@
 
 
 
-http://d1w72er2qn2fg9.cloudfront.net/vin.mpd
-
-http://d1w72er2qn2fg9.cloudfront.net/thang.mpd
-
-http://d1w72er2qn2fg9.cloudfront.net/aec.mpd
-
-http://d1w72er2qn2fg9.cloudfront.net/qj.mpd
-
-http://d1w72er2qn2fg9.cloudfront.net/aod.mpd
-
-
-
-
-
-
-
-
 ######################## LIVE EVENT - RIA, WARNA ############################
 
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="LIVE EVENT ONLY-RIA,WARNA" group-logo="https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Server 1 (Live Sahaja)
@@ -256,10 +239,6 @@ http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" group-title="ASTRO MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Oasis.png",106 ASTRO OASIS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-
-
-
-
 ;#KODIPROP:inputstream.adaptive.license_type=clearkey
 ;#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 ;#EXTINF:-1 tvg-id="106.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA",OASIS
@@ -271,6 +250,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 ;https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
+#EXTINF:-1 tvg-id="410.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-title="ASTRO MALAYSIA",410 ASTRO PREMIER
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
+#EXTINF:-1 tvg-id="410.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-title="ASTRO MALAYSIA",410 ASTRO PREMIER 2
+http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
+
+EXTINF:-1 tvg-id="410.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-title="ASTRO MALAYSIA",410 AOD
+http://d1w72er2qn2fg9.cloudfront.net/aod.mpd
 
 
 --------------------------------- 3 SERANGKAI --------------------------------
@@ -292,18 +284,6 @@ http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
 
 --------------------------------- 3 SERANGKAI --------------------------------
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
-#EXTINF:-1 tvg-id="410.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-title="ASTRO MALAYSIA",410 ASTRO PREMIER
-;https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
-http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
-#EXTINF:-1 tvg-id="410.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-title="ASTRO MALAYSIA",410 ASTRO PREMIER 2
-http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
