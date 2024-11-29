@@ -136,6 +136,9 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani HD" group-title="ASTRO MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Awani.png",501 ASTRO AWANI 2 (SOOKA)
 https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="ASTRO MALAYSIA" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", RTM Asean
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8  
+
 #EXTINF:-1 tvg-id="TV1" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
