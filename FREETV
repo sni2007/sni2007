@@ -18,26 +18,6 @@
 
 ######################## TEST ############################
 
-;#EXTINF:-1 tvg-group="" tvg-id="TVS"  tvg-number="121" group-title="TEST" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/tvs.m3u8
-
-;#EXTINF:-1 tvg-id="108" tvg-name="Astro Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="TEST",ASTRO CITRA
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/astrocitra.m3u8
-
-;#EXTINF:-1 tvg-id="108" tvg-name="Astro Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="TEST",TRANS 7
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/trans7.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -188,13 +168,10 @@ https://linear08-playback.sooka.my/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6GP3FJ5S91Jr90QDTifOjQ", "kid":"977qwgCvQNWIbf6Y1y/PyA" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="TV3" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NXnpRPwUbZ03AvQZxT+1XQ", "kid":"IkibOmMizjqBHzE8R/PYQg" } ], "type":"temporary" }
-https://manifest.bapok.best/UnifiTV/TV3.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+#EXTINF:-1 tvg-id="TV3" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 (UNIFI)
+https://centerrrs.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd?accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6I0o%2FoIw83oXLZFVYSQnBBI%2FiKpnGDOVh7xgstdkkeZwTJycHE0IqZBvG%2BXsudj34k%3A20240728232643%3AUTC%2C10001002674171%2C1.1.1.1%2C20240728232643%2Curn:Huawei:liveTV:iptv182%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001
 
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="ASTRO MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 (Tonton)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -203,11 +180,6 @@ https://manifest.bapok.best/UnifiTV/TV3.mpd
 #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-#EXTINF:-1 tvg-id="TV3" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 (UNIFI)
-https://centerrrs.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd?accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6I0o%2FoIw83oXLZFVYSQnBBI%2FiKpnGDOVh7xgstdkkeZwTJycHE0IqZBvG%2BXsudj34k%3A20240728232643%3AUTC%2C10001002674171%2C1.1.1.1%2C20240728232643%2Curn:Huawei:liveTV:iptv182%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001
-
 #EXTINF:-1 tvg-id="TV6" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png",TV6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
@@ -215,10 +187,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
 
 #EXTINF:-1 tvg-id="8TV" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV 
-https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV9" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png",TV9 
-https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TVAlhijrah" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV ALHIJRAH 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -244,7 +222,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
 EXTINF:-1 tvg-id="" group-title="ASTRO MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png",Heroes 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5114/ 
+;#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5114/ 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default.mpd
 
 
@@ -270,7 +248,7 @@ https://live.mana2.my/SukeTv/index.m3u8
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="ASTRO MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Prima.png",105 ASTRO PRIMA
 ;https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
-http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
+http://d14sysfrzu8fji.cloudfront.net/prima.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -309,8 +287,8 @@ http://d1w72er2qn2fg9.cloudfront.net/aod.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-;#EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO MALAYSIA" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
+#EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO MALAYSIA" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
+http://d14sysfrzu8fji.cloudfront.net/ria.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
@@ -319,8 +297,8 @@ http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-;#EXTINF:-1 tvg-id="108" tvg-name="Astro Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="ASTRO MALAYSIA",ASTRO CITRA HD 
-http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
+#EXTINF:-1 tvg-id="108" tvg-name="Astro Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="ASTRO MALAYSIA",ASTRO CITRA HD 
+http://d14sysfrzu8fji.cloudfront.net/citra.mpd
 
 --------------------------------- 3 SERANGKAI --------------------------------
 
@@ -2985,67 +2963,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 
 
 
-##################################### LIVE SPORT-FOOTBALL ##########################
-
-#EXTINF:-1 tvg-id="" group-logo="https://cdn-icons-png.flaticon.com/512/3755/3755575.png" group-title="LIVE SPORT-FOOTBALL",Live 1
-https://hls.streambtw.com/live/stream_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pngimg.com/d/football_player_PNG30.png" group-title="LIVE SPORT-FOOTBALL",Live 2
-https://hls.streambtw.com/live/stream_2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pngimg.com/d/football_player_PNG30.png" group-title="LIVE SPORT-FOOTBALL",Live 3
-https://hls.streambtw.com/live/stream_3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pngimg.com/d/football_player_PNG30.png" group-title="LIVE SPORT-FOOTBALL",Live 4
-https://hls.streambtw.com/live/stream_4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pngimg.com/d/football_player_PNG30.png" group-title="LIVE SPORT-FOOTBALL",Live 5
-https://hls.streambtw.com/live/stream_5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pngimg.com/d/football_player_PNG30.png" group-title="LIVE SPORT-FOOTBALL",Live 6
-https://hls.streambtw.com/live/stream_6.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pngimg.com/d/football_player_PNG30.png" group-title="LIVE SPORT-FOOTBALL",Live 7
-https://hls.streambtw.com/live/stream_7.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pngimg.com/d/football_player_PNG30.png" group-title="LIVE SPORT-FOOTBALL",Live 8
-https://hls.streambtw.com/live/stream_8.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pngimg.com/d/football_player_PNG30.png" group-title="LIVE SPORT-FOOTBALL",Live 9
-https://hls.streambtw.com/live/stream_9.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pngimg.com/d/football_player_PNG30.png" group-title="LIVE SPORT-FOOTBALL",Live 10
-https://hls.streambtw.com/live/stream_10.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pngimg.com/d/football_player_PNG30.png" group-title="LIVE SPORT-FOOTBALL",Live 11
-https://hls.streambtw.com/live/stream_11.m3u8
-
-
-
-
-
-
-
-##################################### LIVE SPORT-BADMINTON ##########################
-
-#EXTINF:-1 tvg-id="" group-logo="https://static.vecteezy.com/system/resources/previews/024/560/181/non_2x/icon-shuttlecock-ball-for-game-badminton-free-png.png" tvg-logo="https://png.pngtree.com/png-clipart/20210321/original/pngtree-playing-badminton-icon-design-template-illustration-png-image_6107615.png" group-title="LIVE SPORT-BADMINTON",Live 1
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_171223/master_p4.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20210321/original/pngtree-playing-badminton-icon-design-template-illustration-png-image_6107615.png" group-title="LIVE SPORT-BADMINTON",Live 2
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099894/hd_akamai_merged_avc_eng_bwf_m2_171223/master_p4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20210321/original/pngtree-playing-badminton-icon-design-template-illustration-png-image_6107615.png" group-title="LIVE SPORT-BADMINTON",Live 3
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099894/hd_akamai_merged_avc_eng_bwf_m2_171223/master_p4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20210321/original/pngtree-playing-badminton-icon-design-template-illustration-png-image_6107615.png" group-title="LIVE SPORT-BADMINTON",Live 4
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099894/hd_akamai_merged_avc_eng_bwf_m2_171223/master_p4.m3u8
-
-
-
-
-
-
 ###################### INDIHOME ######################
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDIHOME]
@@ -3534,451 +3451,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rocke
 
 
 
-#################### Supersonic TV ####################
-
-MOVIE
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5STARMAX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22878.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-us.png",CINEMAX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22879.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ACTION MAX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22881.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//moremax.png",MOREMAX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22882.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",MOVIEMAX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22883.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OUTERMAX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22884.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",THRILLERMAX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22885.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",INDIEPLEX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22903.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MOVIEPLEX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22905.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RETROPLEX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/47746.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22917.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="The.Movie.Channel.HDTV.(East).(TMCHD).us" tvg-logo="",The Movie Channel
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="The.Movie.Channel.Xtra.(East).(TMCXe).us" tvg-logo="",The MOVIES Xtra
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="SCRNACT.ScreenPix.Action.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Action
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="SCRNVOI.ScreenPix.Voices.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Voices
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Westerns
-
-
-
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22894.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO 2
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22896.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbocomedy.png",HBO Comedy
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22897.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbofamily.png",HBO Family
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22898.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="HBO.Signature.HDTV.(East).(HBOSHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png",HBO Signature
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22900.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22901.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22908.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime 2
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22910.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png",Showtime Extreme
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22912.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimefamilyzone.png",Showtime Family Zone
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22913.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-logo="https://docdog.top/Logotv/countries//showtimenext.png",Showtime Next
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22914.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Showtime.Showcase.HDTV.(East).(SHOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeshowcase.png",Showtime Showcase
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22915.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimewomen.png",Showtime Women
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22916.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="SHOxBET(East).(SHOBET).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",SHOxBET
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22911.ts
-
-
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://docdog.top/Logotv/countries//starz.png",STARZ
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22918.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png",STARZ Cinema
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22920.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzcomedy.png",STARZ Comedy
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22921.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzedge.png",STARZ Edge
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22922.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png",STARZ In Black
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22923.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-us.png",STARZ Kids and Family
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22924.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-logo="https://docdog.top/Logotv/countries//starzencore.png",STARZ ENCORE
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22925.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.ENCORE.Action.(East).(STZAC).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreaction.png",STARZ ENCORE Action
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22927.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.ENCORE.Black.(East).(STZBK).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreblack.png",STARZ ENCORE Black
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22928.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.ENCORE.Classic.(East).(STZCL).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreclassic.png",STARZ ENCORE Classic
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22929.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.ENCORE.Family.(East).(STZFM).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorefamily.png",STARZ ENCORE Family
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22930.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.ENCORE.Suspense.(East).(STZSU).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoresuspense.png",STARZ ENCORE Suspense
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22931.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorewestern.png",STARZ ENCORE Westerns
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22932.ts
-
-
-
-
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77462.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77463.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77464.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77465.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Family
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77466.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Sky.Greats.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png",Sky Greats
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77467.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77468.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77469.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77470.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77471.ts
-
-
-
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Action Movie
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Comedy Movie
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40484.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Crime Movie
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40486.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Horror Movie
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40492.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Horror Movie 2
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40493.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kungfu
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western Movie
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
-
-
-
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sony-movies-us.png",SONY MOVIES
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22917.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-name="SundanceTV HDTV (East) (SUNHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png" ,Sundance
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22152.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-name="TBS Superstation HDTV (East) (TBSHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png" ,TBS
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22154.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="Turner Network Television HDTV (East) (TNTHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png" ,TNT
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22159.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22886.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-2-us.png",Epix 2
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22889.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png",Epix Drive-In
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22888.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix Hits
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22887.ts
-
-
-
-
-
-DOCUMENTARY
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us",Crime Investigation
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22071.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-name="http://myserveriptv.com:2082/images/e00a346a1e80c3d33bbb82d4fd74b31e.png" tvg-logo="" ,Investigation Discovery
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22110.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22074.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoveryfamilychannel.png",Discovery Family
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22076.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",Discovery Life
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22075.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Science.HDTV.(SCIHD).us" tvg-logo="",Discovery Science
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22077.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22045.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22122.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" ,National Geographic
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22123.ts
-
-
-
-
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/galavision-us.png",Magnolia Network
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22080.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22101.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="FYI.HDTV.(FYIHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fyi-us.png",FYI
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22096.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tlc-us.png",TLC
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22157.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22084.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cooking-channel-us.png",Cooking Channel
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22067.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="TASTE.Tastemade.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tastemade-us.png",Tastemade
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22153.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" ,History
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22104.ts
-
-
-
-
-
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
-http://supersonictv.live:8080/live/Derrick/Hitman50$/12181.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
-http://supersonictv.live:8080/live/Derrick/Hitman50$/12182.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97031&extension=ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97032&extension=ts
-
-
-
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV 1
-http://cord-cutter.net:8080/live/95549031/69361122/53651.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV 2
-http://supersonictv.live:8080/live/Derrick/Hitman50$/12254.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV 3
-http://supersonictv.live:8080/live/Derrick/Hitman50$/12255.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV 4
-http://supersonictv.live:8080/live/Derrick/Hitman50$/12256.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97035&extension=ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
-http://cord-cutter.net:8080/live/95549031/69361122/99138.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
-http://supersonictv.live:8080/live/Derrick/Hitman50$/12211.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="",5 Star
-http://supersonictv.live:8080/live/Derrick/Hitman50$/12168.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
-http://supersonictv.live:8080/live/Derrick/Hitman50$/12209.ts
-
-
-ENTERTAINMENT
-------------------------------------------------
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png" ,A&E
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22040.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png" ,AMC
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22042.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png" ,Syfy
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22946.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png" ,Syfy
-http://abcnew.site:8880/live/29ca10313n11/asdf23r23/3096.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="AXSTV.HD.(AXSTV).us" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",AXS TV
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22050.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png" ,BBC America
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22051.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",Bounce TV
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22058.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",Bravo
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22059.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="USAJ30000148W" tvg-name="CINEVAULT: 80s" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="Movies",Cinevault 80s
-https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="USAK3508709A" tvg-name="CINEVAULT: Westerns" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png" group-title="Movies",Cinevault Westerns
-https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",CMT
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22063.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",Comedy Central
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22065.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Comet.TV.(COMET).us" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.pngg",Comet
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22066.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22081.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
-http://supersonictv.live:8080/live/Derrick/Hitman50$/21914.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" ,Game Show Network
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22098.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="",GSN
-http://supersonictv.live:8080/live/Derrick/Hitman50$/47733.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" ,Game TV
-http://supersonictv.live:8080/live/Derrick/Hitman50$/21924.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform HDTV (East) (FRFHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" ,FREEFORM
-http://supersonictv.live:8080/live/Derrick/Hitman50$/21804.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX HDTV (East) (FX HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png" ,FX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22091.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel HDTV (FXMHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" ,FXM
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22093.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-name="FXX HDTV (East) (FXXHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png" ,FXX
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22094.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22108.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/mtv-us.png",MTV
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22120.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/mtv.png",MTV2
-http://supersonictv.live:8080/live/Derrick/Hitman50$/21965.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22142.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22129.ts
-
-
-NEWS
---------------------------------------------------
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
-http://supersonictv.live:8080/live/Derrick/Hitman50$/71676.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
-http://supersonictv.live:8080/live/Derrick/Hitman50$/71677.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
-http://supersonictv.live:8080/live/Derrick/Hitman50$/71682.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
-http://supersonictv.live:8080/live/Derrick/Hitman50$/71678.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
-http://supersonictv.live:8080/live/Derrick/Hitman50$/71679.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
-http://supersonictv.live:8080/live/Derrick/Hitman50$/21896.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
-http://supersonictv.live:8080/live/Derrick/Hitman50$/21901.ts
-
-#EXTINF:-1 group-title="SupersonicTV" tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
-http://supersonictv.live:8080/live/Derrick/Hitman50$/21897.ts
-
-
-
-
-
-
-
 ================pluto tv==================
 #EXTINF:0 tvg-id="fear-factor" tvg-logo="http://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="PLUTO TV", Fear Factor
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e10390-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=850dbb9a-c0a2-4802-b5ef-751b92aa3648&userId=&serverSideAds=true
@@ -4016,10 +3488,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="Pluto TV Staff Picks" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Staff Picks
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-
 
 
 
@@ -4118,11 +3586,6 @@ https://hls.rastream.com/astro-red-radio
 
 #EXTINF:-1 tvg-id="CHN" group-title="[MY] RADIO" tvg-logo="https://i.ibb.co/Gk429L1/logo-t.png",RAKITA
 https://23683.live.streamtheworld.com/RAKITAAAC.aac
-
-
-
-
-
 
 
 
