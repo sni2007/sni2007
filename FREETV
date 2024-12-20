@@ -16,6 +16,29 @@
 
 
 
+######################## TEST ############################
+
+#EXTINF:-1 tvg-group="" tvg-id="TVS"  tvg-number="121" group-title="TEST" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/tvs.m3u8
+
+
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/astrocitra.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="Astro Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="TEST",ASTRO CITRA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ######################## LIVE EVENT - PRIMA, RIA & WARNA ############################
@@ -91,7 +114,9 @@ https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
 #EXTINF:-1 tvg-group="" tvg-id="TVS"  tvg-number="121" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
-https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
+;https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
+http://31.42.187.37:25461/watchpad13158/1234/14
+
 
 #EXTINF:-1 tvg-group="" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", TV Alhijrah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -104,7 +129,8 @@ https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 
 #EXTINF:-1 tvg-group="" tvg-id="BernamaTV"  tvg-name="Bernama Tv" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama TV
-https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
+;https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
+http://31.42.187.37:25461/watchpad13158/1234/341
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
