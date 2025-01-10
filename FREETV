@@ -12,7 +12,7 @@
 #EXTM3U x-tvg-url"https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
 
-#EXTM3U vod_library="https://dl.dropbox.com/scl/fi/07hague6sa0a5mkr6g7gc/T-Vision-VOD.m3u?rlkey=igjyfiapriuk1a21cqmyuvn17&dl=0"
+;#EXTM3U vod_library="https://dl.dropbox.com/scl/fi/07hague6sa0a5mkr6g7gc/T-Vision-VOD.m3u?rlkey=igjyfiapriuk1a21cqmyuvn17&dl=0"
 #EXTM3U vod_library="https://mantop.worst.workers.dev/index.html"
 ;#EXTM3U vod_library="https://mantop.worst.workers.dev/dramabox.html"
 ;#EXTM3U vod_library="https://vod.pondan.workers.dev/dewanonton.json"
@@ -22,9 +22,9 @@
 ;#EXTM3U vod_library="https://raw.githubusercontent.com/tumanggertv/tumanggertv/main/BIOSKOP%20VOD.m3u8"
 ;#EXTM3U vod_library="https://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u"
 
-#EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%202025"
-#EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/AOTG%20VOD"
-#EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/XstroFirst"
+;#EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%202025"
+;#EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/AOTG%20VOD"
+;#EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/XstroFirst"
 
 
 
