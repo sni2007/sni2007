@@ -13,7 +13,6 @@
 
 
 #EXTM3U vod_library="https://mantop.worst.workers.dev/index.html"
-;#EXTM3U vod_library="https://mantop.worst.workers.dev/dramabox.html"
 #EXTM3U vod_library="https://vod.pondan.workers.dev/dewanonton.json"
 #EXTM3U vod_library="https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod"
 #EXTM3U vod_library="https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php"
@@ -24,6 +23,8 @@
 #EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/AOTG%20VOD"
 #EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/XstroFirst"
 #EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%20IPTV%20MALAY"
+
+;#EXTM3U vod_library="https://mantop.worst.workers.dev/dramabox.html"
 ;#EXTM3U vod_library="https://dl.dropbox.com/scl/fi/07hague6sa0a5mkr6g7gc/T-Vision-VOD.m3u?rlkey=igjyfiapriuk1a21cqmyuvn17&dl=0"
 
 
