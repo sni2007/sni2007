@@ -24,8 +24,7 @@
 #EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/AOTG%20VOD"
 #EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/XstroFirst"
 #EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%20IPTV%20MALAY"
-
-#EXTM3U vod_library="https://dl.dropbox.com/scl/fi/07hague6sa0a5mkr6g7gc/T-Vision-VOD.m3u?rlkey=igjyfiapriuk1a21cqmyuvn17&dl=0"
+;#EXTM3U vod_library="https://dl.dropbox.com/scl/fi/07hague6sa0a5mkr6g7gc/T-Vision-VOD.m3u?rlkey=igjyfiapriuk1a21cqmyuvn17&dl=0"
 
 
 ######################## LIVE EVENT - PRIMA, RIA & WARNA ############################
