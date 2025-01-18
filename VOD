@@ -2,7 +2,7 @@
 
 #EXTM3U vod_library="https://abeiptv.short.gy/vod01,https://abeiptv.short.gy/vod02,https://abeiptv.short.gy/vod03,https://abeiptv.short.gy/vod04,https://raw.githubusercontent.com/rasta-team/ABE-IPTV/main/09012025,https://raw.githubusercontent.com/rasta-team/ABE-IPTV/main/abetv,https://raw.githubusercontent.com/rasta-team/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod,https://vod.pondan.workers.dev/dewanonton.json"
 
-;https://raw.githubusercontent.com/shadany7824/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/refs/heads/main/vod
+;https://raw.githubusercontent.com/shadany7824/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod
 ;https://raw.githubusercontent.com/mystery75/streaming/refs/heads/app/VOD.js
 ;https://raw.githubusercontent.com/mystery75/streaming/refs/heads/app/VOD.json
 ;https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod
