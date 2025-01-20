@@ -2,29 +2,36 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/sni2007/EPG/main/astro.xml, https://raw.githubusercontent.com/sni2007/EPG/main/sooka.xml, https://raw.githubusercontent.com/sni2007/EPG/main/rtmklik.xml, https://raw.githubusercontent.com/sni2007/EPG/main/unifi.xml ,https://raw.githubusercontent.com/sni2007/EPG/main/tvs.xml, https://raw.githubusercontent.com/sni2007/EPG/main/indihometv.xml, https://raw.githubusercontent.com/sni2007/EPG/main/denstv.xml, https://raw.githubusercontent.com/sni2007/EPG/main/starhubtvplus.xml, https://raw.githubusercontent.com/sni2007/EPG/main/singteltv.xml, https://raw.githubusercontent.com/sni2007/EPG/main/mewatch.xml" refresh="1440" max-conn="1" refresh="24"
 ;#EXTM3U x-tvg-url"https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
-#EXTM3U vod_library="https://abeiptv.short.gy/vod01,https://abeiptv.short.gy/vod02,https://abeiptv.short.gy/vod03,https://abeiptv.short.gy/vod04,https://raw.githubusercontent.com/rasta-team/ABE-IPTV/main/09012025,https://raw.githubusercontent.com/rasta-team/ABE-IPTV/main/abetv,https://raw.githubusercontent.com/rasta-team/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod,https://vod.pondan.workers.dev/dewanonton.json"
+
+#EXTM3U vod_library="https://abeiptv.short.gy/vod01, https://abeiptv.short.gy/vod02, https://abeiptv.short.gy/vod03, https://abeiptv.short.gy/vod04, https://raw.githubusercontent.com/rasta-team/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod"
+#EXTM3U vod_library="https://mantop.worst.workers.dev/index.html, https://vod.pondan.workers.dev/dewanonton.json, https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php, https://fahmikacak.pages.dev/HBOGO%20Asia"
+#EXTM3U vod_library="https://raw.githubusercontent.com/ayishmalek/AYISYVIRUS/main/VOD%20ATV, https://raw.githubusercontent.com/tumanggertv/tumanggertv/main/BIOSKOP%20VOD.m3u8, https://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u"
+#EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%202025, https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/AOTG%20VOD, https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%20IPTV%20MALAY"
+
 
 ;https://raw.githubusercontent.com/shadany7824/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod
 ;https://raw.githubusercontent.com/mystery75/streaming/app/VOD.js
 ;https://raw.githubusercontent.com/mystery75/streaming/app/VOD.json
 ;https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod
+;https://raw.githubusercontent.com/rasta-team/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod
 
 ;https://vod.pondan.workers.dev/dewanonton.json
 ;https://mantop.worst.workers.dev/index.html
+;#EXTM3U vod_library="https://mantop.worst.workers.dev/dramabox.html"
 ;https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php
 ;https://fahmikacak.pages.dev/HBOGO%20Asia
-;https://raw.githubusercontent.com/rasta-team/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod
+
 ;https://raw.githubusercontent.com/ayishmalek/AYISYVIRUS/main/VOD%20ATV
 ;https://raw.githubusercontent.com/tumanggertv/tumanggertv/main/BIOSKOP%20VOD.m3u8
 ;https://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
+
 ;https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%202025
 ;https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/AOTG%20VOD
 ;https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%20IPTV%20MALAY
 
-;#EXTM3U vod_library="https://mantop.worst.workers.dev/dramabox.html"
-;#EXTM3U vod_library="https://dl.dropbox.com/scl/fi/07hague6sa0a5mkr6g7gc/T-Vision-VOD.m3u?rlkey=igjyfiapriuk1a21cqmyuvn17&dl=0"
+;https://raw.githubusercontent.com/rasta-team/ABE-IPTV/main/09012025
+;https://raw.githubusercontent.com/rasta-team/ABE-IPTV/main/abetv
 
-;#EXTM3U vod_library="https://mantop.worst.workers.dev/index.html,https://vod.pondan.workers.dev/dewanonton.json,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php,https://fahmikacak.pages.dev/HBOGO%20Asia,https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%202025,https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/AOTG%20VOD,https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%20IPTV%20MALAY,https://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u,https://raw.githubusercontent.com/tumanggertv/tumanggertv/main/BIOSKOP%20VOD.m3u8,https://raw.githubusercontent.com/ayishmalek/AYISYVIRUS/main/VOD%20ATV"
 
 
 
