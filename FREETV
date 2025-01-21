@@ -440,13 +440,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://d14sysfrzu8fji.cloudfront.net/bola1.mpd
+http://15.235.144.67:35461/live/654321/123456/20630.m3u8
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="🇲🇾 SPORTS",Astro Arena Bola 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"se/6nlHPOLOuZ2vCZJN++w", "kid":"Yqe3kXqtUSPNTfZcVhxwEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://d14sysfrzu8fji.cloudfront.net/bola2.mpd
+http://15.235.144.67:35461/live/654321/123456/20629.m3u8
 
 #EXTINF:-1 tvg-id="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/534_144.png" group-title="🇲🇾 SPORTS",ASTRO ARENA BOLA 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -464,13 +464,15 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d14sysfrzu8fji.cloudfront.net/premier1.mpd
+;http://d14sysfrzu8fji.cloudfront.net/premier1.mpd
+http://15.235.144.67:35461/live/654321/123456/11243.m3u8
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="🇲🇾 SPORTS", Astro Premier League 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d14sysfrzu8fji.cloudfront.net/premier2.mpd
+;http://d14sysfrzu8fji.cloudfront.net/premier2.mpd
+http://15.235.144.67:35461/live/654321/123456/971.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="🇲🇾 SPORTS" tvg-id="AstroFootball" tvg-name="AstroSupersport4", Astro Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -482,7 +484,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d14sysfrzu8fji.cloudfront.net/grand.mpd
+;http://d14sysfrzu8fji.cloudfront.net/grand.mpd
+http://15.235.144.67:35461/live/654321/123456/11241.m3u8
 
 #EXTINF:-1 tvg-id="AstroSportsPlus" group-title="🇲🇾 SPORTS" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png", Astro Sport Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
