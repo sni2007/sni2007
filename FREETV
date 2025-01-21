@@ -7,8 +7,8 @@
 ;#EXTM3U vod_library="https://raw.githubusercontent.com/ayishmalek/AYISYVIRUS/main/VOD%20ATV, https://raw.githubusercontent.com/tumanggertv/tumanggertv/main/BIOSKOP%20VOD.m3u8, https://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u"
 ;#EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%202025, https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/AOTG%20VOD, https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%20IPTV%20MALAY"
 
-;#EXTM3U vod_library="https://raw.githubusercontent.com/shadany7824/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod"
-#EXTM3U vod_library="https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod"
+#EXTM3U vod_library="https://raw.githubusercontent.com/shadany7824/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod"
+;#EXTM3U vod_library="https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod"
 
 ;#EXTM3U vod_library="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.json, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.js, https://raw.githubusercontent.com/mystery75/streaming/app/HBO.js"
 ;#EXTM3U vod_library="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.js"
