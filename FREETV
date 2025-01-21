@@ -11,10 +11,10 @@
 ;#EXTM3U vod_library="https://raw.githubusercontent.com/shadany7824/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod"
 ;#EXTM3U vod_library="https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod"
 
-#EXTM3U vod_library="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.json, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.js, https://raw.githubusercontent.com/mystery75/streaming/app/HBO.js"
-;#EXTM3U vod_library="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.js"
-;#EXTM3U vod_library="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.json"
-;#EXTM3U vod_library="https://raw.githubusercontent.com/mystery75/streaming/app/HBO.js"
+;#EXTM3U vod_library="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.json, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.js, https://raw.githubusercontent.com/mystery75/streaming/app/HBO.js"
+#EXTM3U vod_library="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.js"
+#EXTM3U vod_library="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.json"
+#EXTM3U vod_library="https://raw.githubusercontent.com/mystery75/streaming/app/HBO.js"
 
 ;#EXTM3U vod_library="https://vod.pondan.workers.dev/dewanonton.json"
 ;#EXTM3U vod_library="https://mantop.worst.workers.dev/index.html"
