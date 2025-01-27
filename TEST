@@ -1,3 +1,37 @@
+#EXTM3U 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/sni2007/EPG/main/astro.xml, https://raw.githubusercontent.com/sni2007/EPG/main/sooka.xml, https://raw.githubusercontent.com/sni2007/EPG/main/rtmklik.xml, https://raw.githubusercontent.com/sni2007/EPG/main/unifi.xml ,https://raw.githubusercontent.com/sni2007/EPG/main/tvs.xml, https://raw.githubusercontent.com/sni2007/EPG/main/indihometv.xml, https://raw.githubusercontent.com/sni2007/EPG/main/denstv.xml, https://raw.githubusercontent.com/sni2007/EPG/main/starhubtvplus.xml, https://raw.githubusercontent.com/sni2007/EPG/main/singteltv.xml, https://raw.githubusercontent.com/sni2007/EPG/main/mewatch.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U vod_library="https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod, https://raw.githubusercontent.com/shadany7824/M3U-MALAYSIA-ASTEROK-MYTV-UNIFI/main/vod, https://raw.githubusercontent.com/ayishmalek/AYISYVIRUS/main/VOD%20ATV, https://raw.githubusercontent.com/tumanggertv/tumanggertv/main/BIOSKOP%20VOD.m3u8, https://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u, https://mantop.worst.workers.dev/index.html, https://vod.pondan.workers.dev/dewanonton.json, https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php, https://fahmikacak.pages.dev/HBOGO%20Asia"
+
+#EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
+
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="",AXN
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://haoyunlai.serv00.net/Smartv-1.php?id=axn_twn
+
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="",CINEMAX
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://haoyunlai.serv00.net/Smartv-1.php?id=cinemax_twn
+
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="",EYE
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvxiju_twn
+
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="",FTV HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://haoyunlai.serv00.net/Smartv-1.php?id=ftvhd_taiwan
+
 臺灣 Taiwan,#genre#
 AXN,https://haoyunlai.serv00.net/Smartv-1.php?id=axn_twn
 CINEMAX,https://haoyunlai.serv00.net/Smartv-1.php?id=cinemax_twn
