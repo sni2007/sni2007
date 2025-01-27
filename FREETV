@@ -7,6 +7,83 @@
 
 
 
+--------------------------------- 5 ASTRO --------------------------------
+
+#EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
+
+#EXTINF:-1  tvg-id="104.astro"  group-title="5 ASTRO" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://aseanic.github.io/hls/33.m3u8
+
+#EXTINF:-1  tvg-id="104.astro"  group-title="5 ASTRO" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria 2
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+http://15.235.144.67:35461/live/654321/123456/10838.m3u8
+;http://15.235.144.67:35461/live/654321/123456/4354.m3u8
+
+
+#EXTINF:-1 tvg-id="105.astro" group-title="5 ASTRO" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+https://aseanic.github.io/hls/34.m3u8
+
+#EXTINF:-1 tvg-id="105.astro" group-title="5 ASTRO" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima 2
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+http://15.235.144.67:35461/live/654321/123456/734.m3u8
+;http://15.235.144.67:35461/live/654321/123456/4313.m3u8
+
+
+#EXTINF:-1 tvg-id="118" group-title="5 ASTRO" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+https://aseanic.github.io/hls/36.m3u8
+
+#EXTINF:-1 tvg-id="118" group-title="5 ASTRO" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna 2
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
+
+
+#EXTINF:-1 tvg-id="108.astro" group-title="5 ASTRO" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+https://aseanic.github.io/hls/37.m3u8
+
+#EXTINF:-1 tvg-id="108.astro" group-title="5 ASTRO" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra 2
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+http://15.235.144.67:35461/live/654321/123456/6608.m3u8
+
+
+#EXTINF:-1 tvg-id="106.astro" group-title="5 ASTRO" tvg-logo="https://pictr.com/images/2025/01/13/x1OsD8.png",Astro Oasis
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+--------------------------------- 5 ASTRO --------------------------------
+
+
+
 
 
 ######################## LIVE EVENT - PRIMA, RIA & WARNA ############################
@@ -273,7 +350,7 @@ http://15.235.144.67:35461/live/654321/123456/721.m3u8
 
 
 
-http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=86d24c67ba0cc5a260cf7e51f16fdb81
+;http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=86d24c67ba0cc5a260cf7e51f16fdb81
 
 --------------------------------- 3 SERANGKAI --------------------------------
 
