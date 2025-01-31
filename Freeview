@@ -1,113 +1,82 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://iptv36.vercel.app/epg.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml, https://www.open-epg.com/files/philippines1.xml, https://www.open-epg.com/files/philippines2.xml" refresh="3600"
 
-#EXTM3U
-#EXTINF:-1 group-title="TEST/A/MYTV" tvg-id="101.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tW45.png",TV1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-/path/to/TEST/A/MYTV/https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-
-#EXTINF:-1 group-title="TEST/B/MYTV" tvg-id="102.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tjeQ.md.png",TV2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-/path/to/TEST/A/MYTV/https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 
+#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯
+#☯☯ || ASTRO CHANNELS || ☯☯
+#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯
 
-
-
-
-
-#☯☯ || MYTV CHANNELS || ☯☯
-
-#EXTINF:-1 group-title="MYTV" tvg-id="101.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tW45.png",TV1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-
-#EXTINF:-1 group-title="MYTV" tvg-id="102.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tjeQ.md.png",TV2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-
-#EXTINF:-1 group-title="MYTV" tvg-id="103.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tQ51.png",TV3
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-
-#EXTINF:-1 group-title="MYTV" tvg-id="114.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tcWA.png",AlHijrah
+#EXTINF:-1  tvg-id="104.astro"  group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://aseanic.github.io/hls/33.m3u8
 
-#EXTINF:-1 group-title="MYTV" tvg-id="122.astro" tvg-logo="https://pictr.com/images/2024/01/04/EXDx1q.png",TVS
+#EXTINF:-1 tvg-id="105.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+https://aseanic.github.io/hls/34.m3u8
 
-#EXTINF:-1 group-title="MYTV" tvg-id="145.astro" tvg-logo="https://pictr.com/images/2025/01/20/xplO5f.png",TV6
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-id="106.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1OsD8.png",Astro Oasis
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 group-title="MYTV" tvg-id="147.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tY1u.png",DidikTV
+#EXTINF:-1 tvg-id="118" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
+https://aseanic.github.io/hls/36.m3u8
 
-#EXTINF:-1 group-title="MYTV" tvg-id="148.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png",8TV
+#EXTINF:-1 tvg-id="108.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+https://aseanic.github.io/hls/37.m3u8
 
-#EXTINF:-1 group-title="MYTV" tvg-id="149.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tutX.png",TV9
+#EXTINF:-1 group-title="Astro" tvg-id="123" tvg-logo="https://pictr.com/images/2025/01/13/x1k1JJ.png",Astro Sensasi
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live09.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
+#https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
+https://aseanic.github.io/hls/38.m3u8
 
-#EXTINF:-1 group-title="MYTV" tvg-id="146.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tIU8.png",OKEY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-#EXTINF:-1 group-title="MYTV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/02/xif6nc.png",RTM Asean
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 group-title="MYTV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tbwx.png",Selangor TV
-#KODIPROP:inputstream=inputstream.adaptive
-plugin://plugin.video.youtube/play/?video_id=hhFdC-QHliA&live=1
-
-#EXTINF:-1 tvg-id="113.unifi" group-title="MYTV" tvg-logo="https://pictr.com/images/2024/11/08/xiD5aQ.png",SALAM HD
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive                
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
-
-#EXTINF:-1 tvg-id="121.unifi" group-title="MYTV" tvg-logo="https://pictr.com/images/2024/11/06/xi9eB8.png",SIAR
+#EXTINF:-1 tvg-id="112.astro"  group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kGEn.png",Astro Rania
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
-#EXTINF:-1 tvg-id="118.unifi" group-title="MYTV" tvg-logo="https://pictr.com/images/2025/01/20/xplkpU.png",INSPIRASI
+#EXTINF:-1 group-title="Astro" tvg-id="113.astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kLVB.png",Astro Aura
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live29.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="Astro" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
+
+
+
+
+#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯
+#☯☯ || ASTRO SOOKA CHANNELS || ☯☯
+#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯#☯☯
 
 #EXTINF:-1 group-title="Sooka" tvg-id="132.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png",Drama Hebat
 #KODIPROP:contentlookup=False
@@ -216,82 +185,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-da
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-sooka/index.mpd
 
-#EXTINF:-1 group-title="MYTV" tvg-id="633.unifi" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Rakyat
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
 
-#EXTINF:-1 group-title="MYTV" tvg-id="633.unifi" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Negara
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
 
-#☯☯ || ASTRO CHANNELS || ☯☯
-
-#EXTINF:-1  tvg-id="104.astro"  group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-https://aseanic.github.io/hls/33.m3u8
-
-#EXTINF:-1 tvg-id="105.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-https://aseanic.github.io/hls/34.m3u8
-
-#EXTINF:-1 tvg-id="106.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1OsD8.png",Astro Oasis
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
-
-#EXTINF:-1 tvg-id="118" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
-https://aseanic.github.io/hls/36.m3u8
-
-#EXTINF:-1 tvg-id="108.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-https://aseanic.github.io/hls/37.m3u8
-
-#EXTINF:-1 group-title="Astro" tvg-id="123" tvg-logo="https://pictr.com/images/2025/01/13/x1k1JJ.png",Astro Sensasi
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
-#https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
-https://aseanic.github.io/hls/38.m3u8
-
-#EXTINF:-1 tvg-id="112.astro"  group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kGEn.png",Astro Rania
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
-
-#EXTINF:-1 group-title="Astro" tvg-id="113.astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kLVB.png",Astro Aura
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="Astro" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
+#☯☯ || INDIA CHANNELS || ☯☯
 
 #EXTINF:-1 tvg-id="201.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kVQc.png",Astro Vaanavil
 #KODIPROP:contentlookup=False
@@ -321,6 +217,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073//default_primary.mp
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 https://linearjitp.perfecttv.net/abo.mpd
 
+
 #EXTINF:-1 group-title="Astro" tvg-id="Test.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAHL96.png",Astro Live Event 1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
@@ -349,6 +246,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
+
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
+https://www.googleapis.com/drive/v3/files/1XNOxWcc0TOqhBQo9gXO9yQxolfcN5pJm?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
+plugin://plugin.video.youtube/play/?video_id=MiTHrzuyTzA&live=1
+
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
+plugin://plugin.video.youtube/play/?video_id=f0KeLKauiDU&live=1
+
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/29/xSuk0x.png",Astro Mustika
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Prebet%20Lapok.mp4
+
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/29/xSuk0x.png",Astro Mustika
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Da%20Di%20Du.mp4
+
+#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/23/xpodQJ.png",Astro Maya HD
+https://www.googleapis.com/drive/v3/files/1se0BtN1vGn8iKMCR_tDF1Ihmd29INS18?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+
+
+
+#☯☯ || CHINESE CHANNELS || ☯☯
+
 #EXTINF:-1 tvg-id="306.astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kbE9.png" group-title="Astro",Astro AEC
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
@@ -376,23 +296,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286aef4e8d85db66e05fe4a5c799e410:17b8a4e2f39e5747215559a2440277f7
 https://aseanic.github.io/hls/53.m3u8
 
-#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
-https://www.googleapis.com/drive/v3/files/1XNOxWcc0TOqhBQo9gXO9yQxolfcN5pJm?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
-#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
-plugin://plugin.video.youtube/play/?video_id=MiTHrzuyTzA&live=1
-
-#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
-plugin://plugin.video.youtube/play/?video_id=f0KeLKauiDU&live=1
-
-#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/29/xSuk0x.png",Astro Mustika
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Prebet%20Lapok.mp4
-
-#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/29/xSuk0x.png",Astro Mustika
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Da%20Di%20Du.mp4
-
-#EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/23/xpodQJ.png",Astro Maya HD
-https://www.googleapis.com/drive/v3/files/1se0BtN1vGn8iKMCR_tDF1Ihmd29INS18?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #☯☯ || CHINESE CHANNELS || ☯☯
 
@@ -487,6 +391,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 
+
+
+
 #☯☯ || INDIAN CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Indian" tvg-id="211.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tDiG.png",Sun TV சன் டிவி
@@ -576,6 +483,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:mimetype=application/dash+xml
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
+
+
+
+
 #☯☯ || LIFESTYLE CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Lifestyle" tvg-id="707.astro" tvg-logo="https://pictr.com/images/2025/01/14/x12z7Q.png",TLC
@@ -639,6 +550,9 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
+
+
 
 #☯☯ || DOCUMENTARY CHANNELS || ☯☯
 
@@ -733,6 +647,9 @@ http://45.159.93.14:8080/144264/661943/22125
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22148
 
+
+
+
 #☯☯ || ENTERTAINMENT CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="701.astro" tvg-logo="https://pictr.com/images/2024/11/06/xi92Bq.png",AXN
@@ -789,6 +706,9 @@ http://45.159.93.14:8080/144264/661943/22065
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22946
+
+
+
 
 #☯☯ || KIDS CHANNELS || ☯☯
 
@@ -869,6 +789,9 @@ http://45.159.93.14:8080/144264/661943/21801
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
+
+
+
 
 #☯☯ || MOVIES CHANNELS || ☯☯
 
@@ -951,6 +874,9 @@ http://45.159.93.14:8080/144264/661943/22901
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+
+
 
 #☯☯ || NEWS CHANNELS || ☯☯
 
@@ -1049,6 +975,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default_primary.m
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|98817b144bcf19fd0ddca7fe54cee110:44b423a77dd34ace162db35cbb0fb6a3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
+
+
+
 
 #☯☯ || SPORTS CHANNELS || ☯☯
 
@@ -1276,189 +1205,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #KODIPROP:mimetype=application/dash+xml
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#☯☯ || RADIO CHANNELS || ☯☯
 
-#EXTINF:-1 group-title="Radio" tvg-id="852.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppvO6.png",Hitz FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c759f4bc157b00a7b1dba7873197fc10:96da0bbe83b8f54194e42428e1fd6632
-https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
 
-#EXTINF:-1 group-title="Radio" tvg-id="853.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppJZq.png",My FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8f618c12955ac5c431f5f901451c9d10:433fa68d6ec980675c96bb5ae2e01789
-https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
 
-#EXTINF:-1 group-title="Radio"tvg-id="854.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppK4I.png",LITE
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e8ab350491e05128235859f127225b10:b59d48e5da5e34a1d17bcb6e8cc36267
-https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd
 
-#EXTINF:-1 group-title="Radio" tvg-id="855.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppO5O.png",MIX FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|14f020e638635a66792cc7955e4d2810:8e2be3777dd95fb09ce2a70cf099cf8a
-https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd
 
-#EXTINF:-1 group-title="Radio"tvg-id="856.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppkpY.png",ERA FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|85294251c8aeb373689eaa0ea9587810:4d559fcc12052d9e7fce0f8f6592bba1
-https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
-
-#EXTINF:-1 group-title="Radio"tvg-id="857.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp9jZ.png",SINAR FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7af3ec1f2db077ae6374a018cbb48510:9458ed76e85f1ad8aa7eefcdbd628908
-https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
-
-#EXTINF:-1 group-title="Radio"tvg-id="858.astro"  tvg-logo="https://pictr.com/images/2025/01/20/xppR2J.png",MELODY FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d34dc49701f9c22b9f20baabb27ad410:6df52c46b193522fe87420938e029759
-https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd
-
-#EXTINF:-1 tvg-id="859.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpptin.png" group-title="Radio",RAAGA
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8d9ba6f62b14a5d5706b21007bc21310:058790fb88613e6a71028aafa2258403
-https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
-
-#EXTINF:-1 tvg-id="860.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp2IB.png" group-title="Radio",CLASSIC ROCK
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74377f9dea75453994f7f6f5edb08e10:a064d58fa49d67614b052ab9a92a375c
-https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_primary.mpd
-
-#EXTINF:-1 tvg-id="861.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp3Oc.png" group-title="Radio",GOLD
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8f92ecdf4cd1ac55bc8c788fa1958610:715c8401d7829c9a7c5d665922ca13f6
-https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd
-
-#EXTINF:-1 tvg-id="862.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppsaG.png" group-title="Radio",OPUS
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a14f9a14450a96032b106d4ee8181310:b0b97cca1f9e311a09d33265c85a20e8
-https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_primary.mpd
-
-#EXTINF:-1 group-title="Radio"tvg-id="863.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGP8P.png",GEGAR
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|70b6a9d1c5f5d275accf0a8c51dbf710:a0feca3810b9227592bd893bfb9f1f89
-https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
-
-#EXTINF:-1 tvg-id="864.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpG0vj.png" group-title="Radio",INDIA BEAT
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2b4e873bc93eff959ba232e1fa016f10:3e84b173e8997210fd270b7029491a9e
-https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
-
-#EXTINF:-1 tvg-id="865.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpG77l.png" group-title="Radio",JAZZ
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1bbab67b1f95ae9a32db73a88c308110:b284563fcddeb078b5bfe0efb684ffa1
-https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
-
-#EXTINF:-1 tvg-id="866.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGBp2.png" group-title="Radio",OSAI
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|082e516398c5ea15d6b9cda572247c10:cb8b2f2190cd84b62e6876fcc6bf24bf
-https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_primary.mpd
-
-#EXTINF:-1 tvg-id="867.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGEjf.png" group-title="Radio",BAYU
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5515d4f22664e386c62f7cf2c166ab10:f72c380581aa12a016ea88789c679c67
-https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
-
-#EXTINF:-1 tvg-id="868.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGx3U.png" group-title="Radio",KENYALANG
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fdd9690c43631eac67dbfb11a6d6a510:53bcece8d71ecbe7bac08a94927cf358
-https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
-
-#EXTINF:-1 tvg-id="869.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGZi9.png" group-title="Radio",NAS FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ae8c20070c706333ad13230f05411c10:9c0832a8dbc36d2ab5892600ea6960fd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_primary.mpd
-
-#EXTINF:-1 tvg-id="870.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGaIu.png" group-title="Radio",V FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ed4dc7b6e2225c45634e9d63272a9b10:57d4290607a9a3a163de07388fcdf58d
-https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd
-
-#EXTINF:-1 tvg-id="871.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGgkg.png" group-title="Radio",WAI FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bde4784bc64eb326169d11c10a0b1510:bc9df5e162c5692669a8ec6366c9e4db
-https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_primary.mpd
-
-#EXTINF:-1 tvg-id="872.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGraX.png" group-title="Radio",TRAXX FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74c6ae20ff7e31ee2aa1812bc7931310:865a25aba8134164791b29793d7b97db
-https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
-
-#EXTINF:-1 tvg-id="873.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGN88.png" group-title="Radio",MINNAL FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4a2428702c66220ce105d5cba2033410:d2011e32b524a02e43978e1a066394bd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd
-
-#EXTINF:-1 tvg-id="874.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGUFx.png" group-title="Radio",AI FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|99d0060f4d3333be90b0cae6addb4310:2f61d66cfce12bcb056571510999f3bf
-https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd
-
-#EXTINF:-1 tvg-id="875.astro" tvg-logo="https://pictr.com/images/2024/01/04/EXD2Gc.png" group-title="Radio",ASYIK FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ba01b2f73c76432e649092767f107010:8c198e97119e46dad9a4d693f5a82aff
-https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
-
-#EXTINF:-1 group-title="Radio"tvg-id="876.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpG67v.png",ZAYAN FM 
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f8366fd866e0ef521268b53446203610:8ac6d3ead461c5c1497ab25a8bd1f619
-https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
-
-#EXTINF:-1 group-title="Radio"tvg-id="877.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGSGV.png",GOXUAN FM 
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ee738a67776d147e95f95df27e626b10:ef1e7ce3e50a78788ce1831cea8e187d
-https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
 
 #☯☯ || MUSIC CHANNELS || ☯☯
 
@@ -1611,6 +1362,9 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 
+
+
+
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
 #EXTINF:-1 tvg-id="Ch 5" group-title="Singapore" tvg-logo="https://pictr.com/images/2024/11/07/xiR4lV.png", Channel 5
@@ -1683,6 +1437,10 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
+
+
+
+
 #☯☯ || KOREAN CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Korean" tvg-id="392.astro" tvg-logo="https://pictr.com/images/2025/01/15/xpPJHx.png",KBS World
@@ -1743,6 +1501,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|53b7da012ab34bd4a37e1190174015e2:498fb9e0165554a2de01fded75be092e
 https://atemeshield1-voe.sysln.id/live/eds/GEMHD/mpd/GEMHD.mpd
+
+
+
+
 
 #☯☯ || INDO CHANNELS || ☯☯
 
@@ -2011,6 +1773,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnt
 
 #documentary
 
+
+
 #Kids 
 
 #EXTINF:-1 tvg-id="FunPlanet.id" group-title="Indonesia;Kids" tvg-logo="https://pictr.com/images/2025/01/23/xpIZ6q.jpg",FUN PLANET
@@ -2051,6 +1815,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+
+
+
 
 #Entertainment
 
@@ -2095,6 +1862,9 @@ https://atemeshield1-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
+
+
+
 
 #Movies
 
@@ -2165,6 +1935,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+
+
 
 #Religion
 
@@ -2238,323 +2011,193 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
 https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
 
-#☯☯ || THAI CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id="iptv36.nbt" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6lOMQ.png",NBT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="iptv36.thaipbs" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6lkJ1.png",TPBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tpbs/tpbs.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="iptv36.altv" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6ltQ6.png",ALTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/altv2/altv.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="iptv36.tv5" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6l2Dq.png",5HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="iptv36.tsports" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6lsfr.png",TSPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="iptv36.tptv" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6z7YZ.png",TPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="iptv36.tnn16" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6zBJJ.png",TNN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
+#☯☯ || RADIO CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id="iptv36.jkn18" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6zxEn.png",JKN18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.nation" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6zHVB.png",NATION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/nation_1/nation_1.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.workpoint" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6zasG.png",WORKPOINT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/workpointmyStream.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.true4u" group-title="Thailand" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/125_y_9yqQrmCd6GNcgesAxhFnKWpwRaUiODEu.png",TRUE24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/true4umyStream.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.gmm25" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6zNRl.png",GMM25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/gmm25myStream.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.ch8" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6z6Yf.png",ช่อง 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/ch8myStream.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.mono29" group-title="Thailand" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/128_y_cVJ9st4Ddv8m5PhaQMlgyB7HFUALYiZr.png",MONO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/MonomyStream.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.mcot" group-title="Thailand" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/129_y_QM4D2CX1RUHmVaWJcYIKqZowPEjubinT.png",MCOT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
-
-#EXTINF:-1 tvg-id="iptv36.one" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6zSKU.png",ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/onemyStream.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.thairath" group-title="Thailand" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/131_y_3DPNEFWTadeZ6Jsl9AI10RXbcCkwj7ym.png",THAIRATH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/thairathmyStream.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.ch3" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6zzE9.png",3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.amarin" group-title="Thailand" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/133_y_BPJVyimD7beLf4AErFkTjG6ISC0hxWtz.png",AMARIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/amarinmyStream.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.ch7" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6zpTg.png",7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/ch7myStream.m3u8
-
-#EXTINF:-1 tvg-id="iptv36.pptv" group-title="Thailand" tvg-logo="https://pictr.com/images/2024/11/13/x6zVl8.png",PPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/pptvmyStream.m3u8
-
-#☯☯ || PINOY CHANNELS || ☯☯
-
-#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest?cb=20230410113026" group-title="Philippines", TV5 HD
+#EXTINF:-1 group-title="Radio" tvg-id="852.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppvO6.png",Hitz FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c759f4bc157b00a7b1dba7873197fc10:96da0bbe83b8f54194e42428e1fd6632
+https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/2000px-OneNewsPH_logo.svg.png" group-title="Philippines", One News HD
+#EXTINF:-1 group-title="Radio" tvg-id="853.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppJZq.png",My FM
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8f618c12955ac5c431f5f901451c9d10:433fa68d6ec980675c96bb5ae2e01789
+https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
+
+#EXTINF:-1 group-title="Radio"tvg-id="854.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppK4I.png",LITE
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e8ab350491e05128235859f127225b10:b59d48e5da5e34a1d17bcb6e8cc36267
+https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Onesports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2000px-One_Sports_logo.svg.png" group-title="Philippines", One Sports HD
+#EXTINF:-1 group-title="Radio" tvg-id="855.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppO5O.png",MIX FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|14f020e638635a66792cc7955e4d2810:8e2be3777dd95fb09ce2a70cf099cf8a
+https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Onesportsplus.Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/2560px-OneSportsPlus_logo.svg.png" group-title="Philippines", One Sports+ HD
+#EXTINF:-1 group-title="Radio"tvg-id="856.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppkpY.png",ERA FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|85294251c8aeb373689eaa0ea9587810:4d559fcc12052d9e7fce0f8f6592bba1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Oneph.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/OnePH_logo.svg/2000px-OnePH_logo.svg.png" group-title="Philippines", One PH
+#EXTINF:-1 group-title="Radio"tvg-id="857.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp9jZ.png",SINAR FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7af3ec1f2db077ae6374a018cbb48510:9458ed76e85f1ad8aa7eefcdbd628908
+https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://iili.io/doG0LSj.png" group-title="Philippines",TFC
+#EXTINF:-1 group-title="Radio"tvg-id="858.astro"  tvg-logo="https://pictr.com/images/2025/01/20/xppR2J.png",MELODY FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d34dc49701f9c22b9f20baabb27ad410:6df52c46b193522fe87420938e029759
+https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd
 
-#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://iili.io/2rSp1ZQ.png"  group-title="Philippines",GMA Pinoy TV
+#EXTINF:-1 tvg-id="859.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpptin.png" group-title="Radio",RAAGA
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8d9ba6f62b14a5d5706b21007bc21310:058790fb88613e6a71028aafa2258403
+https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/2000px-RPTV_%282024%29.svg.png" group-title="Philippines", RPTV
+#EXTINF:-1 tvg-id="860.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp2IB.png" group-title="Radio",CLASSIC ROCK
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74377f9dea75453994f7f6f5edb08e10:a064d58fa49d67614b052ab9a92a375c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_primary.mpd
 
-#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Philippines", A2Z
+#EXTINF:-1 tvg-id="861.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp3Oc.png" group-title="Radio",GOLD
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8f92ecdf4cd1ac55bc8c788fa1958610:715c8401d7829c9a7c5d665922ca13f6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Buko.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="Philippines", Buko Channel
+#EXTINF:-1 tvg-id="862.astro" tvg-logo="https://pictr.com/images/2025/01/20/xppsaG.png" group-title="Radio",OPUS
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a14f9a14450a96032b106d4ee8181310:b0b97cca1f9e311a09d33265c85a20e8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Depedchannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DepEd_TV.png" group-title="Philippines", DepEd TV
+#EXTINF:-1 group-title="Radio"tvg-id="863.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGP8P.png",GEGAR
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|70b6a9d1c5f5d275accf0a8c51dbf710:a0feca3810b9227592bd893bfb9f1f89
+https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Ibc13.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/IBC_13_Logo_2011.svg/1200px-IBC_13_Logo_2011.svg.png" group-title="Philippines", IBC 13
+#EXTINF:-1 tvg-id="864.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpG0vj.png" group-title="Radio",INDIA BEAT
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2b4e873bc93eff959ba232e1fa016f10:3e84b173e8997210fd270b7029491a9e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Uaap.Varsity.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/10/Varsity_Channel_Logo_2021.png/revision/latest?cb=20220319212403" group-title="Philippines", UAAP Varsity Channel
+#EXTINF:-1 tvg-id="865.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpG77l.png" group-title="Radio",JAZZ
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1bbab67b1f95ae9a32db73a88c308110:b284563fcddeb078b5bfe0efb684ffa1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Christmas.Message.Dummy.us" tvg-logo="logo_url" group-title="Philippines", POPUP PPV HD
+#EXTINF:-1 tvg-id="866.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGBp2.png" group-title="Radio",OSAI
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286e1c2d622c4c73b5c3d72e4a848abd:b7fad67599c1ce3c2fbc9d02b901be05
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|082e516398c5ea15d6b9cda572247c10:cb8b2f2190cd84b62e6876fcc6bf24bf
+https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Cg.Mptv.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/MPTV%20-%20Rev.png" group-title="Philippines", MPTV
+#EXTINF:-1 tvg-id="867.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGEjf.png" group-title="Radio",BAYU
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5515d4f22664e386c62f7cf2c166ab10:f72c380581aa12a016ea88789c679c67
+https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
 
-#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/2000px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="Philippines", ANC Global
-https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="PBO.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Philippines", PBO
+#EXTINF:-1 tvg-id="868.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGx3U.png" group-title="Radio",KENYALANG
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fdd9690c43631eac67dbfb11a6d6a510:53bcece8d71ecbe7bac08a94927cf358
+https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Tvup.Prd.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/TVUP%20Logo%20.png" group-title="Philippines", TVUP
+#EXTINF:-1 tvg-id="869.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGZi9.png" group-title="Radio",NAS FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ae8c20070c706333ad13230f05411c10:9c0832a8dbc36d2ab5892600ea6960fd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Tagalized.Movie.Channel.ph" tvg-logo="https://tmc.ph/storage/images/299570476c6f0309545110c592b6a63b/c/TMC_LOGO_crop-default.png" group-title="Philippines", TMC
+#EXTINF:-1 tvg-id="870.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGaIu.png" group-title="Radio",V FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ed4dc7b6e2225c45634e9d63272a9b10:57d4290607a9a3a163de07388fcdf58d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd
 
-#EXTINF:-1 tvg-id="DREAMWORKS.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/800px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Philippines", Dreamwork Tagalog
+#EXTINF:-1 tvg-id="871.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGgkg.png" group-title="Radio",WAI FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bde4784bc64eb326169d11c10a0b1510:bc9df5e162c5692669a8ec6366c9e4db
+https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Knowledge.Channel.ph" tvg-logo="https://images.squarespace-cdn.com/content/v1/61236a89ddeb4615e347e1c3/f0f477fa-5c26-473f-8e6c-45e0bafd2f42/logo-hori-nobg-channel.png" group-title="Philippines", Knowledge Channel
+#EXTINF:-1 tvg-id="872.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGraX.png" group-title="Radio",TRAXX FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74c6ae20ff7e31ee2aa1812bc7931310:865a25aba8134164791b29793d7b97db
+https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Pbarush.Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Philippines", PBA Rush HD
+#EXTINF:-1 tvg-id="873.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGN88.png" group-title="Radio",MINNAL FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4a2428702c66220ce105d5cba2033410:d2011e32b524a02e43978e1a066394bd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd
 
-#EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA120-C9E1-11EC-9D64-0242AC120002//0-3x1.jpg?width=1920" group-title="Philippines", Viva Cinema
+#EXTINF:-1 tvg-id="874.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGUFx.png" group-title="Radio",AI FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|99d0060f4d3333be90b0cae6addb4310:2f61d66cfce12bcb056571510999f3bf
+https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TAPTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Philippines", Tap TV
+#EXTINF:-1 tvg-id="875.astro" tvg-logo="https://pictr.com/images/2024/01/04/EXD2Gc.png" group-title="Radio",ASYIK FM
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ba01b2f73c76432e649092767f107010:8c198e97119e46dad9a4d693f5a82aff
+https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Tapmovies.Hd.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/revision/latest?cb=20210920125940" group-title="Philippines", Tap Movies HD
+#EXTINF:-1 group-title="Radio"tvg-id="876.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpG67v.png",ZAYAN FM 
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f8366fd866e0ef521268b53446203610:8ac6d3ead461c5c1497ab25a8bd1f619
+https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TAPSPORTS.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Philippines", TAP SPORTS
+#EXTINF:-1 group-title="Radio"tvg-id="877.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpGSGV.png",GOXUAN FM 
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
-#EXTINF:-1 tvg-id="TAPEDGE.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TapEdge-ph.png" group-title="Philippines", TAP EDGE
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
-
-#EXTINF:-1 tvg-id="Tapactionflix.Hd.ph" tvg-logo="https://www.tapdmv.com/logo-TapActionFlix-2021.png" group-title="Philippines", Tap Action Flix HD
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
-
-#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCU5RfFBChLXzBJBzMJ4lfEg0MYnlPWqyxQ&s" group-title="Philippines", PTV 4
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
-
-#EXTINF:-1 tvg-id="Sari.Sari.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/36/Sari-Sari_Channel_Logo_2016.png/revision/latest/scale-to-width-down/300?cb=20210301154319" group-title="Philippines", SARI SARI Channel
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
-
-#EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Philippines", LOTUS MACAU
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
-
-#EXTINF:-1 tvg-id="Cgnl.Nba.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png" group-title="Philippines", NBA PH (Cignal)
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
-
-#EXTINF:-1 tvg-id="Fashiontv.Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png" group-title="Philippines;Lifestyle", FASHION TV HD
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
-
-#EXTINF:-1 tvg-id="Bilyonaryoch.ph" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRzp4mmOlDqQJYDHOkpQ4G6pflLvDV5d5S5Q&s" group-title="Philippines", Bilyonaryo News Channel
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ee738a67776d147e95f95df27e626b10:ef1e7ce3e50a78788ce1831cea8e187d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
