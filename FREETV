@@ -149,7 +149,8 @@ https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
 #EXTINF:-1 tvg-group="" tvg-id="TVS" tvg-number="121" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
 ;https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+; https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #EXTINF:-1 tvg-group="" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", TV Alhijrah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
