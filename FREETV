@@ -16,7 +16,7 @@
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-https://aseanic.github.io/hls/33.m3u8
+https://aseanic.github.io/hls/31.m3u8
 
 #EXTINF:-1  tvg-id="104.astro"  group-title="5 ASTRO" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria 2
 #KODIPROP:contentlookup=False
@@ -1464,6 +1464,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 #EXTINF:-1 tvg-id="GALAXYPremium" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/GalaxyPremium.png" group-title="MOVIES",Galaxy Premium
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.amcnetworks.com/wetv/logos/wetv-2024.svg" group-title="MOVIES", WeTV
+https://bcovlive-a.akamaihd.net/847d1aa780be4afcbf3b821ea322e74b/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Miramax.svg" group-title="MOVIES", Miramax
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
 
 
