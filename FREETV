@@ -7,30 +7,24 @@
 
 
 #EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
-#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", SuperSport Grandstand
-http://fccsen.dyndns.tv:29706/5dbc731200013b91a18b6503780f38d0
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", meiyamovie_twn
+https://haoyunlai.serv00.net/Smartv-1.php?id=meiyamovie_twn
 
-#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",SuperSport PSL
-http://fccsen.dyndns.tv:29706/5dbc73ba000d158aa18df84d33bd4bff
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", Celestialindo
+https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
 
-#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",SuperSport Pre League
-http://fccsen.dyndns.tv:29706/5dbc73d500049208a18e5f9739337dfd
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", Celestial
+https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
 
-SuperSport La Liga,p3p://fccsen.dyndns.tv:29706/5dbc73f000018817a18ec84861c30959
-SuperSport Football,p3p://fccsen.dyndns.tv:29706/5dbc740a0006d936a18f2f3543ec57d4
-SuperSport Action,p3p://fccsen.dyndns.tv:29706/5dbc741f000025baa18f7f8645924e7b
-SuperSport Rugby,p3p://fccsen.dyndns.tv:29706/5dbc7435000d2dd2a18fd8cc7a344674
-SuperSport Cricket,p3p://fccsen.dyndns.tv:29706/5dbc745300014275a1904aef433312fc
-SuperSport Variety 1,p3p://fccsen.dyndns.tv:29706/5dbc74710008621ba190c1f24c216128
-SuperSport Variety 2,p3p://fccsen.dyndns.tv:29706/5dbc748a0006d246a191233468e4297b
-SuperSport Variety 3,p3p://fccsen.dyndns.tv:29706/5dbc749d00080638a1916dba593e7aba
-SuperSport Variety 4,p3p://fccsen.dyndns.tv:29706/5dbc74c900008634a19217af0b863fd8
-SuperSport Golf,p3p://fccsen.dyndns.tv:29706/6054cab100024980bc0a712d07be2c17
-SuperSport Motorsport,p3p://fccsen.dyndns.tv:29706/6054cbf2000bd5e5bc0f59891d6e7c3a
-SuperSport Tennis,p3p://fccsen.dyndns.tv:29706/6054ca0c000ad56fbc07eed506db110e
-SuperSport Blitz,p3p://fccsen.dyndns.tv:29706/5dbc74fe0008c0d2a192e8d33c6f6d51
-Afro Music Pop,p3p://fccsen.dyndns.tv:29706/5ebca53300001a428a4ed37b0c9e6c79
-Mzansi Magic Music,p3p://fccsen.dyndns.tv:29706/63fd2cb3000a7d9105c63d6b79fb1883
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", Celestial2
+https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
+
+
+
+ç¾Žäºšç”µå½±,https://haoyunlai.serv00.net/Smartv-1.php?id=meiyamovie_twn
+å¤©æ˜ ç»å…¸,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
+å¤©æ˜ ç»å…¸,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
+å¤©æ˜ ç»å…¸,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
 
 
 
