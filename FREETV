@@ -6,28 +6,6 @@
 ;#EXTM3U vod_library="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%202025, https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/AOTG%20VOD, https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/VOD%20IPTV%20MALAY"
 
 
-#EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
-#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", meiyamovie_twn
-https://haoyunlai.serv00.net/Smartv-1.php?id=meiyamovie_twn
-
-#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", Celestialindo
-https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
-
-#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", Celestial
-https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
-
-#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", Celestial2
-https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
-
-
-
-ç¾Žäºšç”µå½±,https://haoyunlai.serv00.net/Smartv-1.php?id=meiyamovie_twn
-å¤©æ˜ ç»å…¸,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
-å¤©æ˜ ç»å…¸,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
-å¤©æ˜ ç»å…¸,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
-
-
-
 
 --------------------------------- 5 ASTRO --------------------------------
 
@@ -366,12 +344,16 @@ http://d1w72er2qn2fg9.cloudfront.net/aod.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="ASTRO MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Prima.png",105 ASTRO PRIMA
-http://15.235.144.67:35461/live/654321/123456/734.m3u8
+;http://15.235.144.67:35461/live/654321/123456/734.m3u8
+;http://15.235.144.67:35461/live/654321/123456/4313.m3u8
+https://aseanic.github.io/hls/34.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="ASTRO MALAYSIA" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-http://15.235.144.67:35461/live/654321/123456/10838.m3u8
+;http://15.235.144.67:35461/live/654321/123456/4354.m3u8
+;http://15.235.144.67:35461//live/654321/123456/4353.m3u8
+https://aseanic.github.io/hls/31.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
@@ -1300,6 +1282,23 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 
 
+################## MOVIES TEST#####################
+
+#EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
+
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", xingwei_movie
+https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie
+
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="", videolandmovie
+https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
+
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="",ettvmovie
+https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
+
+#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="",1asia_action
+https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
+
+
 
 
 
@@ -1399,19 +1398,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
+
+#EXTINF:-1 tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png"  group-title="MOVIES",Celestial Classic Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="MOVIES" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_CALESTIAL.png",309 CELESTIAL MOVIES (A)
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="MOVIES" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_CALESTIAL.png",309 CELESTIAL MOVIES
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
-;#KODIPROP:inputstream.adaptive.license_type=clearkey
-;#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
-;#EXTINF:-1 tvg-id="309.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png" group-title="MOVIES",Celestial Movies (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="309.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="MOVIES",Celestial Movies (Indonesia)
 ;https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
+;https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial (backup link)
+https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
