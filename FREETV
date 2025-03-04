@@ -8,13 +8,13 @@
 
 #EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
 #EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", SuperSport Grandstand
-p3p://fccsen.dyndns.tv:29706/5dbc731200013b91a18b6503780f38d0
+http://fccsen.dyndns.tv:29706/5dbc731200013b91a18b6503780f38d0
 
 #EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",SuperSport PSL
-p3p://fccsen.dyndns.tv:29706/5dbc73ba000d158aa18df84d33bd4bff
+http://fccsen.dyndns.tv:29706/5dbc73ba000d158aa18df84d33bd4bff
 
 #EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",SuperSport Pre League
-p3p://fccsen.dyndns.tv:29706/5dbc73d500049208a18e5f9739337dfd
+http://fccsen.dyndns.tv:29706/5dbc73d500049208a18e5f9739337dfd
 
 SuperSport La Liga,p3p://fccsen.dyndns.tv:29706/5dbc73f000018817a18ec84861c30959
 SuperSport Football,p3p://fccsen.dyndns.tv:29706/5dbc740a0006d936a18f2f3543ec57d4
