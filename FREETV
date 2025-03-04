@@ -1282,27 +1282,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 
 
-################## MOVIES TEST#####################
-
-#EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
-
-#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png", xingwei_movie
-https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie
-
-#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="", videolandmovie
-https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
-
-#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="",ettvmovie
-https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
-
-#EXTINF:-1  tvg-id=""  group-title="TEST" tvg-logo="",1asia_action
-https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
-
-
-
-
-
-
 ################## MOVIES #####################
 
 #EXTINF:-1 group-logo="https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png"
