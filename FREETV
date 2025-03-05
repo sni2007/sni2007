@@ -492,94 +492,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-dash-s
 
 ############################# 🇲🇾 SPORTS - ASTRO ##############################
 
-#EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
-
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="" group-title="SPORTS - ASTRO" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
-https://get.perfecttv.net/1080.mpd?channel=arenafhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDE1MjAsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.i7vhUgMvgxAiJZMxyZFA_Uka67D9qhKatD38lfyP7ZY
-
-#EXTINF:-1 tvg-id="AstroArena2" tvg-name="" group-title="SPORTS - ASTRO" tvg-logo="https://get.perfecttv.net/logo/arena2fhd.png",802 Arena 2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
-https://get.perfecttv.net/1080.mpd?channel=arena2fhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDE1MjAsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.i7vhUgMvgxAiJZMxyZFA_Uka67D9qhKatD38lfyP7ZY
-
-#EXTINF:-1 tvg-id="" tvg-name="AstroArenaBola" group-title="SPORTS - ASTRO" tvg-logo="https://get.perfecttv.net/logo/arenabolafhd.png",803 Arena Bola FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-https://get.perfecttv.net/1080.mpd?channel=bola1fhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDE1MjAsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.i7vhUgMvgxAiJZMxyZFA_Uka67D9qhKatD38lfyP7ZY
-
-#EXTINF:-1 tvg-id="" tvg-name="AstroArenaBola2" group-title="SPORTS - ASTRO" tvg-logo="https://get.perfecttv.net/logo/arenabola2fhd.png",804 Arena Bola 2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
-https://get.perfecttv.net/1080.mpd?channel=bola2fhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDE1MjAsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.i7vhUgMvgxAiJZMxyZFA_Uka67D9qhKatD38lfyP7ZY
-
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="" group-title="SPORTS - ASTRO" tvg-logo="https://get.perfecttv.net/logo/premierleaguefhd.png",805 EPL FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
-https://get.perfecttv.net/1080.mpd?channel=epl1fhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDE1MjAsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.i7vhUgMvgxAiJZMxyZFA_Uka67D9qhKatD38lfyP7ZY
-
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="" group-title="SPORTS - ASTRO" tvg-logo="https://get.perfecttv.net/logo/premierleague2fhd.png",806 EPL2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
-https://get.perfecttv.net/1080.mpd?channel=epl2fhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDE1MjAsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.i7vhUgMvgxAiJZMxyZFA_Uka67D9qhKatD38lfyP7ZY
-
-#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="" group-title="SPORTS - ASTRO" tvg-logo="https://get.perfecttv.net/logo/grandstandfhd.png",807 Grandstand FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=66c94fd8908c43ccb5e7b3dd58a990d2:d489da5a8496d00a04757d432816ab71
-https://get.perfecttv.net/1080.mpd?channel=granstandfhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDE1MjAsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.i7vhUgMvgxAiJZMxyZFA_Uka67D9qhKatD38lfyP7ZY
-
-#EXTINF:-1 tvg-id="AstroFootball" tvg-name="AstroSupersport4" group-title="SPORTS - ASTRO" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png",808 Football FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=979e72a070ec437ba92c597c287acbad:7f4db6de524b2e51c87f61566ff77039
-https://get.perfecttv.net/1080.mpd?channel=footballfhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDE1MjAsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.i7vhUgMvgxAiJZMxyZFA_Uka67D9qhKatD38lfyP7ZY
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS - ASTRO" tvg-logo="https://get.perfecttv.net/logo/badmintonfhd.png",809 Badminton FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
-https://get.perfecttv.net/1080.mpd?channel=badmintonfhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDE1MjAsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.i7vhUgMvgxAiJZMxyZFA_Uka67D9qhKatD38lfyP7ZY
-
-#EXTINF:-1 tvg-id="AstroSportsPlus" tvg-name="" group-title="SPORTS - ASTRO" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",810 Sports Plus FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=28bfcc9774644bda822c17a35660164c:620dba660d3e1f42acd6b077b4ca1dd8
-https://get.perfecttv.net/1080.mpd?channel=sportplusfhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDE1MjAsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.i7vhUgMvgxAiJZMxyZFA_Uka67D9qhKatD38lfyP7ZY
-
-#EXTINF:-1 tvg-id="AstroSportsPlus2" tvg-name="" group-title="SPORTS - ASTRO" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",811 Sports Plus 2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4de5391b090c4259be8b7322f6d0bbb1:225f00d71a69a46b6160b56c2ff5f0b0
-https://get.perfecttv.net/1080.mpd?channel=sportplus2fhd&username=perfecttv&password=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDE1MjAsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.i7vhUgMvgxAiJZMxyZFA_Uka67D9qhKatD38lfyP7ZY
-
-
-
-
-############################# 🇲🇾 SPORTS  ##############################
+##################### 🇲🇾 SPORTS  ##############################
 
 ;#EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/Eni92r.png"
 ;#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png"  
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20240607/original/pngtree-67th-malaysian-independence-logo-vector-png-image_15264191.png" group-title="🇲🇾 SPORTS"
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
