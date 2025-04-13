@@ -9,7 +9,7 @@
 
 
 
---------------------------------- 5 ASTRO --------------------------------
+######################## 5 ASTRO ########################
 
 ;#EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
 
@@ -78,10 +78,7 @@ http://15.235.144.67:35461/live/654321/123456/6608.m3u8
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
---------------------------------- 5 ASTRO --------------------------------
-
-
-
+######################## 5 ASTRO ########################
 
 
 
@@ -122,6 +119,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_ott.mpd
 ;#EXTINF:-1 group-logo="https://www.jkom.gov.my/wp-content/uploads/2023/10/logo.svg"
 #EXTINF:-1 group-logo="https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png"
 
+
 #EXTINF:-1 tvg-group="" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
@@ -134,36 +132,40 @@ https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 #EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
-#EXTINF:-1 tvg-group="" tvg-id="TV6" tvg-name="TV6" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
-
-#EXTINF:-1 tvg-group="" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
-
-#EXTINF:-1 tvg-group="" tvg-id="8TV" tvg-name="8TV" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
-https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
-
-#EXTINF:-1 tvg-group="" tvg-id="TV9" tvg-name="TV9" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+#EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 (Tonton)
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 tvg-group="" tvg-id="OKEY" tvg-name="Okey Tv" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey TV
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
-;#EXTINF:-1 tvg-group="" tvg-id="TVS" tvg-number="121" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
-;#KODIPROP:inputstream.adaptive.license_type=clearkey
-;#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
-;#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-;https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+#EXTINF:-1 tvg-group="" tvg-id="TV6" tvg-name="TV6" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
+https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-group="" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
+;https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846
+
+#EXTINF:-1 tvg-group="" tvg-id="8TV" tvg-name="8TV" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
+;https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+
+#EXTINF:-1 tvg-group="" tvg-id="TV9" tvg-name="TV9" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+
 #EXTINF:-1 tvg-group="" tvg-id="TVS" tvg-number="121" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
-#EXTINF:-1 tvg-group="" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", TV Alhijrah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+;#EXTINF:-1 tvg-group="" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", TV Alhijrah
+;#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+;https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", TV Alhijrah 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 tvg-group="" tvg-id="BERITARTM" tvg-name="BERITA RTM" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
@@ -173,6 +175,12 @@ https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 
 #EXTINF:-1 tvg-group="" tvg-id="BernamaTV"  tvg-name="Bernama Tv" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama TV
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="BernamaTV"  tvg-name="Bernama Tv" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama TV
+logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
@@ -4183,4 +4191,4 @@ https://28163.live.streamtheworld.com/SARAWAK_FMAAC.aac
 https://28163.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="711" tvg-chno="711" tvg-logo="https://assets.radioactive.sg/org-bernama/283fd16b-9085-4526-90ad-fdcf2213b064-app_Bernama%28new%29_logo_W750xH750.png",Bernama Radio
-https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
+https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla12:20 PM 13/4/202512:20 PM 13/4/2025
