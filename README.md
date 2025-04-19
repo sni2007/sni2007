@@ -1,4 +1,7 @@
-THIS LINK CREATED DURING MY LEASURE TIME AS A HOBBY TO USE FOR MY OWN AND NOT FOR SELL.
-ALL LINK AVAILABLE ARE FORKED FROM OTHERS PUBLIC GITHUB AND SOME MAY NOT WORKING AS KEY EXPIRED OR REQUIRED UPDATE NEW LINK.
-IF YOU FOUND THIS LINK, FREE TO USE IT.
-ENJOY IT !!
+----------------------------------------------------------------------------------------------------------------
+This repository is created as a hobby and for personal use only. 
+All links and files provided are for educational and reference purposes only. 
+I am not responsible for any copyright infringement or legal issues that may arise from the use of this content. 
+Users are fully responsible for their own actions regarding any material found here.
+This content is not for sale or resale.
+----------------------------------------------------------------------------------------------------------------
