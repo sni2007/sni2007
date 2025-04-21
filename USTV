@@ -1,10 +1,157 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml"  
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="LIVE TV CHANNELS" tvg-id="A.and.E.US.-.Eastern.Feed.us",A&E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.-.Eastern.Feed.us",HBO - Eastern Feed
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.2.-.Eastern.Feed.us",HBO 2 - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.Comedy.HD.-.East.us",HBO Comedy HD - East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v17.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.Family.-.Eastern.Feed.us",HBO Family - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v5.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us",HBO Signature (HBO 3) - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.Zone.HD.-.East.us",HBO Zone HD - East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HGTV.USA.-.Eastern.Feed.us",HGTV USA - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v14.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HLN.us",HLN
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="LIVE TV CHANNELS" tvg-id="Hallmark.-.Eastern.Feed.us",Hallmark Channel - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us",Hallmark Family HD
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us",Hallmark Family HD (SD)
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/HallmarkDrama/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Hallmark.Mystery.Eastern.-.HD.us",Hallmark Mystery - HD
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v4.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="LIVE TV CHANNELS" tvg-id="History.Channel.US.-.Eastern.Feed.us",History Channel US - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v5.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="ION..-.Eastern.Feed.us",ION - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="LIVE TV CHANNELS" tvg-id="IFC.us",IFC Independent Film Channel US
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v4.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Investigation.Discovery.USA.-.Eastern.us",ID (Investigation Discovery) USA - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png" group-title="LIVE TV CHANNELS" tvg-id="LOGO.-.East.us",LOGO - East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v5.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Lifetime.Movies.-.East.us",Lifetime Movies Network - East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v3.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="LIVE TV CHANNELS" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us",Lifetime Network US - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="MoreMax..Eastern.us",CINEMAX MOREMAX Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png" group-title="LIVE TV CHANNELS" tvg-id="MovieMax.(Max.6).-.East.us",MovieMax (Max 6) - East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v14.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us",Showtime - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Showtime.2.-.Eastern.us",Showtime 2 - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="LIVE TV CHANNELS" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="LIVE TV CHANNELS" tvg-id="ABC.(KABC).Los.Angeles,.CA.us",ABC (KABC) Los Angeles
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -37,28 +184,6 @@ https://v16.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Altitude.Sports.-.Denver.us",Altitude Sports Denver
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="American.Heroes.Channel.us",American Heroes Channel
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="BBC.America.-.East.us",BBC AMERICA - East
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
@@ -71,35 +196,11 @@ https://v14.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v8.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="BET.-.Eastern.Feed.us",BET - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="BET.Her.us",BET HER
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v17.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Big.Ten.Network.us",Big Ten Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Bloomberg.TV.USA.us",BLOOMBERG TV USA
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v16.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Boomerang.us",Boomerang
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v2.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Bravo.USA.-.Eastern.Feed.us",BRAVO USA - Eastern Feed
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -131,12 +232,6 @@ https://v1.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v8.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="CBS.Sports.Network.USA.us",CBS SPORTS NETWORK USA
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="CMT.US.-.Eastern.Feed.us",CMT US - Eastern Feed
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
@@ -167,17 +262,17 @@ https://v16.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v13.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",CARTOON NETWORK USA - Eastern Feed
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="BET.-.Eastern.Feed.us",BET - Eastern Feed
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v3.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png" group-title="LIVE TV CHANNELS" tvg-id="Chicago.Sports.Network.us",Chicago Sports Network
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="BET.Her.us",BET HER
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
 
 
 
@@ -186,11 +281,9 @@ https://v5.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="LIVE TV CHANNELS" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v18.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
+
+
+
 
 
 
@@ -199,6 +292,90 @@ https://v18.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v5.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png" group-title="LIVE TV CHANNELS" tvg-id="FOX.(KTTV).Los.Angeles,.CA.us",FOX (KTTV) Los Angeles
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="LIVE TV CHANNELS" tvg-id="FOX.(WNYW).New.York,.NY.us",FOXNY
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="FUSE.TV.-.Eastern.feed.us",Fuse TV - Eastern feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v15.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="LIVE TV CHANNELS" tvg-id="FX.Movie.Channel.us",FX Movie Channel
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="FX.Networks.East.Coast.us",FX Networks East Coast
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="LIVE TV CHANNELS" tvg-id="FXX.us",FXX USA - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v15.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="MSNBC.USA.us",MSNBC USA
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="LIVE TV CHANNELS" tvg-id="Fox.Business.us",Fox Business
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="LIVE TV CHANNELS" tvg-id="Fox.News.us",Fox News
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v4.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="LIVE TV CHANNELS" tvg-id="Freeform.-.East.Feed.us",Freeform - East Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Game.Show.Network.-.East.us",GAME SHOW NETWORK East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
+
+
+
+
+
 
 
 
@@ -238,8 +415,41 @@ https://v17.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v5.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us",COMEDY CENTRAL (US) - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v3.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Crime.and.Investigation.Network.USA.HD.us",Crime + Investigation USA HD
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="American.Heroes.Channel.us",American Heroes Channel
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Boomerang.us",Boomerang
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",CARTOON NETWORK USA - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v3.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Disney.-.Eastern.Feed.us",DISNEY CHANNEL - Eastern Feed
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -259,6 +469,376 @@ https://v14.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v2.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="LIVE TV CHANNELS" tvg-id="MeTV.Toons.(WJLP2).NJ.us",MeTV Toons (WJLP2) New Jersey
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v4.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="MLB.Network.us",MLB Network
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="LIVE TV CHANNELS" tvg-id="MSG.(Madison.Square.Gardens).us",MSG Madison Square Gardens
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v17.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png" group-title="LIVE TV CHANNELS" tvg-id="MSG.Plus.us",MSG Plus
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="MTV.USA.-.Eastern.Feed.us",MTV USA - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v5.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="MTV.2.-.East.us",MTV 2 East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-us.png" group-title="LIVE TV CHANNELS" tvg-id="Me.TV.us",MeTV Wjlp New Jersey New York
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v16.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBA.TV.USA.us",NBA TV USA
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="LIVE TV CHANNELS" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us",NBC (KNBC) Los Angeles
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v17.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBC.(WNBC).New.York,.NY.us",NBC (WNBC) New York, NY
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png" group-title="LIVE TV CHANNELS" tvg-id="New.England.Sports.Network.us",New England Sports Network
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v3.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png" group-title="LIVE TV CHANNELS" tvg-id="NewsMax.TV.us",Newsmax TV
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="LIVE TV CHANNELS" tvg-id="Nick.Jr..-.East.us",NICK JR. - East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v14.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Nickelodeon.USA.-.East.Feed.us",Nickelodeon USA - East Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="LIVE TV CHANNELS" tvg-id="Nicktoons.-.East.us",Nicktoons - East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v14.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Oprah.Winfrey.Network.USA.Eastern.us",Oprah Winfrey Network USA Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v16.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Oxygen.-.Eastern.Feed.us",Oxygen - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v16.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="LIVE TV CHANNELS" tvg-id="PBS.-.Network.HD.-.Eastern.us",PBS (WNET) New York, NY
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="ReelzChannel.us",ReelzChannel
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="SEC.Network.us",SEC Network
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Science.us",Discovery Science
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v16.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="National.Geographic.US.-.Eastern.us",National Geographic US - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v16.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="National.Geographic.Wild.us",National Geographic Wild
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Starz.-.Eastern.us",Starz - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="SundanceTV.USA.-.East.us",SundanceTV USA - East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v4.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Syfy.-.Eastern.Feed.us",SYFY - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="TBS.-.East.us",TBS - East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v15.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="TLC.USA.-.Eastern.us",TLC USA - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="LIVE TV CHANNELS" tvg-id="The.Movie.Channel.HDTV.(East).us",TMC Channel (US) - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="TNT.-.Eastern.Feed.us",TNT - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v17.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Turner.Classic.Movies.USA.us",Turner Classic Movies USA
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png" group-title="LIVE TV CHANNELS" tvg-id="TV.Land.-.Eastern.us",TV Land Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" group-title="LIVE TV CHANNELS" tvg-id="TV.One.us",TV ONE
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="LIVE TV CHANNELS" tvg-id="TeenNick.-.Eastern.us",TeenNick - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png" group-title="LIVE TV CHANNELS" tvg-id="Universal.Kids.us",Universal Kids
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="LIVE TV CHANNELS" tvg-id="Telemundo..-.Eastern.Feed.us",Telemundo - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v17.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="The.Weather.Channel.us",The Weather Channel
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v14.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="The.Cooking.Channel.us",The Cooking Channel
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v5.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Food.Network.USA.-.Eastern.Feed.us",FOOD NETWORK USA - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v16.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Travel.US.-.East.us",Travel Channel US - East
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v5.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Outdoor.Channel.US.us",Outdoor Channel US
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v3.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="LIVE TV CHANNELS" tvg-id="Motor.Trend.HD.us",Motor Trend HD
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v17.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="LIVE TV CHANNELS" tvg-id="A.and.E.US.-.Eastern.Feed.us",A&E
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" group-title="LIVE TV CHANNELS" tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us",E! Entertainment Television USA - Eastern Feed
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
@@ -267,6 +847,101 @@ https://v5.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="USA.Network.-.East.Feed.us",USA Network - East Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" group-title="LIVE TV CHANNELS" tvg-id="Univision.-.Eastern.Feed.us",Univision - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v15.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="VH1.-.Eastern.Feed.us",VH1 - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="VICE.us",VICE
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="WEtv.us",WETV (Women's Entertainment) - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="YES.Network.us",YES Network
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v3.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="truTV.USA.-.Eastern.us",truTV USA - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v15.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="Space.City.Home.Network.us",Space City Home Network
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v5.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="LIVE TV CHANNELS" tvg-id="SNY:.SportsNet.New.York.(Comcast).us",SNY Sportsnet New York Comcast
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Big.Ten.Network.us",Big Ten Network
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Altitude.Sports.-.Denver.us",Altitude Sports Denver
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v5.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png" group-title="LIVE TV CHANNELS" tvg-id="Chicago.Sports.Network.us",Chicago Sports Network
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v5.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
 
 
 
@@ -302,45 +977,188 @@ https://v14.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png" group-title="LIVE TV CHANNELS" tvg-id="FOX.(KTTV).Los.Angeles,.CA.us",FOX (KTTV) Los Angeles
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="LIVE TV CHANNELS" tvg-id="Fox.Sports.1.us",Fox Sports 1
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v18.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="LIVE TV CHANNELS" tvg-id="FOX.(WNYW).New.York,.NY.us",FOXNY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="LIVE TV CHANNELS" tvg-id="Fox.Sports.2.us",Fox Sports 2
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
+https://v13.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="FUSE.TV.-.Eastern.feed.us",Fuse TV - Eastern feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="LIVE TV CHANNELS" tvg-id="Golf.Channel.USA.us",GOLF Channel USA
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="LIVE TV CHANNELS" tvg-id="FX.Movie.Channel.us",FX Movie Channel
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="Marquee.Sports.Network.us",Marquee Sports Network
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v18.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+https://v3.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="FX.Networks.East.Coast.us",FX Networks East Coast
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="LIVE TV CHANNELS" tvg-id="Mid-Atlantic.Sports.Network.us",Midatlantic Sports Network
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
+https://v13.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="LIVE TV CHANNELS" tvg-id="FXX.us",FXX USA - Eastern
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="Monumental.Sports.Network.us",Monumental Sports Network
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
+https://v13.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBC.Sports.Bay.Area.us",NBC Sports Bay Area
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBC.Sports.Boston.us",NBC Sports Boston
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v15.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBC.Sports.California.us",NBC Sports California
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us",NBC Sports Philadelphia
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="NFL.Network.us",NFL Network
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NFL.RedZone.us",NFL RedZone
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v5.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="NHL.Network.USA.us",NHL Network USA
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="TSN1.ca",TSN 1
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="TSN2.ca",TSN 2
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v4.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="TSN3.ca",TSN 3
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v4.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="TSN4.ca",TSN 4
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v17.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="TSN5.ca",TSN 5
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="The.Tennis.Channel.us",The Tennis Channel
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png" group-title="LIVE TV CHANNELS" tvg-id="Spectrum.Sportsnet.Lakers.us",Spectrum Sportsnet LA
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="LIVE TV CHANNELS" tvg-id="Spectrum.SportsNet.us",Spectrum Sportsnet
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/spectrum-sportsnet/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca",Sportsnet (East)
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.360.ca",Sportsnet 360
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v18.thetvapp.to/hls/sportsnet-360/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.One.ca",Sportsnet One
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.(Ontario).ca",Sportsnet Ontario
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v15.thetvapp.to/hls/sportsnet-ontario/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca",Sportsnet Pacific
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v15.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png" group-title="LIVE TV CHANNELS" tvg-id="SportsNet.Pittsburgh.us",SportsNet Pittsburgh
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca",Sportsnet West
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v14.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="CBS.Sports.Network.USA.us",CBS SPORTS NETWORK USA
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
 
 
 
@@ -458,773 +1276,6 @@ https://v5.thetvapp.to/hls/fanduel-sports-sun/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v3.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="MSNBC.USA.us",MSNBC USA
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="LIVE TV CHANNELS" tvg-id="Fox.Business.us",Fox Business
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="LIVE TV CHANNELS" tvg-id="Fox.News.us",Fox News
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v4.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="LIVE TV CHANNELS" tvg-id="Fox.Sports.1.us",Fox Sports 1
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="LIVE TV CHANNELS" tvg-id="Fox.Sports.2.us",Fox Sports 2
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="LIVE TV CHANNELS" tvg-id="Freeform.-.East.Feed.us",Freeform - East Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Game.Show.Network.-.East.us",GAME SHOW NETWORK East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v2.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="LIVE TV CHANNELS" tvg-id="Golf.Channel.USA.us",GOLF Channel USA
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v16.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us",COMEDY CENTRAL (US) - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v3.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Crime.and.Investigation.Network.USA.HD.us",Crime + Investigation USA HD
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.-.Eastern.Feed.us",HBO - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.2.-.Eastern.Feed.us",HBO 2 - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.Comedy.HD.-.East.us",HBO Comedy HD - East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v17.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.Family.-.Eastern.Feed.us",HBO Family - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us",HBO Signature (HBO 3) - Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HBO.Zone.HD.-.East.us",HBO Zone HD - East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HGTV.USA.-.Eastern.Feed.us",HGTV USA - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="HLN.us",HLN
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v2.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="LIVE TV CHANNELS" tvg-id="Hallmark.-.Eastern.Feed.us",Hallmark Channel - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us",Hallmark Family HD
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us",Hallmark Family HD (SD)
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/HallmarkDrama/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Hallmark.Mystery.Eastern.-.HD.us",Hallmark Mystery - HD
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v4.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="LIVE TV CHANNELS" tvg-id="History.Channel.US.-.Eastern.Feed.us",History Channel US - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="ION..-.Eastern.Feed.us",ION - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="LIVE TV CHANNELS" tvg-id="IFC.us",IFC Independent Film Channel US
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v4.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Investigation.Discovery.USA.-.Eastern.us",ID (Investigation Discovery) USA - Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png" group-title="LIVE TV CHANNELS" tvg-id="LOGO.-.East.us",LOGO - East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Lifetime.Movies.-.East.us",Lifetime Movies Network - East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v3.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="LIVE TV CHANNELS" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us",Lifetime Network US - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="MLB.Network.us",MLB Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="LIVE TV CHANNELS" tvg-id="MSG.(Madison.Square.Gardens).us",MSG Madison Square Gardens
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v17.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png" group-title="LIVE TV CHANNELS" tvg-id="MSG.Plus.us",MSG Plus
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v2.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="MTV.USA.-.Eastern.Feed.us",MTV USA - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="MTV.2.-.East.us",MTV 2 East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="Marquee.Sports.Network.us",Marquee Sports Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v3.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="LIVE TV CHANNELS" tvg-id="MeTV.Toons.(WJLP2).NJ.us",MeTV Toons (WJLP2) New Jersey
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v4.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-us.png" group-title="LIVE TV CHANNELS" tvg-id="Me.TV.us",MeTV Wjlp New Jersey New York
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v16.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="LIVE TV CHANNELS" tvg-id="Mid-Atlantic.Sports.Network.us",Midatlantic Sports Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="Monumental.Sports.Network.us",Monumental Sports Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="MoreMax..Eastern.us",CINEMAX MOREMAX Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png" group-title="LIVE TV CHANNELS" tvg-id="MovieMax.(Max.6).-.East.us",MovieMax (Max 6) - East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us",Showtime - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Showtime.2.-.Eastern.us",Showtime 2 - Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="LIVE TV CHANNELS" tvg-id="Motor.Trend.HD.us",Motor Trend HD
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v17.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBA.TV.USA.us",NBA TV USA
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="LIVE TV CHANNELS" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us",NBC (KNBC) Los Angeles
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v17.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBC.(WNBC).New.York,.NY.us",NBC (WNBC) New York, NY
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBC.Sports.Bay.Area.us",NBC Sports Bay Area
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBC.Sports.Boston.us",NBC Sports Boston
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBC.Sports.California.us",NBC Sports California
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us",NBC Sports Philadelphia
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="NFL.Network.us",NFL Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v18.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="NFL.RedZone.us",NFL RedZone
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="NHL.Network.USA.us",NHL Network USA
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v2.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="National.Geographic.US.-.Eastern.us",National Geographic US - Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v16.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="National.Geographic.Wild.us",National Geographic Wild
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v2.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png" group-title="LIVE TV CHANNELS" tvg-id="New.England.Sports.Network.us",New England Sports Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v3.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png" group-title="LIVE TV CHANNELS" tvg-id="NewsMax.TV.us",Newsmax TV
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="LIVE TV CHANNELS" tvg-id="Nick.Jr..-.East.us",NICK JR. - East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Nickelodeon.USA.-.East.Feed.us",Nickelodeon USA - East Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="LIVE TV CHANNELS" tvg-id="Nicktoons.-.East.us",Nicktoons - East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Oprah.Winfrey.Network.USA.Eastern.us",Oprah Winfrey Network USA Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v16.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Oxygen.-.Eastern.Feed.us",Oxygen - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v16.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="LIVE TV CHANNELS" tvg-id="PBS.-.Network.HD.-.Eastern.us",PBS (WNET) New York, NY
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="ReelzChannel.us",ReelzChannel
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v2.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="SEC.Network.us",SEC Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="LIVE TV CHANNELS" tvg-id="SNY:.SportsNet.New.York.(Comcast).us",SNY Sportsnet New York Comcast
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Science.us",Discovery Science
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v16.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png" group-title="LIVE TV CHANNELS" tvg-id="Space.City.Home.Network.us",Space City Home Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png" group-title="LIVE TV CHANNELS" tvg-id="Spectrum.Sportsnet.Lakers.us",Spectrum Sportsnet LA
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="LIVE TV CHANNELS" tvg-id="Spectrum.SportsNet.us",Spectrum Sportsnet
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/spectrum-sportsnet/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca",Sportsnet (East)
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.360.ca",Sportsnet 360
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v18.thetvapp.to/hls/sportsnet-360/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.One.ca",Sportsnet One
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v2.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.(Ontario).ca",Sportsnet Ontario
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/sportsnet-ontario/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca",Sportsnet Pacific
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png" group-title="LIVE TV CHANNELS" tvg-id="SportsNet.Pittsburgh.us",SportsNet Pittsburgh
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="LIVE TV CHANNELS" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca",Sportsnet West
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Starz.-.Eastern.us",Starz - Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="SundanceTV.USA.-.East.us",SundanceTV USA - East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v4.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Syfy.-.Eastern.Feed.us",SYFY - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="TBS.-.East.us",TBS - East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="TLC.USA.-.Eastern.us",TLC USA - Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v2.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="LIVE TV CHANNELS" tvg-id="The.Movie.Channel.HDTV.(East).us",TMC Channel (US) - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="TNT.-.Eastern.Feed.us",TNT - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v17.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="TSN1.ca",TSN 1
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v18.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="TSN2.ca",TSN 2
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v4.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="TSN3.ca",TSN 3
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v4.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="TSN4.ca",TSN 4
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v17.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="TSN5.ca",TSN 5
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png" group-title="LIVE TV CHANNELS" tvg-id="TV.Land.-.Eastern.us",TV Land Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v2.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" group-title="LIVE TV CHANNELS" tvg-id="TV.One.us",TV ONE
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="LIVE TV CHANNELS" tvg-id="TeenNick.-.Eastern.us",TeenNick - Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="LIVE TV CHANNELS" tvg-id="Telemundo..-.Eastern.Feed.us",Telemundo - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v17.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="The.Tennis.Channel.us",The Tennis Channel
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="The.Weather.Channel.us",The Weather Channel
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="The.Cooking.Channel.us",The Cooking Channel
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Food.Network.USA.-.Eastern.Feed.us",FOOD NETWORK USA - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v16.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="Travel.US.-.East.us",Travel Channel US - East
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Outdoor.Channel.US.us",Outdoor Channel US
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v3.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="Turner.Classic.Movies.USA.us",Turner Classic Movies USA
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="USA.Network.-.East.Feed.us",USA Network - East Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v18.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png" group-title="LIVE TV CHANNELS" tvg-id="Universal.Kids.us",Universal Kids
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" group-title="LIVE TV CHANNELS" tvg-id="Univision.-.Eastern.Feed.us",Univision - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="VH1.-.Eastern.Feed.us",VH1 - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="VICE.us",VICE
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="WEtv.us",WETV (Women's Entertainment) - Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="YES.Network.us",YES Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v3.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="LIVE TV CHANNELS" tvg-id="truTV.USA.-.Eastern.us",truTV USA - Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8
-
-
-
-
 
 
 
