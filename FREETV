@@ -804,16 +804,16 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/RVIKI.m3u8
 
 ##################Sky Cinema#####################
 
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="Sky Cinema",Sky Cinema Action
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="MOVIES 3",Sky Cinema Action
 http://supersonictv.live:8080/live/144264/661943/77462.ts
 
-#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Sky Cinema",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="MOVIES 3",Sky Cinema Comedy
 http://supersonictv.live:8080/live/144264/661943/77463.ts
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="Sky Cinema",Sky Cinema Hits
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="MOVIES 3",Sky Cinema Hits
 http://supersonictv.live:8080/live/144264/661943/77464.ts
 
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="Sky Cinema",Sky Cinema Drama
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="MOVIES 3",Sky Cinema Drama
 http://supersonictv.live:8080/live/144264/661943/77465.ts
 
 #EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Sky_Cinema_Family_%28alternative%29.svg/revision/latest/scale-to-width-down/1000?cb=20220502203843" group-title="MOVIES 3",Sky Cinema Family
