@@ -4296,15 +4296,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
 #EXTINF:-1 tvg-id="Astro.Awani.HD.my" tvg-name="Astro Awani HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="SupersonicTV",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
  
-#EXTINF:-1 tvg-id="BERNAMA.my" tvg-name="BERNAMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="SupersonicTV",Bernama
+#EXTINF:-1 tvg-id="BERNAMA.my" tvg-name="BERNAMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="SupersonicTV", Bernama
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="SupersonicTV",CNN INA
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="SupersonicTV", CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News New York
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png" group-title="SupersonicTV", ABC News New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnewslive.png" group-title="SupersonicTV", ABC NEWS LIVE
@@ -4384,22 +4384,22 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV",Eurosport 2
 http://supersonictv.live:8080/live/144264/661943/40452.ts
 
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV",EuroSport 1 (DE)
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV", EuroSport 1 (DE)
 http://supersonictv.live:8080/live/144264/661943/84724.ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV",Eurosport 2 (DE)
 http://supersonictv.live:8080/live/144264/661943/84726.ts
 
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV",EuroSport 1 (NL)
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV", EuroSport 1 (NL)
 http://supersonictv.live:8080/live/144264/661943/84482.ts
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV",Eurosport 2 (NL)
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV", Eurosport 2 (NL)
 http://supersonictv.live:8080/live/144264/661943/84481.ts
 
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV",EuroSport 1 (ES)
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV", EuroSport 1 (ES)
 http://supersonictv.live:8080/live/144264/661943/85900.ts
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV",Eurosport 2 (ES)
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="SupersonicTV", Eurosport 2 (ES)
 http://supersonictv.live:8080/live/144264/661943/85901.ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="SupersonicTV", TNT Sport 1
@@ -4570,44 +4570,44 @@ http://supersonictv.live:8080/live/144264/661943/40438.ts
 
 
 
-#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="The Golf Channel HDTV (GLFHD)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="SupersonicTV",GOLF
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="The Golf Channel HDTV (GLFHD)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="SupersonicTV", GOLF
 http://supersonictv.live:8080/live/144264/661943/40434.ts
 
-#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="SupersonicTV",Tennis
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="SupersonicTV", Tennis
 http://supersonictv.live:8080/live/144264/661943/40433.ts
 
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="SupersonicTV",WWE
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="SupersonicTV", WWE
 http://supersonictv.live:8080/live/144264/661943/22185.ts
 
 
 
 
-#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" group-title="SupersonicTV",TSN 1
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" group-title="SupersonicTV", TSN 1
 http://supersonictv.live:8080/live/144264/661943/40467.ts
 
-#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-name="The Sports Network 2 HDTV (TSN2D)" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="SupersonicTV",TSN 2
+#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-name="The Sports Network 2 HDTV (TSN2D)" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="SupersonicTV", TSN 2
 http://supersonictv.live:8080/live/144264/661943/40468.ts
 
-#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-name="The Sports Network 3 HDTV (TSN3HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="SupersonicTV",TSN 3
+#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-name="The Sports Network 3 HDTV (TSN3HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="SupersonicTV", TSN 3
 http://supersonictv.live:8080/live/144264/661943/40469.ts
 
-#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-name="The Sports Network 4 HDTV (TSN4H)" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="SupersonicTV",TSN 4
+#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-name="The Sports Network 4 HDTV (TSN4H)" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="SupersonicTV", TSN 4
 http://supersonictv.live:8080/live/144264/661943/40470.ts
 
-#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-name="The Sports Network 5 HDTV (TSN5HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="SupersonicTV",TSN 5
+#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-name="The Sports Network 5 HDTV (TSN5HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="SupersonicTV", TSN 5
 http://supersonictv.live:8080/live/144264/661943/40471.ts
 
 
 
-#EXTINF:-1 tvg-id="SONY.TEN.1.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SupersonicTV",TEN 1
+#EXTINF:-1 tvg-id="SONY.TEN.1.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SupersonicTV", TEN 1
 http://supersonictv.live:8080/live/144264/661943/85647.ts
 
-#EXTINF:-1 tvg-id="SONY.TEN.2.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SupersonicTV",TEN 2
+#EXTINF:-1 tvg-id="SONY.TEN.2.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SupersonicTV", TEN 2
 http://supersonictv.live:8080/live/144264/661943/85648.ts
 
-#EXTINF:-1 tvg-id="SONY.TEN.3.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SupersonicTV",TEN 3
-#EXTINF:-1 tvg-id="Sony.Ten.4.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SupersonicTV",TEN 4
-#EXTINF:-1 tvg-id="Sony.Ten.5.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SupersonicTV",TEN 5
+#EXTINF:-1 tvg-id="SONY.TEN.3.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SupersonicTV", TEN 3
+#EXTINF:-1 tvg-id="Sony.Ten.4.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SupersonicTV", TEN 4
+#EXTINF:-1 tvg-id="Sony.Ten.5.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SupersonicTV", TEN 5
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SupersonicTV", Bein Sport 1
@@ -4675,7 +4675,7 @@ https://tvpass.org/live/AMCEast/sd
 #EXTINF:-1 tvg-id="AMC+.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.pn" group-title="SupersonicTV", AMC+
 http://supersonictv.live:8080/live/144264/661943/77252.m3u8
 
-#EXTINF:-1 tvg-id="syfy.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="SupersonicTV",Syfy
+#EXTINF:-1 tvg-id="syfy.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="SupersonicTV", Syfy
 http://supersonictv.live:8080/live/144264/661943/22946.m3u8
 
 #EXTINF:-1 tvg-id="axstv.us" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/AXSTV/large_dark.png" group-title="SupersonicTV", AXS TV
@@ -4723,16 +4723,16 @@ http://supersonictv.live:8080/live/144264/661943/22081.m3u8
 #EXTINF:-1 tvg-id="eentertainment.ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png" group-title="SupersonicTV", E! (CA)
 http://supersonictv.live:8080/live/144264/661943/21914.m3u8
 
-#EXTINF:-1 tvg-id="freeform.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="SupersonicTV",FREEFORM
+#EXTINF:-1 tvg-id="freeform.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="SupersonicTV", FREEFORM
 http://supersonictv.live:8080/live/144264/661943/21804.m3u8
 
-#EXTINF:-1 tvg-id="fx.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png" group-title="SupersonicTV",FX
+#EXTINF:-1 tvg-id="fx.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png" group-title="SupersonicTV", FX
 http://supersonictv.live:8080/live/144264/661943/22091.m3u8
 
-#EXTINF:-1 tvg-id="fxm.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" group-title="SupersonicTV",FXM
+#EXTINF:-1 tvg-id="fxm.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" group-title="SupersonicTV", FXM
 http://supersonictv.live:8080/live/144264/661943/22093.m3u8
 
-#EXTINF:-1 tvg-id="fxx.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png" group-title="SupersonicTV",FXX
+#EXTINF:-1 tvg-id="fxx.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png" group-title="SupersonicTV", FXX
 http://supersonictv.live:8080/live/144264/661943/22094.m3u8
 
 #EXTINF:-1 tvg-id="gameshownetwork.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="SupersonicTV",Game Show Network
@@ -4747,7 +4747,7 @@ http://supersonictv.live:8080/live/144264/661943/47733.m3u8
 #EXTINF:-1 tvg-id="gameshownetwork.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="SupersonicTV",Game Show Network (CA)
 http://cord-cutter.net:8080/live/drmajones@gmail.com/J2cg4hzx4s/57430.m3u8
 
-#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png",Game Show Central
+#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="SupersonicTV",Game Show Central
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e54187aae660e00093561d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="gametv.ca" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="SupersonicTV",Game TV
@@ -4780,7 +4780,7 @@ http://supersonictv.live:8080/live/144264/661943/21965.m3u8
 #EXTINF:-1 tvg-id="mtvlive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1049px-MTV_Live_HD_2017_logo.svg.png" group-title="SupersonicTV", MTV Live
 http://supersonictv.live:8080/live/144264/661943/13752.m3u8
 
-#EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="SupersonicTV",Wanasah
+#EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="SupersonicTV", Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 
@@ -4805,13 +4805,13 @@ http://supersonictv.live:8080/live/144264/661943/22142.m3u8
 #EXTINF:-1 tvg-id="sony.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sony-movies-us.png" group-title="SupersonicTV", SONY MOVIES
 http://supersonictv.live:8080/live/144264/661943/22917.m3u8
 
-#EXTINF:-1 tvg-id="sundancetv.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png" group-title="SupersonicTV",Sundance
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png" group-title="SupersonicTV", Sundance
 http://supersonictv.live:8080/live/144264/661943/22152.m3u8
 
-#EXTINF:-1 tvg-id="tbs.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png" group-title="SupersonicTV",TBS
+#EXTINF:-1 tvg-id="tbs.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png" group-title="SupersonicTV", TBS
 http://supersonictv.live:8080/live/144264/661943/22154.m3u8
 
-#EXTINF:-1 tvg-id="tnt.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png" group-title="SupersonicTV",TNT
+#EXTINF:-1 tvg-id="tnt.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png" group-title="SupersonicTV", TNT
 http://supersonictv.live:8080/live/144264/661943/22159.m3u8
 
 #EXTINF:-1 tvg-id="trutv.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41nIBBJlSlL.png" group-title="SupersonicTV", TruTV
@@ -4837,7 +4837,7 @@ http://supersonictv.live:8080/live/144264/661943/22182.m3u8
 
 
 
-#EXTINF:-1,Action Hollywood Movies
+#EXTINF:-1 group-title="SupersonicTV", Action Hollywood Movies
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SupersonicTV", Cult Classic Movie
