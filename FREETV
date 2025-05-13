@@ -1237,11 +1237,44 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ;#EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/Eni92r.png"
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png"  
-;#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20240607/original/pngtree-67th-malaysian-independence-logo-vector-png-image_15264191.png" group-title="🇲🇾 SPORTS"
+
 
 #EXTINF:-1 tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-title="🇲🇾 SPORTS" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+
+
+------------------------- Astro Arena / Bola -----------------
+
+
+
+#EXTINF:-1 tvg-id="802" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS", ASTRO ARENA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS",ASTRO ARENA BOLA
+http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/4648.ts
+#https://linearjitp.perfecttv.net/bola1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS",ASTRO ARENA BOLA 2
+http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/332.ts
+#https://linearjitp.perfecttv.net/bola2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ca4f5ff4e4694d54bdfdc9bd34384290": "1100fe297146f7d024b59944f09e6d1a"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HSTVNelZeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16STBOekk0TTJZdFl6TTJPUzAwTWpOa0xUaGtZbVV0WVdOall6WXdOekZpWVdWbCIsIndtb3BpZCI6MzIsImV4cCI6MTczMzY1OTg2NSwiaWF0IjoxNzMzMDU1ODY1fQ.gZfm3DrWKcPTqXMeLeppmp8wxvY7O7YlIB4DYOo1D6E"}
+#EXTINF:-1 tvg-id="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/534_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS",ASTRO ARENA BOLA 3
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+
 
 
 
@@ -1254,38 +1287,44 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png" group-title="🇲🇾 SPORTS",810 Astro Grandstand (backup)
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+
 #EXTINF:-1 tvg-id="AstroFootball" ch-number="814" group-title="🇲🇾 SPORTS" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png",814 Astro Football HD
-;#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-2.png" group-title="🇲🇾 SPORTS",Astro SuperSport 2
 #EXTVLCOPT:http-origin=https://xtreaweb.top
 #EXTVLCOPT:http-referrer=https://xtreaweb.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium124/mono.m3u8
 
-#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" group-title="🇲🇾 SPORTS" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png",814 Astro Football HD
+#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" group-title="🇲🇾 SPORTS" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png",814 Astro Football (backup 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" } 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" group-title="🇲🇾 SPORTS" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png",814 Astro Football (backup 2)
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="🇲🇾 SPORTS",811 Astro Premier League
-;#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-3.png" group-title="🇲🇾 SPORTS",Astro SuperSport 3
 #EXTVLCOPT:http-origin=https://xtreaweb.top
 #EXTVLCOPT:http-referrer=https://xtreaweb.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q+/2qNqJajQFbzOeyVYgRQ","kid":"EJC+8ydbRdGIIAuCj+MFJw"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="🇲🇾 SPORTS",811 Astro Premier League
-https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDUwMjMyNTYsImlzcyI6IlZSIiwiZXhwIjoxNzQ1MTAxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.6sEeKY8Xf7n_wdn_qmnxpKkc0tf5Ljac4zkWTU6MLhw
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="🇲🇾 SPORTS",811 Astro Premier League (backup 1)
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="🇲🇾 SPORTS",811 Astro Premier League (backup 2)
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="🇲🇾 SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",812 Astro Premier League 2
-;#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-4.png" group-title="🇲🇾 SPORTS",Astro SuperSport 4
 #EXTVLCOPT:http-origin=https://xtreaweb.top
 #EXTVLCOPT:http-referrer=https://xtreaweb.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="🇲🇾 SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",812 Astro Premier League 2 (backup)
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
 
 #EXTINF:-1 tvg-id="AstroPremierLeague3" ch-number="813" group-title="🇲🇾 SPORTS" tvg-logo="https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp",813 Astro PremierLeague 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1313,12 +1352,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g3KLRwGavbs3qjbtXylRvQ","kid":"b/DgQNVE7D8CJDhlmQ8MEA"}],"type":"temporary"} 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="🇲🇾 SPORTS" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton HD
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
   
 #EXTINF:-1 tvg-id="AstroBadminton2" ch-number="816" group-title="🇲🇾 SPORTS" ch-number="816" tvg-logo="https://i.ibb.co/mcmpN9b/Astro-Badminton-2.webp",816 Astro Badminton 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F8Ga1nClV+aIJBnWkj+tJw","kid":"cq1uqhkEVAE4SH//o61lEA"}],"type":"temporary"} 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroBadminton2" ch-number="816" group-title="🇲🇾 SPORTS" ch-number="816" tvg-logo="https://i.ibb.co/mcmpN9b/Astro-Badminton-2.webp",816 Astro Badminton 2 HD
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
   
 #EXTINF:-1 group-title="🇲🇾 SPORTS" tvg-id="AstroSportsPlus" ch-number="817" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png",817 Astro Sports Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1326,8 +1371,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd 
 
+#EXTINF:-1 group-title="🇲🇾 SPORTS" tvg-id="AstroSportsPlus" ch-number="817" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png",817 Astro Sports Plus (backup)
+https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS",W-Sport
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
+#EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS",W-Sport
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
+
+;Supersports 1,https://smart.pendy.dpdns.org/Smart.php?id=Assp1
+;Supersports 2,https://smart.pendy.dpdns.org/Smart.php?id=Assp2
+;Supersports 3,https://smart.pendy.dpdns.org/Smart.php?id=Assp3
+;Supersports 4,https://smart.pendy.dpdns.org/Smart.php?id=Assp4
 
 -------------------------BeINSPORTS -----------------
 
@@ -1594,50 +1653,6 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 
 ############################# 🇲🇾 SPORTS 2 ##############################
-
-#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/820/992/png-clipart-assorted-sports-illustration-sports-betting-rugby-football-people-sport-game-sport.png"
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA FHD" tvg-logo="http://go4.pw/ASIA/ASTRO.png" group-title="🇲🇾 SPORTS 2",ASTRO ARENA 1 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052375
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASTRO_ARENA_2.png" group-title="🇲🇾 SPORTS 2",ASTRO ARENA 2 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052373
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA 1" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="🇲🇾 SPORTS 2",ASTRO ARENA BOLA 1
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1131941
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA 2" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="🇲🇾 SPORTS 2",ASTRO ARENA BOLA 2
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1131942
-
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="🇲🇾 SPORTS 2",PREMIER LEAGUE 1
-http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34535
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="🇲🇾 SPORTS 2",PREMIER LEAGUE 2
-http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34534
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="🇲🇾 SPORTS 2",GRANDSTAND
-http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34533
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="🇲🇾 SPORTS 2",FOOTBALL
-http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34531
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="🇲🇾 SPORTS 2",W-SPORT
-http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34532
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="🇲🇾 SPORTS 2",BEIN SPORTS 1 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052431
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="🇲🇾 SPORTS 2",BEIN SPORTS 2 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052425
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="🇲🇾 SPORTS 2",BEIN SPORTS 3 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052429
-
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV FHD" tvg-logo="http://go4.pw/ASIA/SPOTV.png" group-title="🇲🇾 SPORTS 2",SPOTV 1 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052591
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/SPOTV_2.png" group-title="🇲🇾 SPORTS 2",SPOTV 2 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052590
-
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="http://go4.pw/ASIA/TEN.png" group-title="🇲🇾 SPORTS 2",SONY TEN 1
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052689
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="http://go4.pw/ASIA/TEN2.png" group-title="🇲🇾 SPORTS 2",SONY TEN 2
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052690
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="http://go4.pw/ASIA/TEN3.png" group-title="🇲🇾 SPORTS 2",SONY TEN 3
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052691
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET FHD" tvg-logo="http://go4.pw/ASIA/CRICKET.png" group-title="🇲🇾 SPORTS 2",ASTRO CRICKET FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052393
 
 
 
