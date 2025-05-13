@@ -1276,7 +1276,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
 http://31.42.187.37:25461/live/C42AFE290723/C42AFE290723/332.ts
 #https://linearjitp.perfecttv.net/bola2.mpd
 
-#EXTINF:-1 tvg-id="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS",ASTRO ARENA BOLA 2
+#EXTINF:-1 tvg-id="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS",ASTRO ARENA BOLA 2 (backup)
 https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
