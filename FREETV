@@ -513,7 +513,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-dash-s
 
 ################## MOVIES #####################
 
-#EXTINF:-1 group-logo="https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png"
+;#EXTINF:-1 group-logo="https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png"
+#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/32/1/movie-central-logo-png_seeklogo-328876.png"
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
@@ -747,82 +749,84 @@ https://live1.presstv.ir/live/ifilmen.m3u8
 
 
 
-################## MOVIES 3 ####################
+################## MOVIES 2 ####################
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png", Moviesphere
+#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/32/1/movie-central-logo-png_seeklogo-328876.png"
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" group-title="MOVIES 2", Moviesphere
 https://dxazj2uf8uiwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.popstaronline.com/wp-content/uploads/2019/07/popstar-tv-logo.png", Popstar! TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.popstaronline.com/wp-content/uploads/2019/07/popstar-tv-logo.png" group-title="MOVIES 2", Popstar! TV
 https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Miramax.svg", Miramax
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Miramax.svg" group-title="MOVIES 2", Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
 
 -------------------------Rakuten----------------------------------
 
-#EXTINF:-1 tvg-id="GB2600015OS" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width190-quality100.png" group-logo="" group-title="MOVIES 3",Rakuten Action ᴴᴰ  
+#EXTINF:-1 tvg-id="GB2600015OS" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width190-quality100.png" group-logo="" group-title="MOVIES 2",Rakuten Action ᴴᴰ  
 https://raw.githubusercontent.com/mystery75/m3u8/main/RACTION.m3u8
 
-#EXTINF:-1 tvg-id="British.Films.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4ae1c43a-3730-452d-9e09-ffd9162b0e66-width190-quality100.png" group-logo=""  group-title="MOVIES 3",Rakuten British Films ᴴᴰ  
+#EXTINF:-1 tvg-id="British.Films.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4ae1c43a-3730-452d-9e09-ffd9162b0e66-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten British Films ᴴᴰ  
 
 
-#EXTINF:-1 tvg-id="GB2600020OP" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/060e7294-6008-4924-9879-b5d67b191534-comedy-movies-rakuten-tv-1646655938-width190-quality100.png" group-logo=""  group-title="MOVIES 3",Rakuten Comedy ᴴᴰ  
+#EXTINF:-1 tvg-id="GB2600020OP" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/060e7294-6008-4924-9879-b5d67b191534-comedy-movies-rakuten-tv-1646655938-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten Comedy ᴴᴰ  
 https://raw.githubusercontent.com/mystery75/m3u8/main/RCOMEDY.m3u8
 
-#EXTINF:-1 tvg-id="GB2600012R3" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/fea19cee-698e-45e0-9a8f-4714181bd0f4-drama-movies-rakuten-tv-1646656997-width190-quality100.png" group-logo=""  group-title="MOVIES 3",Rakuten Drama ᴴᴰ  
+#EXTINF:-1 tvg-id="GB2600012R3" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/fea19cee-698e-45e0-9a8f-4714181bd0f4-drama-movies-rakuten-tv-1646656997-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten Drama ᴴᴰ  
 https://raw.githubusercontent.com/mystery75/m3u8/main/RDRAMA.m3u8
 
-#EXTINF:-1 tvg-id="GB2600017PX" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/97d6f2f2-b757-46c2-8d8c-f78b084b1220-family-rakuten-tv-1646657558-width190-quality100.png" group-logo=""  group-title="MOVIES 3",Rakuten Family ᴴᴰ  
+#EXTINF:-1 tvg-id="GB2600017PX" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/97d6f2f2-b757-46c2-8d8c-f78b084b1220-family-rakuten-tv-1646657558-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten Family ᴴᴰ  
 https://raw.githubusercontent.com/mystery75/m3u8/main/RFAMILY.m3u8
 
-#EXTINF:-1 tvg-id="GB2600018PD" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/bd059380-7181-47a0-8f7c-e20a86788a99-top-movies-rakutentv-1646658125-width190-quality100.png" group-logo=""  group-title="MOVIES 3",Rakuten Top Movies ᴴᴰ  
+#EXTINF:-1 tvg-id="GB2600018PD" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/bd059380-7181-47a0-8f7c-e20a86788a99-top-movies-rakutentv-1646658125-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten Top Movies ᴴᴰ  
 https://raw.githubusercontent.com/mystery75/m3u8/main/RTOPMOVIES.m3u8
 
-#EXTINF:-1 tvg-id="GB2600014LQ" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/287ea9f7-b2da-42fd-8ffa-b636eb08b5b2-width190-quality100.png" group-logo=""  group-title="MOVIES 3",Rakuten Romance ᴴᴰ  
+#EXTINF:-1 tvg-id="GB2600014LQ" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/287ea9f7-b2da-42fd-8ffa-b636eb08b5b2-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten Romance ᴴᴰ  
 https://jmp2.uk/sam-GB2600014LQ.m3u8
 
-#EXTINF:-1 tvg-id="GB2600013BO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3bae481e-2c87-4e98-85b3-2a1ad67ffb8b-width200-quality90.png" group-title="MOVIES 3" tvg-chno="4975",Rakuten Sci-Fi ᴴᴰ
+#EXTINF:-1 tvg-id="GB2600013BO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3bae481e-2c87-4e98-85b3-2a1ad67ffb8b-width200-quality90.png" group-title="MOVIES 2" tvg-chno="4975",Rakuten Sci-Fi ᴴᴰ
 https://jmp2.uk/sam-GB2600013BO.m3u8
 
-#EXTINF:-1 tvg-id="Thrillers.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/1d168cc5-df73-4647-ac86-6f07b6202546-thrillers-rakuten-tv-1646657740-width190-quality100.png" group-logo="" group-title="MOVIES 3",Rakuten Thrillers ᴴᴰ  
+#EXTINF:-1 tvg-id="Thrillers.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/1d168cc5-df73-4647-ac86-6f07b6202546-thrillers-rakuten-tv-1646657740-width190-quality100.png" group-logo="" group-title="MOVIES 2",Rakuten Thrillers ᴴᴰ  
 
 
-#EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo="" group-title="MOVIES 3",Rakuten Viki ᴴᴰ  
+#EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo="" group-title="MOVIES 2",Rakuten Viki ᴴᴰ  
 https://raw.githubusercontent.com/mystery75/m3u8/main/RVIKI.m3u8
 
 
 
-##################Sky Cinema#####################
+-----------------------Sky Cinema----------------------------------
 
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="MOVIES 3",Sky Cinema Action
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="MOVIES 2",Sky Cinema Action
 http://supersonictv.live:8080/live/144264/661943/77462.ts
 
-#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="MOVIES 3",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="MOVIES 2",Sky Cinema Comedy
 http://supersonictv.live:8080/live/144264/661943/77463.ts
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="MOVIES 3",Sky Cinema Hits
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="MOVIES 2",Sky Cinema Hits
 http://supersonictv.live:8080/live/144264/661943/77464.ts
 
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="MOVIES 3",Sky Cinema Drama
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="MOVIES 2",Sky Cinema Drama
 http://supersonictv.live:8080/live/144264/661943/77465.ts
 
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Sky_Cinema_Family_%28alternative%29.svg/revision/latest/scale-to-width-down/1000?cb=20220502203843" group-title="MOVIES 3",Sky Cinema Family
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Sky_Cinema_Family_%28alternative%29.svg/revision/latest/scale-to-width-down/1000?cb=20220502203843" group-title="MOVIES 2",Sky Cinema Family
 http://supersonictv.live:8080/live/144264/661943/77466.ts
 
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Sky_Cinema_Greats_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20200918051036" group-title="MOVIES 3",Sky Cinema Greats
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Sky_Cinema_Greats_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20200918051036" group-title="MOVIES 2",Sky Cinema Greats
 http://supersonictv.live:8080/live/144264/661943/77467.ts
 
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="MOVIES 3",Sky Cinema Premiere
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="MOVIES 2",Sky Cinema Premiere
 http://supersonictv.live:8080/live/144264/661943/77468.ts
 
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/dc/Sky_Cinema_Sci-Fi_Horror_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20201028120857" group-title="MOVIES 3",Sky Cinema ScFi
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/dc/Sky_Cinema_Sci-Fi_Horror_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20201028120857" group-title="MOVIES 2",Sky Cinema ScFi
 http://supersonictv.live:8080/live/144264/661943/77469.ts
 
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="MOVIES 3",Sky Cinema Select
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="MOVIES 2",Sky Cinema Select
 http://supersonictv.live:8080/live/144264/661943/77470.ts
 
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="MOVIES 3",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="MOVIES 2",Sky Cinema Thriller
 http://supersonictv.live:8080/live/144264/661943/77471.ts
 
 
@@ -834,7 +838,6 @@ http://supersonictv.live:8080/live/144264/661943/77471.ts
 
 ####################### 🇲🇾 SPORTS  ##########################
 
-##################### 🇲🇾 SPORTS  ######################
 
 ;#EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/Eni92r.png"
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png"  
@@ -994,10 +997,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 #EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-title="🇲🇾 SPORTS",W-Sport
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
 
-;Supersports 1,https://smart.pendy.dpdns.org/Smart.php?id=Assp1
-;Supersports 2,https://smart.pendy.dpdns.org/Smart.php?id=Assp2
-;Supersports 3,https://smart.pendy.dpdns.org/Smart.php?id=Assp3
-;Supersports 4,https://smart.pendy.dpdns.org/Smart.php?id=Assp4
+#EXTINF:-1 group-title="🇲🇾 SPORTS", Supersports 1
+https://smart.pendy.dpdns.org/Smart.php?id=Assp1
+
+#EXTINF:-1 group-title="🇲🇾 SPORTS",Supersports 2
+https://smart.pendy.dpdns.org/Smart.php?id=Assp2
+
+#EXTINF:-1 group-title="🇲🇾 SPORTS", Supersports 3
+https://smart.pendy.dpdns.org/Smart.php?id=Assp3
+
+#EXTINF:-1 group-title="🇲🇾 SPORTS",Supersports 4
+https://smart.pendy.dpdns.org/Smart.php?id=Assp4
+
+
+
 
 -------------------------BeINSPORTS -----------------
 
