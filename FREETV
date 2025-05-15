@@ -18,45 +18,45 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jCaEXnIbJXSNUeN90Gcapg", "kid":"nxLHOg2s3BDcixZcbHaYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-title="🇲🇾 PREMIUM ASTRO",Scream    
+#EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-title="🇲🇾 ASTRO PREMIUM",Scream    
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_ott.mpd
 
-#EXTINF:-1  tvg-id="104.astro" group-title="ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria
+#EXTINF:-1  tvg-id="104.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria
 https://smart.pendy.dpdns.org/Smart.php?id=Ria-0
 
-#EXTINF:-1  tvg-id="104.astro" group-title="ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria (backup)
+#EXTINF:-1  tvg-id="104.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria (backup)
 https://smart.pendy.dpdns.org/Smart.php?id=Ria_backup
 
-#EXTINF:-1 tvg-id="105.astro" group-title="ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima
+#EXTINF:-1 tvg-id="105.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima
 https://smart.pendy.dpdns.org/Smart.php?id=Prima-0
 
-#EXTINF:-1 tvg-id="105.astro" group-title="ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima (backup 1)
+#EXTINF:-1 tvg-id="105.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima (backup 1)
 https://smart.pendy.dpdns.org/Smart.php?id=AAprima1
 
-#EXTINF:-1 tvg-id="105.astro" group-title="ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima (backup 2)
+#EXTINF:-1 tvg-id="105.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima (backup 2)
 https://smart.pendy.dpdns.org/Smart.php?id=AAprima
 
-;#EXTINF:-1 tvg-id="118" group-title="ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna
+;#EXTINF:-1 tvg-id="118" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 https://aseanic.github.io/hls/36.m3u8
 
-;#EXTINF:-1 tvg-id="118" group-title="ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna 2
+;#EXTINF:-1 tvg-id="118" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna 2
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
 
-#EXTINF:-1 tvg-id="108.astro" group-title="ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra
+#EXTINF:-1 tvg-id="108.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra
 https://smart.pendy.dpdns.org/Smart.php?id=AAcitra
 
-#EXTINF:-1 tvg-id="108.astro" group-title="ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra (backup)
+#EXTINF:-1 tvg-id="108.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra (backup)
 https://smart.pendy.dpdns.org/Smart.php?id=AAcitra1
 
-;#EXTINF:-1 tvg-id="106.astro" group-title="ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1OsD8.png",Astro Oasis
+;#EXTINF:-1 tvg-id="106.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1OsD8.png",Astro Oasis
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
