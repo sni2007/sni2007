@@ -20,6 +20,9 @@
 ######################## ASTRO PREMIUM CHANNEL ########################
 
 #EXTINF:-1 group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"
+;#EXTINF:-1 group-logo="https://is.gd/prima.png" 
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -28,7 +31,7 @@
 #EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-title="🇲🇾 ASTRO PREMIUM",Scream    
 ;https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_ott.mpd
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,Ria FHD
+#EXTINF:-1 group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,Ria FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
@@ -43,7 +46,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Ria_backup
 
 
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,Prima FHD
+#EXTINF:-1 group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,Prima FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
 #https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|authorization=Bearer 
@@ -76,7 +79,7 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
 
 
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,Citra
+#EXTINF:-1 group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,Citra
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -522,6 +525,14 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hy
 ;https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live31.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="MOVIES" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",SIAR (A)
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
+
+
 #EXTINF:-1 tvg-id="128" ch-number="128" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="MOVIES",Dunia Sinema A
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
@@ -670,6 +681,101 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Miramax.svg" group-title="MOVIES", Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="MOVIES",Miramax (A)
+https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-title="MOVIES",MN+ 
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-title="MOVIES",MNX
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#####https://starshare.live:443/live/star123/star123/191.ts
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-title="MOVIES",Movies Now
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-title="MOVIES",MovieSphere By Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioPremiere.png" group-title="MOVIES",Universal Premiere ᵒᵗᵗ
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
+
+#EXTINF:-1 tvg-id="99991621" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/UniversalMovies.png" group-title="MOVIES",Universal Movies
+https://raw.githubusercontent.com/mystery75/m3u8/main/UNIVERSALMOV.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="Studio.Universal.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioUniversal.png" group-title="MOVIES"",Studio Universal
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="MOVIES",&flix  
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="MOVIES",&privé  
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
+
+#EXTINF:-1 tvg-id="99951377" tvg-name="AMC Thrillers" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/AmcThrill.png" group-title="MOVIES",AMC Thrillers
+https://raw.githubusercontent.com/mystery75/m3u8/main/AMCTRILL.m3u8
+
+#####KODIPROP:inputstreamaddon=inputstream.adaptive 
+#####KODIPROP:inputstream.adaptive.manifest_type=dash 
+#####KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png" group-title="MOVIES",Galaxy
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
+#####https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
+#####KODIPROP:inputstreamaddon=inputstream.adaptive 
+#####KODIPROP:inputstream.adaptive.manifest_type=dash 
+#####KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" },{ "kty":"oct", "k":"aiLzPud/q5azGP491+EzXQ", "kid":"c2N0djAwMDAwMDAwMDAwMA" },{ "kty":"oct", "k":"sZeAy9sLQthtNBUydZC2eQ", "kid":"aW5kb3NpYXIwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/GalaxyPremium.png" group-title="MOVIES",Galaxy Premium
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
+#####https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="MOVIES",Sony Pix
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+#####https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" ggroup-title="MOVIES",Star Movies
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+#EXTINF:-1 tvg-id="Tapmovies Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="MOVIES",Tap Movies
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+#EXTINF:-1 tvg-id="Tapactionflix Hd.ph" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqmQyNNz--w-zNPAVx8fJLWG1xYahFiohWA&s" group-title="MOVIES",Tap Action Flix
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/PixL-on-DISH.png" group-title="MOVIES",Pixl TV
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
@@ -708,6 +814,16 @@ https://familyhls.avatv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="MOVIES",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
