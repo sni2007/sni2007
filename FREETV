@@ -87,7 +87,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=AAcitra
 #EXTINF:-1 tvg-id="108.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra (backup)
 https://smart.pendy.dpdns.org/Smart.php?id=AAcitra1
 
-
+#EXTINF:-1 tvg-id="108.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra GO
+https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHT5bLv7HSomV86o_LR-fGUc=g2BJ/dash-wv/jitp-linearwm/1004/default_ott.mpd?11
 
 ;#EXTINF:-1 tvg-id="106.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1OsD8.png",Astro Oasis
 #KODIPROP:contentlookup=False
