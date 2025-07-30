@@ -187,6 +187,9 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTINF:-1 tvg-group="" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", TV Alhijrah 
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", TV Alhijrah (unifi)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4745ac4464797aa9d5ed653c1e987917": "ffe2dd898757fb14c156b3e014058ecc"}
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live07.mpd
@@ -233,26 +236,13 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://0c983129207742b6bca33b0d9613928c.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH21-dash/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUSTJNVGRsT1RBdFpEazNPUzAwTVdFekxUZ3laREl0TjJKaE5qaGlNVEUyWXpBMyIsIndtb3BpZCI6MzIsImV4cCI6MTY5NDgwNzYxNSwiaWF0IjoxNjk0MjAzNjE1fQ.dEkgPkHD1WYvyCxdFGd2V3L2Pz3uaJVSWF6i00ggqKU"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GZBKr+idRaQB1cqtnYQadw", "kid":"T8ES+SqfTrmJob14DT495g" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani HD" group-title="ASTRO MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Awani.png",501 ASTRO AWANI 2 (SOOKA)
-;http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
-;http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
-;https://linear03-playback.sooka.my/CH5/masterCH5.mpd
-
-#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",Awani
+#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="ASTRO MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=awani
-
-
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="ASTRO MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", RTM Asean
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8  
@@ -345,58 +335,6 @@ EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/m
 https://live.mana2.my/SukeTv/index.m3u8
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" group-title="ASTRO MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",106 ASTRO OASIS
-;https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
-#EXTINF:-1 tvg-id="410.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-title="ASTRO MALAYSIA",410 ASTRO PREMIER
-;https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
-;https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_ott.mpd
-
-
-;EXTINF:-1 tvg-id="410.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png" group-title="ASTRO MALAYSIA",410 AOD
-http://d1w72er2qn2fg9.cloudfront.net/aod.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAura" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-title="ASTRO MALAYSIA",AURA 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAura" tvg-name="ASTRO AURA HD" group-title="ASTRO MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_AURA.png",113 ASTRO AURA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRania" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="ASTRO MALAYSIA",RANIA 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="ASTRO MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png",112 ASTRO RANIA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-
-#EXTINF:-1 tvg-id="AstroCeria.my" ch-number="" tvg-name="Astro Ceria HD" group-title="ASTRO MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TutorTV.png" group-title="ASTRO MALAYSIA",TUTOR TV 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
-
 
 
 
