@@ -595,7 +595,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
 
-
 #EXTINF:-1 tvg-id="sonymax" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="MOVIES", SONY MAX
 #EXTHTTP:{"User-agent":"ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -689,7 +688,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #####https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" ggroup-title="MOVIES",Star Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="MOVIES",Star Movies
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -752,9 +751,37 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 
 
+-------------------------Rakuten----------------------------------
+
+#EXTINF:-1 tvg-id="GB2600015OS" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width190-quality100.png" group-logo="" group-title="MOVIES",Rakuten Action ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RACTION.m3u8
+
+#EXTINF:-1 tvg-id="British.Films.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4ae1c43a-3730-452d-9e09-ffd9162b0e66-width190-quality100.png" group-logo=""  group-title="MOVIES",Rakuten British Films ᴴᴰ  
 
 
+#EXTINF:-1 tvg-id="GB2600020OP" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/060e7294-6008-4924-9879-b5d67b191534-comedy-movies-rakuten-tv-1646655938-width190-quality100.png" group-logo=""  group-title="MOVIES",Rakuten Comedy ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RCOMEDY.m3u8
 
+#EXTINF:-1 tvg-id="GB2600012R3" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/fea19cee-698e-45e0-9a8f-4714181bd0f4-drama-movies-rakuten-tv-1646656997-width190-quality100.png" group-logo=""  group-title="MOVIES",Rakuten Drama ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RDRAMA.m3u8
+
+#EXTINF:-1 tvg-id="GB2600017PX" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/97d6f2f2-b757-46c2-8d8c-f78b084b1220-family-rakuten-tv-1646657558-width190-quality100.png" group-logo=""  group-title="MOVIES",Rakuten Family ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RFAMILY.m3u8
+
+#EXTINF:-1 tvg-id="GB2600018PD" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/bd059380-7181-47a0-8f7c-e20a86788a99-top-movies-rakutentv-1646658125-width190-quality100.png" group-logo=""  group-title="MOVIES",Rakuten Top Movies ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RTOPMOVIES.m3u8
+
+#EXTINF:-1 tvg-id="GB2600014LQ" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/287ea9f7-b2da-42fd-8ffa-b636eb08b5b2-width190-quality100.png" group-logo=""  group-title="MOVIES",Rakuten Romance ᴴᴰ  
+https://jmp2.uk/sam-GB2600014LQ.m3u8
+
+#EXTINF:-1 tvg-id="GB2600013BO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3bae481e-2c87-4e98-85b3-2a1ad67ffb8b-width200-quality90.png" group-title="MOVIES" tvg-chno="4975",Rakuten Sci-Fi ᴴᴰ
+https://jmp2.uk/sam-GB2600013BO.m3u8
+
+#EXTINF:-1 tvg-id="Thrillers.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/1d168cc5-df73-4647-ac86-6f07b6202546-thrillers-rakuten-tv-1646657740-width190-quality100.png" group-logo="" group-title="MOVIES",Rakuten Thrillers ᴴᴰ  
+
+
+#EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo="" group-title="MOVIES 2",Rakuten Viki ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RVIKI.m3u8
 
 
 
@@ -904,77 +931,6 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 
 
-################## MOVIES 2 ####################
-
-#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/32/1/movie-central-logo-png_seeklogo-328876.png"
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" group-title="MOVIES 2", Moviesphere
-https://dxazj2uf8uiwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.popstaronline.com/wp-content/uploads/2019/07/popstar-tv-logo.png" group-title="MOVIES 2", Popstar! TV
-https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Miramax.svg" group-title="MOVIES 2", Miramax
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-
-
--------------------------Rakuten----------------------------------
-
-#EXTINF:-1 tvg-id="GB2600015OS" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width190-quality100.png" group-logo="" group-title="MOVIES 2",Rakuten Action ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RACTION.m3u8
-
-#EXTINF:-1 tvg-id="British.Films.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4ae1c43a-3730-452d-9e09-ffd9162b0e66-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten British Films ᴴᴰ  
-
-
-#EXTINF:-1 tvg-id="GB2600020OP" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/060e7294-6008-4924-9879-b5d67b191534-comedy-movies-rakuten-tv-1646655938-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten Comedy ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RCOMEDY.m3u8
-
-#EXTINF:-1 tvg-id="GB2600012R3" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/fea19cee-698e-45e0-9a8f-4714181bd0f4-drama-movies-rakuten-tv-1646656997-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten Drama ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RDRAMA.m3u8
-
-#EXTINF:-1 tvg-id="GB2600017PX" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/97d6f2f2-b757-46c2-8d8c-f78b084b1220-family-rakuten-tv-1646657558-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten Family ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RFAMILY.m3u8
-
-#EXTINF:-1 tvg-id="GB2600018PD" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/bd059380-7181-47a0-8f7c-e20a86788a99-top-movies-rakutentv-1646658125-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten Top Movies ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RTOPMOVIES.m3u8
-
-#EXTINF:-1 tvg-id="GB2600014LQ" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/287ea9f7-b2da-42fd-8ffa-b636eb08b5b2-width190-quality100.png" group-logo=""  group-title="MOVIES 2",Rakuten Romance ᴴᴰ  
-https://jmp2.uk/sam-GB2600014LQ.m3u8
-
-#EXTINF:-1 tvg-id="GB2600013BO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3bae481e-2c87-4e98-85b3-2a1ad67ffb8b-width200-quality90.png" group-title="MOVIES 2" tvg-chno="4975",Rakuten Sci-Fi ᴴᴰ
-https://jmp2.uk/sam-GB2600013BO.m3u8
-
-#EXTINF:-1 tvg-id="Thrillers.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/1d168cc5-df73-4647-ac86-6f07b6202546-thrillers-rakuten-tv-1646657740-width190-quality100.png" group-logo="" group-title="MOVIES 2",Rakuten Thrillers ᴴᴰ  
-
-
-#EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo="" group-title="MOVIES 2",Rakuten Viki ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RVIKI.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ####################### 🇲🇾 SPORTS  ##########################
 
@@ -983,7 +939,7 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/RVIKI.m3u8
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png"  
 
 
-#EXTINF:-1 tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-title="🇲🇾 SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",111 Sukan RTM
+#EXTINF:-1 tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-title="🇲🇾 SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png", Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
@@ -3616,6 +3572,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnterta
 
 
 
+################################# Asia Sports #################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -3664,53 +3621,10 @@ https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/i
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" group-title="SupersonicTV", Crime Investigation
-http://supersonictv.live:8080/live/144264/661943/22071.m3u8
-
-#EXTINF:-1 group-title="SupersonicTV", Crime and Punishment
-https://rightsboosterltd-crime-and-punishment-1-us.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="SupersonicTV", Conflict
-https://rightsboosterltd-conflict-1-us.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="SupersonicTV", ,Law and Crime
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00260-lawnewzincdbala-lawandcrime-xiaomi/playlist.m3u8
-
-#EXTINF:-1 group-title="SupersonicTV", ,Emergency
-https://rightsboosterltd-emergency-1-us.xiaomi.wurl.tv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U: refresh="301" billed-msg="📺 FREE FAMILY ENTERTAINMENT by SNI2007" url-tvg="https://tv.jnda.tech/epg"
+#EXTM3U: refresh="301" billed-msg="📺 FREE FAMILY ENTERTAINMENT by SNI2007" url-tvg=""
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
+
+
 
 
 
