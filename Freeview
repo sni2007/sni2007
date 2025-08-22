@@ -2,20 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" group-logo="" tvg-logo="", MY| SUPERSPORTS 3 
-http://line.premiumpowers.net:80/Manuel/1234567/571248
+;#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" group-logo="" tvg-logo="", TEST
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" group-logo="" tvg-logo="", MY| SUPERSPORTS 4  
-http://line.premiumpowers.net:80/Manuel/1234567/571247
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" group-logo="" tvg-logo="", MY| SUPERSPORTS 1 
-[SP],http://line.premiumpowers.net:80/Manuel/1234567/571246
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" group-logo="" tvg-logo="", MY| CRICKET 
-http://line.premiumpowers.net:80/Manuel/1234567/571245
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" group-logo="" tvg-logo="", MY| AWANI
-http://line.premiumpowers.net:80/Manuel/1234567/571244
 
 ########################### MALAYSIA ###########################
 
