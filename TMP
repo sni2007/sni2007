@@ -160,6 +160,12 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://jomtv.vip:2082/live/Erny112/Jtv0987/28.ts
 
+
+
+
+
+
+
 #=====chinese======
 
 #EXTINF:-1 group-logo="" group-title="CHINESE" tvg-logo="https://get.perfecttv.net/logo/aec.png" tvg-id="AstroAEC",124 AEC
@@ -259,6 +265,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
+
+
+
+
+
+
+
 #====korea=======
 
 #EXTINF:-1 group-logo="" group-title="KOREAN" tvg-id="393.astro" tvg-logo="https://get.perfecttv.net/logo/one.png",200 One 
@@ -290,6 +303,11 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=kbsworld
+
+
+
+
+
 
 
 #=======india=======
@@ -371,7 +389,16 @@ https://live20.bozztv.com/akamaissh101/ssh101/sungo545/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://live20.bozztv.com/akamaissh101/ssh101/sungo543/playlist.m3u8
 
+
+
+
+
+
+
+
+
 ======movie======
+
 #EXTINF:-1 tvg-id="289.unifi" ch-number="289" tvg-name="CCM" group-title="MOVIES" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
@@ -525,6 +552,9 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=c9ec474742854a9c95bdc93682eadb87:c74ecc2bac2876d4b709c0ec01eaa6c2
 https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ3MDE5MDgsImlzcyI6IlZSIiwiZXhwIjoxNzQ0NzU2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.bCphOpFOLzXb2XVXNQATS_QW8ElFsJ64sd0mKqrovRE
 
+
+
+
 #====entertainment=====
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="ENTERTAINMENT" group-logo="" tvg-logo="https://get.perfecttv.net/logo/axn.png",168 AXN
@@ -599,6 +629,13 @@ https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcm
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/tbs-usa.png",TBS USA FHD
 https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzYvbW9uby5tM3U4.m3u8
+
+
+
+
+
+
+
 
 #=====knowlegde==========
 
@@ -678,6 +715,12 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/268273.ts
 http://gotit14.xyz/live/2F635BX/ZJX02CY/71433.ts
 
 
+
+
+
+
+
+
 #=====kids=========
 
 #EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="611.astro" tvg-logo="https://get.perfecttv.net/logo/ceria2.png" group-logo="" ,205 Ceria
@@ -725,6 +768,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd
+
+
+
+
+
+
+
 
 #====news====
 
@@ -789,6 +839,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
+
+
+
+
+
+
 
 
 #=================== Sport FHD Only =============================================
@@ -1043,3 +1099,4 @@ http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/53853.ts|user-agent=IPTVPROPlayer
 #EXTINF:-1 tvg-id="FUBO SPORTS NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Fubo_Sports_Network.png/revision/latest?cb=20250117231918", FUBO SPORTS NETWORK FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/473384.ts
+
