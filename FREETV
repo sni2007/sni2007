@@ -1965,8 +1965,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bDxJgROr/99FTck1MZp5TQ", "kid":"sfvQh055I/WwWSmgQqoGEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="513.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-title="NEWS",Al Jazeera News
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
-;https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
+;https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
 #EXTINF:-1 tvg-id="602.unifi" tvg-logo="https://docdog.top/Logotv/countries/uk/aljazeera.png" group-title="NEWS", AlJazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
@@ -1986,7 +1986,11 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://camo.githubusercontent.com/d988ecead8227e140534a340cd780fff2ebb9aa0ce9491521f86ed5fd29404a1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38642f4e484b5f576f726c642d4a6170616e5f54562e7376672f35313270782d4e484b5f576f726c642d4a6170616e5f54562e7376672e706e67" group-title="NEWS",	NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+;https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
+
+#EXTINF:-1 tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" tvg-id="NHKWorldJapan.jp" group-title=NEWS",NHK WORLD JAPAN
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nnBhYfAvuZy2ktKWVHBJTg", "kid":"/GbvDuNbW6Y53A4TxfipEA" } ], "type":"temporary" }
