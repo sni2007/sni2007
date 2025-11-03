@@ -30,9 +30,10 @@
 #EXTINF:-1 group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,Ria FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
-#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|authorization=Bearer 
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+;#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
+;https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|authorization=Bearer 
+;https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=riafhd
 
 ;#EXTINF:-1  tvg-id="104.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria
 https://smart.pendy.dpdns.org/Smart.php?id=Ria-0
@@ -147,9 +148,6 @@ https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=tv3
-
-#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="Undefined",TV3 [Geo-blocked]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 
 #EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 HD
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
