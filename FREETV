@@ -148,6 +148,9 @@ https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=tv3
 
+#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="Undefined",TV3 [Geo-blocked]
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
+
 #EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 HD
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
