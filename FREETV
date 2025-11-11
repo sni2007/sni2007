@@ -506,7 +506,16 @@ http://103.179.182.117:6768/hls/27/27.m3u8
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997 
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO 
-http://203.77.246.58:4500/udp/239.1.3.84:5000 http://aromatv.co:80/Enjy3637/4JFEBAs359/444177 
+http://203.77.246.58:4500/udp/239.1.3.84:5000 
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444177 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO TEST
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+http://203.77.246.58:4500/udp/239.1.3.84:5000
+http://51.89.166.17:3002/index.php?id=Hbo
 
 #EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family +1 HD" group-title="MOVIES"  tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBOFamily.png",414 HBO FAMILY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
