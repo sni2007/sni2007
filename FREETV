@@ -1560,14 +1560,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=162
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="NHKWorldJapan.id" tvg-name="NHK World Japan" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="VISION+", NHK World Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.id" tvg-name="NHK World Japan" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="NEWS", NHK World Japan
 https://fta1-cdn-flr.visionplus.id/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=76
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="NHKWorldPremium.id" tvg-name="NHK World Premium" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="VISION+", NHK World Premium
+#EXTINF:-1 tvg-id="NHKWorldPremium.id" tvg-name="NHK World Premium" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="NEWS", NHK World Premium
 https://fta4-cdn-flr.visionplus.id/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
